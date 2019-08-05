@@ -1,0 +1,35 @@
+EventId,EventTemplate,Occurrences
+8c7b6197,Loaded Servicing Stack v6.1.7601.23505 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,4
+c9815a7b,WcpInitialize (wcp.dll version 0.0.0.6) called (stack,6
+2d8b5399,Ending TrustedInstaller initialization.,3
+ddb70245,Starting the TrustedInstaller main loop.,4
+70236f55,TrustedInstaller service starts successfully.,3
+492269e4,SQM: Initializing online with Windows opt-in: False,2
+88c7a286,SQM: Cleaning up report files older than 10 days.,2
+7e5b1617,SQM: Requesting upload of all unsent reports.,3
+b679993d,SQM: Failed to start upload [HRESULT = - E_FAIL],8
+500cb726,"SQM: Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6",3
+6342ae85,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",2
+b756d24a,NonStart: Checking to ensure startup processing was not required.,2
+eeebd5c9,"00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0xb6fd90",2
+99c9fe74,"00000005 Creating NT transaction (seq 1), objectname [6]""(null)""",3
+72d8180b,00000006 Created NT transaction (seq 1) result handle,3
+4a10e3aa,CSI perf trace:,4
+c7e0e082,"NonStart: Success, startup processing not required as expected.",2
+0249909f,Startup processing thread terminated normally,3
+d287433e,"Scavenge: Completed, disposition: 0X1",2
+0093dfa1,Session: initialized by client WindowsUpdateAgent.,608
+39b783c8,Warning: Unrecognized packageExtended attribute.,280
+a80a94eb,Expecting attribute name [HRESULT = - CBS_E_MANIFEST_INVALID_ITEM],224
+71c8e0c3,Failed to get next element [HRESULT = - CBS_E_MANIFEST_INVALID_ITEM],224
+951f7099,Failed to internally open package. [HRESULT = - CBS_E_INVALID_PACKAGE],18
+cdad85db,"Read out cached package applicability for package: ApplicableState: 112, CurrentState:112",409
+1238922a,"Read out cached package applicability for package: ApplicableState: 80, CurrentState:112",81
+8f91e4f3,"Read out cached package applicability for package: ApplicableState: 80, CurrentState:0",26
+1573ce74,"Read out cached package applicability for package: ApplicableState: 0, CurrentState:0",24
+784f7d8c,"Read out cached package applicability for package: ApplicableState: 112, CurrentState:0",18
+61d03dc7,Reboot mark refs incremented to: 1,2
+51d9dc41,PopulateComponentFamiliesKey -,4
+9234672b,CSI Store (initialized,3
+91a2e0b1,Unloading offline registry hive:,16
+cd7130e6,Offline image is: read-only,2

@@ -1,0 +1,45 @@
+EventId,EventTemplate,Occurrences
+b73941b2,SQM: <*> <*> <*> <*> <*> <*> <*> <*>,2
+7937e809,0000000b <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+8940ea57,Ending TrustedInstaller <*>,3
+b3fa4900,<*> <*> NT transaction (seq <*> <*> <*>,3
+13c6d536,Reboot mark <*> <*>,1
+2742bb9b,<*> CSI <*> <*>,4
+d03a29ca,Reboot mark <*> <*> <*> <*>,1
+87c0afa7,<*> CSI <*> <*> <*>,3
+d8828526,SQM: <*> <*> <*> <*> <*> <*>,4
+62b9ce83,<*> <*> <*> <*> <*> <*> <*> not <*>,1
+e4f892fd,<*> PopulateComponentFamiliesKey - <*>,2
+7f383869,"Read out cached package applicability for package: <*> ApplicableState: 112, <*>",18
+8980cca0,<*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack <*>,6
+b87542c5,0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7,1
+989d9587,<*> <*> NT transaction (seq <*> <*> <*> <*>,3
+c92ad5db,<*> <*> <*> <*> <*> <*> <*> <*> = <*> <*> = <*> <*> <*> <*>,2
+73e8108a,Warning: Unrecognized packageExtended attribute.,280
+08d4d90f,TrustedInstaller service starts successfully.,2
+a82ce90e,<*> offline registry hive: <*>,8
+60feebf2,"Read out cached package applicability for package: <*> ApplicableState: 112, CurrentState:112",409
+ce30e5c4,0000000a <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+1a729e0f,Session: <*> initialized by client <*>,1
+ebe4a499,Ending <*> <*> <*> <*>,1
+a97751d2,<*> offline registry hive: <*> <*> <*> <*> <*> <*> <*> <*>,8
+894c473b,Loaded Servicing Stack v6.1.7601.23505 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,2
+ca3a146a,Scavenge: <*> <*> <*>,2
+41696364,SQM: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+6afaacca,NonStart: <*> <*> <*> <*> <*> <*> <*>,2
+a8354dd4,<*> CSI <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+4b7ea05f,Read out cached package applicability for package: <*> ApplicableState: <*> <*>,50
+b0e29ac8,Offline image is: read-only,1
+0f69159d,Session: <*> initialized by client WindowsUpdateAgent.,608
+b21ee9d5,Expecting attribute name [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM],224
+5b0a2bb4,Starting <*> <*> <*> <*>,2
+545be2f3,Read out cached package applicability for package: <*> ApplicableState: <*> CurrentState:112,81
+b60d793a,<*> <*> <*> <*> <*> <*> was not <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+ea87c609,Scavenge: <*>,1
+38ffe415,NonStart: <*> to <*> <*> <*> was not <*>,2
+5fc02c81,SQM: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+ee76547d,Starting TrustedInstaller <*>,2
+e1a48b51,<*> processing thread terminated normally,3
+94ac7801,SQM: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+14715014,Failed to <*> <*> <*> [HRESULT = <*>- <*>,242
+155b0de1,Failed to <*> <*> <*> <*> <*> <*> <*> <*>,2

@@ -1,0 +1,18 @@
+EventId,EventTemplate,Occurrences
+da153daf,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost= user=root,491
+b780997e,check pass; user unknown,117
+f1674c82,session opened for user by (uid=0),123
+106baea3,session closed for user,123
+a757c0c2,ALERT exited abnormally with [1],43
+28489703,connection from () at Jun 2005,163
+adc372d2,cupsd startup succeeded,12
+7f5a1cde,hash table entries: bytes),9
+d41d8cd9,,76
+46dc151b,Authentication failed from (): Permission denied in replay cache code,11
+dea5ca56,Kerberos authentication failed,23
+ed68f860,Authentication failed from (): Software caused connection abort,15
+6f6072f0,connection from () at Jul 2005,748
+2d5a7d18,startup succeeded,10
+8eaed8bb,BIOS-e820: -,8
+63a74aa3,device node,12
+a82d5ea6,notify question section contains no SOA,16

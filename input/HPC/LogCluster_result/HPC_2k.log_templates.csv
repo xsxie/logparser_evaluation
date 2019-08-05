@@ -1,0 +1,149 @@
+EventId,EventTemplate,Occurrences
+13856549,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,1
+53666618,Targeting domains:node-D0 and nodes:node-0,1
+82959784,"clusterAddMember (command *{1,1}",2
+87809331,risBoot  (command 1903),1
+92362443,warning,205
+0089397c,NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+01a071ce,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-192,1
+052a4c4d,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-96,1
+0683372e,Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488,1
+06cf24d7,NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+06e0f2fc,"ServerFileSystem: ServerFileSystem domain *{1,1} is full",7
+08a2cd00,boot  (command 3334),1
+09ffddff,NIFF: node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+0bf47a2e,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622,2
+0d68f521,NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0,1
+0d7eff2e,boot (command 3169),2
+0fed7535,wait (command 4176),2
+11d891f7,Fan speeds ( 3552 3534 3391 4299 3515 3479 ),1
+171d42c6,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973),1
+1793c40e,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,1
+1ee85f6c,starting,1
+21a6a64d,"ClusterFileSystem: There is no server for ServerFileSystem domain *{1,1}",26
+23fc766e,ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-182,1
+244cc8f4,ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-240,1
+252f035f,not-responding,1
+26e114e5,boot (command 2316),2
+291f390d,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442,1
+2ce76764,NIFF: node node-202 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+2f9a7072,Targeting domains:node-D3 and nodes:node-[104-127] child of command 1963,1
+3224cf30,Link error on broadcast tree Interconnect-1T00:00:2:0,2
+347bb90a,"NIFF: node *{1,1} has detected an available network connection on network 0.0.0.0 via interface alt0",2
+350b730f,NIFF: node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+372dc52b,"Targeting domains:node-D4 and *{1,1} child of command *{1,1}",2
+3b38bec1,closing,1
+3c403584,NIFF: node node-139 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+3d59de05,boot  (command 2517),1
+3d6bda01,NIFF: node node-30 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+3e0a6532,NIFF: node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+3fde876a,wait  (command 2257),1
+411b0491,"Targeting *{1,2} and *{2,3}",2
+42cd5c38,Targeting domains:node-D2 and nodes:node-84,1
+42e29531,blocked,15
+445dbb18,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,1
+477772a3,boot  (command 2257),1
+47bf867e,Link ok,13
+488fc71a,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+49667f5b,NIFF: node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+49ca3699,boot  (command 4176),1
+4cc836f0,"NIFF: node *{1,1} has detected an available network connection on network 5.5.226.0 via interface alt0",7
+5452c51c,Command has been aborted,1
+55c873c1,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-160,1
+57c1042c,bootGenvmunix  (command 4185),1
+57d44ac4,"NIFF: node *{1,1} has detected an available network connection on network 5.5.224.0 via interface alt0",14
+5829ab64,"ClusterFileSystem: ServerFileSystem domain *{1,1} is no longer served by node node-11",3
+5ad7371e,wait (command 3981),2
+5c5be4d3,NIFF: node node-69 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+62a54a09,NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+6378886d,psu failure\ ambient,5
+66311a07,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),2
+6715ee84,ServerFileSystem: ServerFileSystem domain root22_local is full,3
+6b3bd128,boot  (command 1973),1
+73092f9f,boot (command 2092) Error: HALT asserted\  cannot continue,1
+730ba5ad,NIFF: node node-202 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+7470259f,NIFF: node node-205 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+79644ca8,NIFF: node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+7dec2f8a,NIFF: node node-189 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+81b1d3ee,NIFF: node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+81e68778,"NIFF: node *{1,1} has detected an available network connection on network 10.96.0.0 via interface scip0",2
+8241456c,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),10
+852c55f9,"wait (command *{1,1}",53
+8590fd04,wait  (command 1973),1
+8661a661,NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0,2
+86d6833d,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,1
+86e74efc,wait  (command 3519),1
+87020e2c,wait (command 2217),2
+8dc164b1,link errors remain current,56
+9052dfb1,wait  (command 3334),1
+947608b0,"Link error on broadcast tree *{1,1}",2
+95b17ab8,ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-4,1
+971ffe4e,NIFF: node node-26 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+9aecb16e,Command has completed successfully,10
+9d3232f1,Temperature (41C) exceeds warning threshold,2
+9daed7df,ServerFileSystem: ServerFileSystem domain root25_local is full,1
+9f565435,NIFF: node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+a12ddb12,active,5
+a400f4fb,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0,2
+a5882550,Link in reset,9
+a64da173,NIFF: node node-187 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+a64e1c9f,boot (command 2616),3
+a6f5046a,"Fan speeds ( 3534 3534 3375 *{1,1} 3497 3479 )",2
+a7d28c62,NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0,2
+a8daccfb,NIFF: node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+a919e149,NIFF: node node-17 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+a95e3bd1,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),52
+aa2558b7,NIFF: node node-189 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+adf6e0a3,ambient,292
+aedc7bac,NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0,1
+b094b0a3,NIFF: node node-244 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+b209159d,NIFF: node node-29 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+b25e2fc2,ClusterFileSystem: ServerFileSystem domain root3_domain is no longer served by node node-128,1
+b3be2b82,running,162
+b5eee1cf,"ClusterFileSystem: ServerFileSystem domain *{1,1} is no longer served by node *{1,1}",10
+b75a067c,bootGenvmunix  (command 1903),1
+bafc686d,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-45,1
+bbbf8b60,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),15
+bcc6f6de,"ClusterFileSystem: ServerFileSystem domain *{1,1} is no longer served by node node-96",3
+bde73f88,Failed subcommands 3406,1
+be8895e5,wait (command 2817),2
+c10fb7a8,NIFF: node node-7 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+c35aec7c,critical,20
+c393ab1d,Link error,13
+c457f8b2,"Fan speeds ( 3552 3534 3375 *{1,1} 3515 3479 )",4
+c4cfa318,NIFF: node node-45 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+cdcbc24c,NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+cdd0d91a,Fan speeds ( 3534 3534 3375 4470 3497 3479 ),1
+d0576db7,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231,2
+d332c6d5,NIFF: node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+d40bef06,ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-241,1
+d4bcb044,"halt (command *{1,1}",3
+d5c9242a,NIFF: node node-240 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+d6c86d91,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-160,1
+d6e7d46b,"boot (command *{1,1}",54
+d82c8b81,Fan speeds ( 3552 3534 3375 4245 3515 3479 ),2
+d8d7d678,NIFF: node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+da7a4c4e,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-187,1
+dbe41463,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128,1
+de17d515,boot  (command 3519),1
+df5ad4f2,"ClusterFileSystem: ServerFileSystem domain *{1,1} is no longer served by node node-224",3
+e0cfcb3a,"ClusterFileSystem: ServerFileSystem domain *{1,1} is no longer served by node node-0",2
+e13d082a,power/control problem,1
+e2217656,Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489,1
+e2a67422,"NIFF: node *{1,1} has detected an available network connection on network 10.128.0.0 via interface ee0",26
+e2b5b958,not responding,60
+e382a24f,ClusterFileSystem: There is no server for ServerFileSystem domain storage742,2
+e47814e7,NIFF: node node-176 has detected an available network connection on network 5.5.226.0 via interface alt0,1
+e8b6f3ea,wait  (command 2517),1
+eb4ff194,normal,206
+ecbc497d,NIFF: node node-139 has detected an available network connection on network 5.5.224.0 via interface alt0,1
+f128d07b,ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-216,1
+f2af71f1,Fan speeds ( 3552 3534 3375 4470 3515 3479 ),1
+f2ea4962,Component State Change: Component \042alt0\042 is in the unavailable state (HWID),11
+f5c5f28a,ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-77,1
+fa68cf3f,Linkerror event interval expired,394
+fadd7c7d,ServerFileSystem: ServerFileSystem domain root14_local is full,1
+fb9ac961,NIFF: node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+fe1280e2,configured out,91
+fe86ef8c,NIFF: node node-26 has detected an available network connection on network 10.128.0.0 via interface ee0,1
+ff656570,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-219,1

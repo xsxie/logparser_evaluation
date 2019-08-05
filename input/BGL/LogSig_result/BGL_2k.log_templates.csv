@@ -1,0 +1,138 @@
+EventId,EventTemplate,Occurrences
+3aa50e45,instruction cache parity error corrected,42
+def747b4,double-hummer alignment exceptions,66
+d908fa5f,"CE sym 2, at mask",6
+049e6f37,ciod: failed to read message prefix on control stream (CioStream socket to,3
+d539d9cc,CE sym at mask 0x40,4
+e727c5b7,generating,716
+806fb2b9,"CE sym 30, at 0x042358a0, mask 0x20",3
+9f7cd7e7,force load/store alignment...............0,2
+d5853204,CE sym at mask 0x10,12
+f02b365e,"CE sym 5, at mask 0x04",5
+dd143159,ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map,2
+f3eed4bf,data cache search parity error detected. attempting to correct,7
+84ba499c,ciod: LOGIN failed: No such file or directory,18
+473a4daf,CE sym at mask 0x02,10
+883be1ee,"1 ddr errors(s) detected and corrected on rank 0, symbol bit",18
+69570568,CE sym at mask 0x20,8
+38a7307d,data TLB error interrupt,60
+b524a420,CE sym at mask 0x08,7
+a2335b6b,Node card is not fully functional,14
+d2c9db9b,data storage interrupt,30
+2c050cb7,instruction address: 0x00004ed8,22
+ac8a6999,data address: 0x00000002,9
+74814646,machine check: i-fetch......................0,5
+08264f42,program interrupt: illegal instruction......0,8
+8797b4b5,exception syndrome register: 0x00800000,6
+7cc10966,data store interrupt caused by dcbf.........0,10
+5f7a3f75,program interrupt: privileged instruction...0,5
+f0490912,program interrupt: trap instruction.........0,1
+14c982d9,program interrupt: imprecise exception......0,5
+40c9c002,store operation.............................1,2
+4f884f50,machine state register: 0x00002000,4
+6a308701,"problem state (0=sup,1=usr).......0",3
+4a855bbd,floating point instr. enabled.....1,5
+f28dcd0f,auxiliary processor.........................0,5
+511c1d0d,machine check enable..............0,2
+cba9de64,floating pt ex mode 0 enable......0,5
+3cd4d8b4,program interrupt: unimplemented operation..0,2
+2ec4bdb1,debug interrupt enable............0,1
+3971a417,byte ordering exception.....................0,2
+ae9a7a4f,data address space................0,5
+e19f7ea0,core configuration register: 0x00002000,7
+df88d884,program interrupt: fp cr field .............0,5
+1335bf9d,guaranteed instruction cache block touch.0,2
+53a936ba,guaranteed data cache block touch........1,1
+baaf5ad4,icache prefetch depth....................0,1
+8af037ec,icache prefetch threshold................0,2
+268cafb1,"total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",66
+f7c382bd,special purpose registers:,1
+d7cb53a5,lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,1
+af999985,rts internal error,1
+fe410cc8,debug wait enable.................0,3
+940724cb,instruction address space.........0,1
+228fcad4,disable store gathering..................0,4
+a9ddfd24,total of 1 ddr error(s) detected and corrected,11
+67e2f29e,"ciod: Error loading invalid or missing program image, No such file or directory",21
+fd9a326d,ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor,2
+77698bfd,"CE sym 0, at mask 0x40",7
+26291376,iar dear,217
+2a777943,1146800 double-hummer alignment exceptions,43
+6b81a761,"CE sym 12, at 0x18e33e80, mask 0x04",3
+6355bc2b,"CE sym 27, at 0x1b70b860, mask 0x80",3
+c1b6af49,"CE sym 23, at 0x03f89c00, mask 0x10",3
+0d02c0e2,program interrupt,3
+1db6496e,New ido chip inserted into the database: v=13 t=4,3
+3eb4472a,Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005,2
+9d5d6232,Can not get assembly information for node card,6
+0654b74d,ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile,2
+9eb6435d,5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,2
+f582ab6c,ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required,2
+2355b700,ciod: pollControlDescriptors: Detected the debugger died.,4
+220716fc,rts panic! - stopping execution,2
+d9bded5e,Lustre mount FAILED : : point /p/gb1,12
+6e12673f,Machine State Register: 0x0002f900,2
+22fbe7b4,CE sym at mask 0x04,6
+f848d6c7,size of scratchpad portion of L3.........0 (0M),2
+f8c496cb,8 floating point alignment exceptions,37
+29c25e03,15 floating point alignment exceptions,14
+6a28efe5,total of ddr error(s) detected and corrected over seconds,6
+c024faf2,5 floating point alignment exceptions,22
+1e337049,685 floating point alignment exceptions,4
+3a354814,1005 floating point alignment exceptions,5
+bf9c5f07,"ciod: Received signal 15, code=0, errno=0,",17
+548b7855,"NFS Mount failed on slept 15 seconds, retrying (1)",3
+1659537e,Node card VPD check: U11 node in processor card slot do not match. VPD ecid found,9
+e3703b8d,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",35
+7e173e6e,Ido chip status changed: v=13 t=1 status=M Thu Aug 04 PDT 2005,3
+c42200c4,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,1
+5c91f41f,tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,5
+0d059795,"CE sym 34, at 0x11e7ed80, mask 0x80",2
+262ac5c8,"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",17
+20a6499e,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to Link has been severed,11
+d5136bdb,rts: kernel terminated for reason 1004,6
+076092e2,ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm,6
+000d140b,ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi,9
+25413dba,ciod: generated 64 core files for program,7
+07d9ed29,1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected,2
+af15dcb0,"CE sym 16, at mask 0x80",3
+dadaccd9,"CE sym 21, at mask",3
+ea3efa0b,suppressing further interrupts of same type,2
+7fbf4595,"CE sym 25, at mask 0x40",5
+67d49f9f,rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,1
+2be009e3,critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire,1
+571ba03e,"ciod: Error loading invalid or missing program image, Permission denied",19
+51e597af,"CE sym 23, at 0x1793c560, mask 0x01",2
+f1f86793,critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire,1
+a667976e,"Error receiving packet on tree network, expecting type 57 instead of type 3 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",5
+920eb57c,640404 floating point alignment exceptions,5
+12df0ad1,16736445 floating point alignment exceptions,2
+3a26b56d,487476 floating point alignment exceptions,2
+b24a607d,2354412 floating point alignment exceptions,15
+ed273b74,62500 floating point alignment exceptions,3
+5430a5af,74350836 floating point alignment exceptions,2
+01da1d8e,16604010 floating point alignment exceptions,2
+3d226375,16469355 floating point alignment exceptions,2
+fb9ddc97,ciod: generated 128 core files for program,8
+4d3e95f5,441348 floating point alignment exceptions,2
+fd004ed0,407736 floating point alignment exceptions,2
+d14bbae6,428412 floating point alignment exceptions,2
+60f43f2b,iar 00113898 dear 0fee9c4c,2
+58b7753b,2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,2
+d98e59cc,"CE sym 27, at 0x00284720, mask 0x11",2
+94bfd997,iar 00106448 dear 0246dacc,1
+e84d0e9f,"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type",3
+0b57df41,18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds,2
+5a695884,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),7
+e57e9490,ciod: Error reading message prefix on CioStream socket to Connection reset by peer,6
+68cda9ce,ciod: Error reading message prefix on CioStream socket to Link has been severed,6
+92420707,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,51
+c1951db5,"10686 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+9158fab4,"10732 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+8d01b807,"10728 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+4b1c5ef0,"10646 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+eae7d165,"10706 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+bae869d2,"10752 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",1
+7ce8354e,"ddr error(s) detected and corrected on rank 0, symbol over seconds",7
+64d56eed,minus normalized number..................0,1
+1239cef9,"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",1

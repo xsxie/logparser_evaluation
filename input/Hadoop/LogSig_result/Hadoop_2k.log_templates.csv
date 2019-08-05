@@ -1,0 +1,20 @@
+EventId,EventTemplate,Occurrences
+d41d8cd9,,93
+d5566982,for,31
+1bbd3b4e,Task Transitioned from to SCHEDULED,31
+1569c785,Processing the event EventType: for container,27
+b8ae61a6,Resolved to /default-rack,39
+efd54b08,TaskAttempt Transitioned from to,42
+05954a1f,After Scheduling: PendingReds:1 ScheduledReds:0 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContRel:0 RackLocal:3,17
+a03a2cf9,"Recalculating schedule, headroom=<memory:0, vCores:-27>",131
+773f4a2b,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,131
+04b44295,Got allocated containers 1,12
+541ef6bf,Shuffle port returned by ContainerManager for : 13562,12
+f9285a03,Progress of TaskAttempt is :,290
+dd88a26c,Opening proxy :,23
+3448dae1,TaskAttempt: using containerId: on NM:,14
+5f56763b,JVM with ID : asked for a task,12
+c0c6e3a7,Address change detected. Old: msra-sa-41/:9000 New: msra-sa-41:9000,476
+6cdea6b0,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for seconds. Will retry shortly ...,326
+b4ff2357,ERROR IN CONTACTING RM.,147
+ca099a77,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",146

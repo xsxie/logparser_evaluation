@@ -1,0 +1,17 @@
+EventId,EventTemplate,Occurrences
+b19dc00a,PacketResponder 1 for block blk_<*> terminating,108
+b13e9113,PacketResponder 0 for block blk_<*> terminating,100
+79f078f7,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.25<*>:50010 is added to blk_<*> size 67108864,294
+e7f1b12d,PacketResponder 2 for block blk_<*> terminating,103
+4b9cef88,Received block blk_<*> of size 67108864 from /10.25<*>,277
+0858f949,Receiving block blk_<*> src: /10.25<*> dest: /10.25<*>:50010,292
+dc12783a,BLOCK* NameSystem.allocateBlock: /user/root/<*>. blk_<*>,115
+d23206c6,Verification succeeded for blk_<*>,20
+c5a3a22f,Received block blk_<*> of size <*> from /10.25<*>,15
+b900dda4,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.25<*>:50010 is added to blk_<*> size <*>,20
+d5cf61f8,Deleting block blk_<*> file /mnt/hadoop/dfs/data/current/<*>,263
+b8e3bf5d,10.25<*>:50010 Served block blk_<*> to /10.25<*>,80
+c07d2a0f,10.25<*>:50010:Got exception while serving blk_<*> to /10.25<*>:,80
+179bb809,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of 10.25<*>:50010,224
+d1cd25b5,<*> <*> <*> <*> <*> <*> <*> to <*>,7
+b50339a1,NONE,2

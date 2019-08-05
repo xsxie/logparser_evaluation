@@ -1,0 +1,311 @@
+EventId,EventTemplate,Occurrences
+ff52c40c,<*>,1169
+508db152,onExtend:1514038530000 14 0 4,1
+b080c338,onReceive action: android.intent.action.SCREEN_ON,17
+dd5e8a75,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,17
+b8f897f8,flush sensor data,17
+2ef25739,getTodayTotalDetailSteps =,242
+629d6f79,REPORT :,136
+db886bff,onExtend:1514038530000 0 0 4,1
+a29af33e,onExtend:1514038530000 1 0 4,1
+6e53bca8,onExtend:1514038531000 1 0 4,1
+e6815545,onExtend:1514038531000 2 0 4,1
+3e65bed3,onExtend:1514038532000 1 0 4,1
+4bd97414,onExtend:1514038533000 1 0 4,2
+01aa5dcd,onExtend:1514038534000 1 0 4,1
+d447ec07,onExtend:1514038535000 1 0 4,2
+b891c816,onReceive action: android.intent.action.SCREEN_OFF,17
+ffb006b5,"screen status unknown,think screen on",1
+b416b463,onExtend:1514038536000 0 0 4,1
+4e7d222e,onExtend:1514038536000 1 0 4,2
+3aa44b19,onExtend:1514038537000 1 0 4,1
+6e44696a,onExtend:1514038538000 1 0 4,2
+690adadd,onExtend:1514038539000 1 0 4,2
+aec258d1,onExtend:1514038540000 1 0 4,1
+72a41cf8,onExtend:1514038541000 1 0 4,2
+6c5010de,onExtend:1514038542000 1 0 4,2
+c6ecbf76,onExtend:1514038543000 1 0 4,1
+8f841706,onExtend:1514038544000 1 0 4,2
+4664ebd0,onExtend:1514038545000 1 0 4,1
+9df96938,onExtend:1514038546000 1 0 4,2
+78b2201e,onExtend:1514038547000 1 0 4,1
+c59d6246,onExtend:1514038548000 1 0 4,2
+c1423c9a,onExtend:1514038549000 1 0 4,1
+c4fb7e1f,onExtend:1514038550000 1 0 4,2
+f6bd4ae7,onExtend:1514038551000 1 0 4,1
+468d2f72,onExtend:1514038552000 2 0 4,1
+3cc36ba4,onExtend:1514038553000 1 0 4,1
+5ec38798,onExtend:1514038554000 2 0 4,1
+68a95c93,onExtend:1514038555000 1 0 4,1
+cad1bfa6,onExtend:1514038556000 2 0 4,2
+23e9e34c,onExtend:1514038558000 1 0 4,1
+4d17ce13,onExtend:1514038560000 1 0 4,1
+d22d2f60,onExtend:1514038561000 0 0 0,1
+ddb62e48,onExtend:1514038639000 0 0 4,1
+5ed91a3e,onExtend:1514038641000 2 0 4,2
+bcb37be7,onExtend:1514038642000 2 0 4,2
+7ecadf08,onExtend:1514038643000 2 0 4,2
+f4cee596,onExtend:1514038644000 2 0 4,2
+0688924e,onExtend:1514038645000 1 0 4,1
+01e50f99,onExtend:1514038645000 3 0 4,1
+6aafab30,onExtend:1514038648000 0 0 0,1
+c7e73796,onExtend:1514038665000 1 0 4,1
+b2c49c00,onExtend:1514038666000 2 0 4,2
+f35c5021,onExtend:1514038667000 2 0 4,2
+f4e91066,onExtend:1514038668000 1 0 4,1
+eb655d75,onExtend:1514038668000 2 0 4,1
+912548eb,onExtend:1514038669000 2 0 4,2
+aac9da3e,onExtend:1514038670000 2 0 4,2
+3e367793,onExtend:1514038671000 1 0 4,1
+706fd14f,onExtend:1514038671000 2 0 4,1
+7b79fd5e,onExtend:1514038672000 2 0 4,2
+fa296cc5,onExtend:1514038673000 1 0 4,1
+ab0488e1,onExtend:1514038674000 1 0 4,1
+58fd99d1,onExtend:1514038675000 1 0 4,1
+a2bf9529,onExtend:1514038676000 1 0 4,1
+a9eaacbf,onExtend:1514038677000 1 0 4,1
+bc1dd069,onExtend:1514038678000 1 0 4,1
+08440841,onExtend:1514038678000 2 0 4,1
+4b9b56e1,onExtend:1514038680000 2 0 4,1
+ebb41636,onExtend:1514038682000 1 0 4,1
+8ee46654,onExtend:1514038683000 1 0 4,1
+8d7e7c8c,onExtend:1514038686000 1 0 4,1
+df33a111,onExtend:1514038686000 0 0 0,1
+1253f580,onExtend:1514038748000 3 0 4,1
+dbcc1d17,onExtend:1514038749000 5 0 4,1
+582ad81c,onExtend:1514038749000 2 0 4,1
+98a512ca,onExtend:1514038750000 2 0 4,2
+ec23b8ad,onExtend:1514038751000 2 0 4,2
+ebc7752f,onExtend:1514038752000 3 0 4,1
+e2f94c1e,onExtend:1514038752000 4 0 4,1
+44407a40,onExtend:1514038753000 1 0 4,1
+a2dd29bd,onExtend:1514038755000 14 0 4,1
+b194dc21,onExtend:1514038756000 0 0 0,1
+b08a0d54,onExtend:1514038756000 6 0 4,1
+36bf451a,onExtend:1514038798000 0 0 4,2
+0635a938,flushTempCacheToDB by stand,1
+719fba2b,Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112,1
+0da159ce,writeDataToDB size 327,1
+5fed72bf,getBinderPackageName packageName = com.huawei.health,8
+824b3d7b,"getAppContext() isAppValid health or wear, packageName = com.huawei.health",2
+3e803772,onExtend:1514038799000 3 0 4,1
+c6841826,insertHiHealthData() checkAppType 0 appID = 1,2
+c0b75f14,"insertHiHealthData() size = 4,app = 1,One Data Type = 40002,packageName = com.huawei.health,writeStatType = 0",1
+dc24d800,"saveHealthDetailData() deviceID = 2,clientID=1,id=1",2
+f7354682,"saveStatData() type =40002,time = 1513958400000,statClient = 2,who is 1",1
+d44a13ee,"new date =20171223, type=40002,7163.0,old=6983.0",1
+707d4c23,"saveStatData() type =40003,time = 1513958400000,statClient = 2,who is 1",1
+f9bf35c4,"new date =20171223, type=40003,153367.0,old=210654.54000000004",1
+953938f4,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003",1
+1a254d49,"saveStatData() type =40005,time = 1513958400000,statClient = 2,who is 1",1
+b8c9b91e,"new date =20171223, type=40005,240.0,old=330.0",1
+92a37083,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005",1
+73389a3e,"saveStatData() type =40004,time = 1513958400000,statClient = 2,who is 1",1
+a920b4ac,"new date =20171223, type=40004,5112.0,old=4985.0",1
+1e781b01,"bulkSaveDetailHiHealthData() size = 4,totalTime = 30",1
+960958ed,startListenerChange subscribeList = [1],2
+514abfb6,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT",1
+6c66c479,insertHiHealthData() end totalTime = 45,1
+da883d28,uploadStaticsToDB() onResult type = 4 obj=true,1
+161ba043,uploadStaticsToDB failed message=true,1
+71835e93,checkInsertStatus stepSum or calorieSum is enough,2
+42ded8e2,checkInsertStatus stepStatSum or calorieStatSum is enough,2
+7c62ae10,"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0",2
+03c259bc,"startInsertSportSync start auto sync,app is 1",2
+540df4b1,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0",2
+f034e86a,"startInsertSportSync first 500 steps sync,do all sync",2
+ba442955,"startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",2
+9858466f,"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0",1
+6e805a4c,needAutoSync autoSyncSwitch is open,5
+e4156b58,"initDataPrivacy the dataPrivacy switch is open, start push health data!",5
+38085a58,initDataPrivacy the dataPrivacy is true,5
+f257f214,"initUserPrivacy the userPrivacy switch is open, start push user data!",5
+1d4b8a6f,initUserPrivacy the userPrivacy is true,5
+3f9b4da2,ifCanSync not! no cloud version,5
+823cf790,"bulkSaveDetailHiHealthData() size = 20,totalTime = 34",1
+b0601a2a,"new date =20171223, type=40002,6724.0,old=7163.0",1
+14cec044,"new date =20171223, type=40004,4800.935999999999,old=5112.0",1
+c51de595,"new date =20171223, type=40003,214445.88000000006,old=210654.54000000004",1
+95940cd9,"new date =20171223, type=40005,330.0,old=330.0",1
+535eb45e,"new date =20171223, type=40011,6314.0,old=6137.0",1
+82d12098,"new date =20171223, type=40031,4508.196000000001,old=4381.818",1
+f0b1f8d2,"new date =20171223, type=40021,135245.88,old=131454.53999999995",1
+192822f7,"new date =20171223, type=40013,410.0,old=410.0",1
+5ab09cca,"new date =20171223, type=40034,292.73999999999995,old=292.73999999999995",1
+30cc530b,"new date =20171223, type=40024,79200.0,old=79200.0",1
+1c555791,"new date =20171223, type=40041,6720.0,old=6480.0",1
+fd82526b,"new date =20171223, type=40044,420.0,old=420.0",1
+e97423e0,"new date =20171223, type=40006,7140.0,old=6900.0",1
+b13a454b,"saveRealTimeHealthDatasStat() size = 1,totalTime = 48",1
+0d7f3c15,insertHiHealthData() end totalTime = 94,1
+c2e9ad21,InsertCallBack() onSuccess type = 0 data=true,1
+ff3ee216,InsertEvent success begin:25233975 end:25233979,1
+adf70ff5,onExtend:1514038799000 2 0 4,1
+ba51429a,onExtend:1514038800000 2 0 4,1
+faf1da2c,onExtend:1514038800000 3 0 4,1
+ce5ef083,onExtend:1514038801000 3 0 4,1
+51055eee,onExtend:1514038801000 1 0 4,1
+decb2626,onExtend:1514038802000 2 0 4,1
+ba01a09f,onExtend:1514038802000 3 0 4,1
+6c29053b,onExtend:1514038803000 2 0 4,2
+48fead42,onExtend:1514038804000 2 0 4,1
+b7221353,onExtend:1514038805000 1 0 4,1
+60ff7d97,onExtend:1514038806000 1 0 4,1
+7943c58e,onExtend:1514038808000 1 0 4,2
+0a9e5284,onExtend:1514038813000 0 0 0,1
+dff7ef16,onExtend:1514038816000 0 0 5,1
+f9dc8102,onExtend:1514038819000 0 0 5,1
+fa2c3e7a,onExtend:1514038879000 0 0 5,1
+5e8bbdce,onExtend:1514038939000 0 0 5,1
+8f4dcd52,onExtend:1514038999000 0 0 5,1
+a03b2242,onExtend:1514039059000 0 0 0,1
+e4f86e75,onExtend:1514039062000 0 0 0,1
+30829b5a,onExtend:1514039091000 0 0 5,1
+b32cb9eb,onExtend:1514039093000 0 0 0,1
+b8117fba,onExtend:1514039098000 0 0 5,1
+409de4ea,onExtend:1514039112000 0 0 5,1
+e9ff2d6a,onExtend:1514039172000 0 0 5,1
+8db15864,onExtend:1514039232000 0 0 5,1
+fad48281,onExtend:1514039292000 0 0 5,1
+7c6e0515,onExtend:1514039352000 0 0 5,1
+81a00636,onExtend:1514039412000 0 0 0,1
+d82ffe3e,onExtend:1514039424000 0 0 0,1
+35bfabac,onExtend:1514039492000 0 0 5,1
+6ddb68bf,onExtend:1514039515000 0 0 0,1
+77861528,onExtend:1514039575000 0 0 0,1
+7c2f0f4c,onExtend:1514039520000 0 0 0,1
+3ba40b70,startTimer start autoSync,3
+887189a7,"startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",3
+9b0d93a6,stepSyncOrNot appSynTimes is 0,3
+0757dff5,onExtend:1514039590000 0 0 5,1
+7c0a1fe2,onExtend:1514039626000 0 0 0,2
+74dbcad6,onExtend:1514039834000 0 0 5,1
+68ca7a19,onExtend:1514039857000 0 0 5,1
+b40e33c0,onExtend:1514039917000 0 0 5,1
+104e6c3c,onExtend:1514039977000 0 0 0,1
+39f58536,onExtend:1514039965000 0 0 0,1
+d204514d,onExtend:1514040348000 0 0 5,1
+de41741e,onExtend:1514040354000 0 0 0,1
+156115dc,onExtend:1514040662000 0 0 5,1
+88e26e57,onExtend:1514040697000 0 0 0,2
+d54322d8,onExtend:1514040700000 0 0 0,1
+cdd13b76,onExtend:1514040708000 0 0 5,1
+9af5e836,onExtend:1514040766000 0 0 5,2
+1b4c556d,onExtend:1514040766000 0 0 0,1
+f8737a3c,onExtend:1514040772000 0 0 5,1
+c3a97cc3,onExtend:1514040776000 0 0 5,1
+e17731f1,onExtend:1514040836000 0 0 0,1
+1cdff5ba,onExtend:1514040781000 0 0 0,1
+258932cd,onExtend:1514040786000 0 0 5,1
+75b3cf75,onExtend:1514040793000 0 0 5,2
+6373d8f4,onExtend:1514040793000 0 0 0,1
+2906728b,onExtend:1514040895000 0 0 5,1
+2f714e8c,onExtend:1514040956000 0 0 5,2
+a8ef2b9d,onExtend:1514040956000 0 0 0,1
+b5f03595,onExtend:1514040966000 0 0 5,1
+e7fb5fe6,onExtend:1514041026000 0 0 5,1
+12677650,onExtend:1514041086000 0 0 5,1
+a415f56d,onExtend:1514041146000 0 0 5,1
+d8cca0c2,onExtend:1514041206000 0 0 5,1
+8ac8740c,onExtend:1514041266000 0 0 5,1
+6429554a,onExtend:1514041326000 0 0 5,1
+0e7c017e,onExtend:1514041386000 0 0 5,1
+9eadeb66,onExtend:1514041446000 0 0 5,1
+77585a82,onExtend:1514041506000 0 0 5,1
+9dad70f0,onExtend:1514041566000 0 0 5,1
+07f138ed,onExtend:1514041626000 0 0 5,1
+ddaf91ca,onExtend:1514041627000 0 0 5,1
+a4d95e77,onExtend:1514041627000 0 0 0,1
+373a1621,onExtend:1514041699000 0 0 5,1
+f0d528eb,onExtend:1514041722000 0 0 5,1
+50e9e626,onExtend:1514041782000 0 0 5,1
+d6ac82ab,onExtend:1514041842000 0 0 5,1
+07aeb75c,onExtend:1514041902000 0 0 5,1
+72fd9a6c,onExtend:1514041962000 0 0 5,1
+12dcbe34,onExtend:1514042022000 0 0 5,1
+397b210e,onExtend:1514042082000 0 0 5,1
+8352c94f,onExtend:1514042064000 0 0 5,1
+e66ac1ae,onExtend:1514042064000 0 0 0,1
+61446ed9,onExtend:1514042082000 2 0 0,1
+c271f06f,onExtend:1514042082000 1 0 4,1
+e8ce6f17,onExtend:1514042083000 1 0 4,1
+d30d7626,onExtend:1514042083000 3 0 4,1
+d0bbcb53,onExtend:1514042084000 2 0 4,2
+6331c2e8,onExtend:1514042085000 2 0 4,1
+631efd36,onExtend:1514042085000 3 0 4,1
+f942873c,onExtend:1514042086000 3 0 4,2
+e5941b21,onExtend:1514042087000 1 0 4,1
+8e6476ad,onExtend:1514042088000 2 0 4,1
+bed259da,onExtend:1514042091000 0 0 0,1
+1ffd8aef,onExtend:1514042182000 0 0 5,1
+252738e2,onExtend:1514042205000 0 0 5,1
+580ca004,onExtend:1514042265000 0 0 0,1
+c379c6c1,onExtend:1514042261000 0 0 0,1
+22600c7f,onExtend:1514042262000 0 0 0,2
+53d13cca,onExtend:1514042360000 0 0 5,1
+6e520c46,onExtend:1514042361000 0 0 0,1
+9b55de63,onExtend:1514042595000 0 0 5,1
+2f7b5cdc,onExtend:1514042599000 0 0 0,1
+ed25cad6,onExtend:1514042944000 0 0 5,1
+cb587860,onExtend:1514042945000 0 0 0,1
+9e32b7bf,onExtend:1514043434000 0 0 5,1
+4f50012d,onExtend:1514043436000 0 0 0,1
+93193363,onExtend:1514043610000 0 0 5,1
+259f750c,onExtend:1514043614000 0 0 0,1
+9a4119a8,onExtend:1514043759000 0 0 0,1
+007a0076,onExtend:1514043967000 0 0 5,1
+09dafd74,onExtend:1514043974000 0 0 0,1
+866fd93a,onExtend:1514044249000 0 0 0,1
+333aa563,onExtend:1514044377000 0 0 5,1
+320ba98b,onExtend:1514044380000 0 0 0,1
+2493a428,onExtend:1514044395000 0 0 5,1
+6c1a6733,onExtend:1514044397000 0 0 0,1
+f14b98b5,onExtend:1514044405000 0 0 5,1
+580d8d3f,onExtend:1514044411000 0 0 0,1
+d19aa145,onExtend:1514044420000 0 0 5,1
+07069f12,onExtend:1514044422000 0 0 0,1
+e2d9819d,onExtend:1514044431000 0 0 5,1
+27fc51fd,onExtend:1514044437000 0 0 0,1
+72cdfba5,onExtend:1514044468000 0 0 5,1
+04abe504,onExtend:1514044469000 0 0 0,1
+2481e6ec,onExtend:1514044474000 0 0 5,1
+7bd4aae5,onExtend:1514044475000 0 0 0,1
+6d112070,onExtend:1514044485000 0 0 5,1
+e98952dc,onExtend:1514044487000 0 0 0,1
+d6c96bb2,onExtend:1514044494000 0 0 5,1
+59bdebab,onExtend:1514044496000 0 0 0,1
+2bd0bb8f,onExtend:1514044524000 0 0 5,1
+1e3e5dbc,onExtend:1514044525000 0 0 0,1
+67fc94c1,onExtend:1514044572000 0 0 5,1
+f68be5fd,onExtend:1514044573000 0 0 0,1
+0500b539,onExtend:1514044588000 0 0 5,1
+830249d0,onExtend:1514044595000 0 0 0,1
+20106933,onExtend:1514044654000 0 0 5,1
+f9f06365,onExtend:1514044662000 0 0 0,1
+9adf04b9,setBasicStandardSteps basicStandardStep=3786 restartSteps=0,1
+8b3a278c,reload : 3786 restar 0,1
+9bf7cf41,setGoalNotifiShownRecord 1514044800237 false,1
+e4512fcc,onExtend:1514044801000 0 0 0,1
+cbcf6953,onExtend:1514044805000 0 0 5,1
+aeb2c07d,onExtend:1514044806000 0 0 0,1
+1b6002eb,onExtend:1514045123000 0 0 0,1
+1f9adb83,onExtend:1514045177000 0 0 0,1
+2190fc60,onExtend:1514045222000 0 0 5,1
+5893bad7,onExtend:1514045224000 0 0 0,1
+235c5ec2,onExtend:1514045240000 0 0 5,1
+2c2a86e7,onExtend:1514045241000 0 0 0,1
+b54b9b16,onExtend:1514045344000 0 0 5,1
+ffc2a88f,onExtend:1514045346000 0 0 0,1
+205dd004,onExtend:1514045374000 0 0 5,1
+522703d4,onExtend:1514045375000 0 0 0,1
+9e3b11d7,onExtend:1514045409000 0 0 5,1
+1124d006,onExtend:1514045410000 0 0 0,1
+c8155f9f,onExtend:1514045442000 0 0 5,1
+3ac50c15,onExtend:1514045443000 0 0 0,1
+bbfbd1bc,onExtend:1514045516000 0 0 5,1
+6c1bc4a8,onExtend:1514045517000 0 0 0,1
+3f5e1337,onExtend:1514045753000 0 0 0,1
+4611b5c1,onExtend:1514046316000 0 0 5,1
+1b79532e,onExtend:1514046317000 0 0 0,1
+bd604c27,onExtend:1514046505000 0 0 5,1
+bf7e24c5,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223",1

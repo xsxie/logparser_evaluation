@@ -1,0 +1,53 @@
+EventId,EventTemplate,Occurrences
+42309073,[client 24.147.151.74] Directory index forbidden by rule: /var/www/html/,1
+3.44E+39,[client 221.232.178.24] Directory index forbidden by rule: /var/www/html/,1
+042467a9,[client 58.225.62.140] Directory index forbidden by rule: /var/www/html/,1
+04afdf5b,[client 65.68.235.27] Directory index forbidden by rule: /var/www/html/,1
+06c922be,[client 208.51.151.210] Directory index forbidden by rule: /var/www/html/,1
+0a57efab,[client 61.220.139.68] Directory index forbidden by rule: /var/www/html/,1
+0f5f4ec0,jk2_init() Can't find child 5622 in scoreboard,1
+0f764d6e,jk2_init() Can't find child 5054 in scoreboard,1
+0fe1c40c,[client 141.154.18.244] Directory index forbidden by rule: /var/www/html/,1
+1ef34759,jk2_init() Can't find child 1567 in scoreboard,1
+22e49556,mod_jk child workerEnv in error state 10,5
+2551627e,[client 218.76.139.20] Directory index forbidden by rule: /var/www/html/,1
+2a697bb8,[client 67.166.248.235] Directory index forbidden by rule: /var/www/html/,1
+2cc80c59,[client 141.153.150.164] Directory index forbidden by rule: /var/www/html/,1
+39fcdd54,[client 68.228.3.15] Directory index forbidden by rule: /var/www/html/,1
+3e27ce86,[client 198.232.168.9] Directory index forbidden by rule: /var/www/html/,1
+4262b0c4,jk2_init() Can't find child 1566 in scoreboard,1
+436533ec,[client 211.62.201.48] Directory index forbidden by rule: /var/www/html/,1
+466b6a27,[client 63.13.186.196] Directory index forbidden by rule: /var/www/html/,1
+4a1b1c92,jk2_init() Can't find child 5621 in scoreboard,1
+4b19d79d,mod_jk child workerEnv in error state 7,101
+4b421d81,[client 218.75.106.250] Directory index forbidden by rule: /var/www/html/,1
+5861de1f,mod_jk child workerEnv in error state 8,44
+5b6ccf8c,[client 211.141.93.88] Directory index forbidden by rule: /var/www/html/,1
+6161b1f2,jk2_init() Can't find child 2082 in scoreboard,1
+64ed3ca9,jk2_init() Can't find child 5619 in scoreboard,1
+687e729f,[client 67.154.58.130] Directory index forbidden by rule: /var/www/html/,1
+7573c7e2,mod_jk child workerEnv in error state 6,369
+7a7b2f86,jk2_init() Can't find child 2085 in scoreboard,1
+7b6c5343,[client 207.203.80.15] Directory index forbidden by rule: /var/www/html/,1
+7c25c286,jk2_init() Can't find child 5620 in scoreboard,1
+7d66ed86,[client 218.39.132.175] Directory index forbidden by rule: /var/www/html/,1
+824d2d76,[client 218.62.18.218] Directory index forbidden by rule: /var/www/html/,1
+82ee71b6,[client 168.20.198.21] Directory index forbidden by rule: /var/www/html/,1
+91d38ef4,jk2_init() Can't find child 2086 in scoreboard,1
+93b71e72,[client 207.12.15.211] Directory index forbidden by rule: /var/www/html/,1
+9e78f49c,jk2_init() Can't find child 2087 in scoreboard,1
+a5bd6947,mod_jk child init 1 -2,12
+aeb05b8b,[client 4.245.93.87] Directory index forbidden by rule: /var/www/html/,1
+b55c6f04,[client 61.37.222.240] Directory index forbidden by rule: /var/www/html/,1
+b8c49c8f,[client 24.83.37.136] Directory index forbidden by rule: /var/www/html/,1
+c1152ab4,jk2_init() Can't find child 5053 in scoreboard,1
+d457bf7b,[client 125.30.38.52] Directory index forbidden by rule: /var/www/html/,1
+d5999827,[client 61.138.216.82] Directory index forbidden by rule: /var/www/html/,1
+d7344a0d,mod_jk child workerEnv in error state 9,20
+d84840de,"jk2_init() Found child *{1,1} in scoreboard slot *{1,1}",836
+e3dc5d82,workerEnv.init() ok /etc/httpd/conf/workers2.properties,569
+ecf21a4a,[client 216.127.124.16] Directory index forbidden by rule: /var/www/html/,1
+f61e4849,[client 216.216.185.130] Directory index forbidden by rule: /var/www/html/,1
+fb38bbe6,[client 147.31.138.75] Directory index forbidden by rule: /var/www/html/,1
+fb3ad408,[client 218.207.61.7] Directory index forbidden by rule: /var/www/html/,1
+fcf5561f,[client 222.166.160.184] Directory index forbidden by rule: /var/www/html/,1

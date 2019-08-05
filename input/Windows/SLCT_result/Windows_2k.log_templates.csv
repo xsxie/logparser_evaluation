@@ -1,0 +1,34 @@
+EventId,EventTemplate,Occurrences
+b50339a1,NONE,18
+fe73ccb1,0000000<*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack @<*>@<*>@<*>@<*>@<*>@0xff<*>),6
+29d2b894,Ending TrustedInstaller <*>alization.,3
+37d8c994,SQM: <*> <*> <*> <*> <*> <*>,6
+2a46072d,SQM: <*> <*> <*> upload <*> <*> <*> <*> <*> <*><*> <*>,8
+5144161c,<*> <*> <*> <*> <*> <*> was not <*>,2
+477119f7,NonStart: <*> <*> <*> <*> <*> <*>as <*>,4
+f3553fa4,"0000000<*> Creating NT transaction (seq <*>), objectname [6]""(null)""",3
+db2eb0fb,0000000<*> Created NT transaction (seq <*>) result <*>handle @0x<*>,3
+ef0d2e46,0000000<*> CSI perf trace:,3
+859b86c8,<*> processing thread terminated normally,3
+b0e7dc2b,0000000<*> CSI Store <*> (<*>initialized,3
+3196b85d,Session: 30546<*> initialized by client WindowsUpdateAgent.,608
+39b783c8,Warning: Unrecognized packageExtended attribute.,280
+565f9069,Expecting attribute name [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM],224
+9c9f9113,Failed to get next element [HRESULT = <*>- CBS_E_MANIFEST_INVALID_ITEM],224
+39c8b4cc,Failed to internally open package. [HRESULT = <*>- CBS_E_INVALID_PACKAGE],18
+8b138ba1,"Read out cached package applicability for package: <*>, ApplicableState: 112, CurrentState:112",397
+7b341bc8,"Read out cached package applicability for package: Package_for_KB<*>, ApplicableState: 80, CurrentState:112",81
+6705d04c,"Read out cached package applicability for package: Package_for_KB<*>, ApplicableState: 80, CurrentState:0",26
+133bc257,"Read out cached package applicability for package: Package_for_KB<*>, ApplicableState: 0, CurrentState:0",22
+4f103b26,"Read out cached package applicability for package: Package_for_KB2552343~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112",4
+226b9207,"Read out cached package applicability for package: <*>, ApplicableState: 112, CurrentState:0",18
+b992a0b2,"Read out cached package applicability for package: Package_for_KB2574819~31bf3856ad364e35~amd64~~6.1.2.0, ApplicableState: 112, CurrentState:112",4
+550b8c50,"Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:0",2
+eea3189c,"Read out cached package applicability for package: Package_for_KB3004375~31bf3856ad364e35~amd64~~6.1.3.1, ApplicableState: 112, CurrentState:112",4
+624bf880,Failed to <*> <*> <*> <*> <*> <*> <*>,2
+cce03979,Scavenge: <*>,3
+a7f663f2,000000<*> CSI <*> <*>,2
+61036f42,<*> <*> <*> <*> <*> <*> <*> not <*>,2
+ccba9c3f,"Loading offline registry hive: <*>, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/<*>' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\<*>'.",8
+2941b1fd,Session: <*> initialized by client <*>,1
+6e2d3da6,Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/<*>,8

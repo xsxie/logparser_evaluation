@@ -1,0 +1,47 @@
+EventId,EventTemplate,Occurrences
+c2c97d97,<*> (command <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+df98f374,Fan speeds ( <*> 3534 <*> <*> <*> 3479 ),52
+0e3c5117,Component State Change: Component <*> is in the unavailable state (HWID<*>),12
+0666f236,Fan speeds ( 3552 <*> <*> **** 3515 <*> ),2
+96b7db51,active,5
+5fd41706,warning,205
+931c1ce1,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <*>,1
+4777f9c8,Targeting <*> and <*> <*> <*>,1
+70e057e1,Failed subcommands 3406,1
+0fd1d0aa,ambient<*>,292
+f8f01deb,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>,36
+862b109d,<*> (command <*> <*> <*> <*> <*> <*>,1
+410a63d5,Link <*> <*>,9
+01eb9e5f,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok>,2
+9c2a1368,ServerFileSystem: <*> <*> <*> <*> <*> <*> <*> <*>,1
+e3f07f8f,link errors remain current,56
+6ea40eb4,not-responding,1
+d8218a03,configured out,91
+ad4ac20a,Targeting <*> and <*> child of command <*>,5
+a188d364,critical,20
+faa03835,Temperature (41C) exceeds warning threshold,2
+d639ee01,blocked,15
+ca91562a,Link <*>,26
+b3d6517c,inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+0b1b6c09,Fan speeds ( <*> 3534 3375 <*> <*> 3479 ),3
+65782983,Fan speeds ( 3552 3534 <*> **** 3515 3479 ),15
+9a772a5d,psu failure\ ambient<*>,5
+a14a0139,normal,206
+5090c818,<*> ServerFileSystem domain <*> is <*>,12
+d22a9f8d,Targeting <*> <*> <*> <*> <*>,1
+61deba07,Fan speeds ( 3552 3534 3375 <*> 3515 3479 ),7
+59fbff52,Fan speeds ( <*> 3534 3375 **** <*> 3479 ),10
+5b30d925,Command has <*> <*>,11
+3e99e358,NIFF: node <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+2c5ba794,Fan speeds ( 3552 3534 <*> <*> 3515 3479 ),1
+dd77ae53,Link <*> <*> <*> <*> <*>,4
+ea31f21f,running,162
+a512f2ec,<*> (command <*>,141
+a7d1db7e,power/control problem,1
+0dbbeadb,not responding,60
+e1184f09,NIFF: node <*> has detected an available network connection on network <*> via interface <*>,91
+06fb9f14,closing,1
+84641715,Targeting <*> and <*>,2
+25477253,starting,1
+8b1408d7,Linkerror event interval expired,394
+c8af4083,ClusterFileSystem: <*> <*> <*> <*> <*> <*> <*> <*>,32

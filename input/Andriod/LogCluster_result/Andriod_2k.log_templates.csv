@@ -1,0 +1,281 @@
+EventId,EventTemplate,Occurrences
+28509391,android.util.AndroidRuntimeException: Must execute in UI,3
+72956394,Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:3299 com.android.server.wm.WindowManagerService.relayoutWindow:3179 com.android.server.wm.Session.relayout:215 android.view.IWindowSession$Stub.onTransact:286 com.android.server.wm.Session.onTransact:136,1
+81937814,HBM brightnessIn =,85
+92325377,remove(PendingIntent{19abed0: PendingIntentRecord{a485420 com.tencent.qt.qtl broadcastIntent}}) changed bounds; rebatching,1
+7.12E+13,"release:lock=219829192, flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",1
+009117da,received broadcast android.intent.action.BATTERY_CHANGED,1
+00e5cd57,shouldBlockLocation ret:false,33
+02a2b091,"interceptKeyBeforeQueueing: key 3 , result : 1",8
+02aaf2ce,"printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false",1
+03fd0f6c,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, ws=WorkSource{10111}, uid=1000, pid=1702",2
+046d00aa,enqueueNotificationInternal: pkg=com.tencent.mobileqq id=121 notification=Notification(pri=1 contentView=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE),1
+05ab35a2,"release:lock=237091223, flg=0x0, tag=""WiredAccessoryManager"", name=android"", ws=null, uid=1000, pid=1702",1
+06c4f169,onNotificationClick called,2
+07230b00,HBM brightnessOut =,85
+091bb2d4,Marking notification as seen 0|com.tencent.mobileqq|121|null|10111,1
+09f2a99b,"overlapAmount:164.0, previousNotificationEnd:0.0, newYTranslation:-164.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-497",1
+09f9e8b6,"release:lock=233570404, flg=0x0, tag=""View Lock"", name=com.android.systemui"", ws=null, uid=10037, pid=2227",1
+0a10f5c1,"acquire lock=166121161, flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626",1
+0ba1815a,ACTION_BATTERY_CHANGED AMP: 0; Volt: 0,1
+0c4fb965,"release:lock=191063310, flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",1
+0c5657dc,addNotification key=0|com.tencent.mm|4097|null|10112,1
+0cb93266,"getRecentTasks: *{1,1}",28
+0dd400c2,suspendAutohide,23
+0f572280,"rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED",2
+0fbe9412,setLightsOn(true),181
+105962bb,"Skipping, withExcluded: false, tr.intent:Intent { act= *{0,2} flg= *{1,1} (has extras) }",28
+1106e733,cleanUpApplicationRecord -- 5769,1
+1229155b,"ActivityRecord info: ActivityInfo{71e60ba com.tencent.mobileqq.activity.SplashActivity}, euid: 0",1
+13412c5c,"cleanUpApplicationRecordLocked, reset pid: 5769, euid: 0",1
+1363e62f,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", ws=WorkSource{10111}, uid=1000, pid=1702",2
+13d3f523,unregisterAudioFocusListener...,1
+15ad395f,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-428.0",1
+168e62e2,mVisiblity.getValue is false,5
+16ade1fc,stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false,6
+16af3eff,cleanUpApplicationRecord -- 12025,1
+16e28c32,"updateNotificationShade: total=0, active=0",6
+178d0bbc,"acquire lock=155645244, flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0",1
+17ce1e30,"state.clipTopAmount:79, i:0",1
+18084d2f,instantCollapse,9
+19d4d61a,"release:lock=86152250, flg=0x0, tag=""handleAudioEvent"", name=android"", ws=null, uid=1000, pid=1702",1
+1bf6aa98,"animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true",2
+1d68eb71,"updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=0, mPlugType=0, mBatteryLevel=23",1
+1ecb8dd4,getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq,3
+20bd3520,"notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc0000700",3
+219cad91,"ACTIVITY check resid: com.example.android.notepad, size=1",1
+219ced65,isBluetoothA2dpOn...,1
+223c9f63,"cleanUpApplicationRecordLocked, pid: 23484, restart: false",1
+232d4a50,"onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=317.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261851646, downTime=261851646, deviceId=3, source=0x1002 }, mBlockTouches=false",1
+2417157c,"onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991368, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false",1
+259410ab,setWiredDeviceConnectionState  type: 4  state: 0,1
+263f405d,onTrackingStopped: true,1
+281808d5,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-479.0",1
+2862fa7e,cleanUpApplicationRecord -- 12236,1
+291553b8,ApStaDisabledState what=155652,1
+29a82dae,setSpeakerphoneOn  on: true,1
+2b4df179,Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>,1
+2b7f1c3c,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-553.0",3
+2be8f903,"notifyUiVisibilityChanged:vis=0x80000608, SystemUiVisibility=0x80000608",1
+2ea7d653,"cancelNotification,index:0",3
+2f983de0,registerCallback not in UI.,3
+2fc3ad08,"Acquiring suspend blocker ""PowerManagerService.WakeLocks"".",33
+2fee145e,Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms,1
+30a443a4,visible is system.time.showampm,1
+3380e833,"notifyUiVisibilityChanged:vis=0x80000508, SystemUiVisibility=0x80000508",1
+3382b00e,"animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=false",5
+33c5d9ec,"overlapAmount:146.0, previousNotificationEnd:0.0, newYTranslation:-146.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-479",1
+33c7b245,getRingtonePlayer...,2
+340e144d,getLastAudibleStreamVolume  treamType: 7,1
+3645d68f,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-418.0",1
+36dc96c6,onNotificationExpansionChanged called,2
+3783336f,"onReceive, action:android.intent.action.BATTERY_CHANGED",1
+3831e853,"Destroying surface *{1,1} called by : : : : : : : :",20
+38e144f5,"notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708",3
+39986d16,"Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }",14
+39a4db5e,ChargingSpeed  Wattage: -1 ST: 5000000 --> 7500000,1
+3a97dc6f,mHeadsUpExistenceChangedRunnable,4
+3aa564da,"acquire lock=237091223, flags=0x1, tag=""WiredAccessoryManager"", name=android, ws=null, uid=1000, pid=1702",1
+3ab0cd89,"Start dump, calling from : pid=12782, uid=1000",1
+3ad5a38d,*** unregister callback for null,1
+3bf3c4fc,Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105,3
+3c2ee2af,cancelAutohide,15
+3e03b5e1,handleTimeUpdate,3
+3ef7da31,getDevicesForStream  streamType: 3,2
+404ca49c,"START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[8,820][184,1011]} from uid 10057 on display 0",1
+4179e2ae,"release:lock=173466309, flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",1
+4189888e,"release:lock=264232593, flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",1
+41f1b0c9,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-529.0",1
+42dccbef,"cleanUpApplicationRecordLocked, reset pid: 12025, euid: 0",1
+43d412ae,Process com.tencent.mobileqq:qzone (pid 12236) has died,1
+4519408d,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, ws=WorkSource{10113}, uid=1000, pid=1702",1
+45198c19,"ActivityRecord info: ActivityInfo{d1c8e63 com.tencent.mobileqq.activity.SplashActivity}, euid: 0",1
+45ebb9d8,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, ws=WorkSource{10057}, uid=1000, pid=1702",3
+475f02f1,"setDataSource(166, 0, 576460752303423487)",1
+47a3c58d,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, ws=WorkSource{10020}, uid=1000, pid=1702",1
+47af3f10,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-452.0",1
+4817170c,"acquire lock=134680583, flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626",3
+4876b119,"state.clipTopAmount:138, i:0",1
+4a75f5f6,"flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false",1
+4b0857ec,java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token,1
+4b9a6ca7,shouldBlockLocation running ...,37
+4bea79c0,startAnimation begin,1
+4c498931,setWiredDeviceConnectionState  type: -2147483632  state: 0,1
+4dcc4965,"notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500",5
+4e38f716,"cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227",1
+4f4b6a0b,getLastAudibleStreamVolume  treamType: 5,1
+4f7f4244,"[HSM] stayAwake false uid: 10111, pid: 28601",1
+504c331a,abandonAudioFocus,1
+5214a248,"ready=true,policy=,wakefulness=,wksummary=,uasummary=,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=,auto=-,adj=.0userId=",199
+5357e9b1,"overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553",3
+53b8da9d,"cleanUpApplicationRecordLocked, pid: 12236, restart: false",1
+546d74a8,cleanUpApplicationRecord -- 5784,1
+5638d72d,Pid:28601 MediaPlayer destructor,1
+57a83887,"updateNotificationShade: total=1, active=1",7
+585b75a8,"acquire lock=191063310, flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0",1
+597cb21f,disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >,3
+5ab778d1,"cleanUpApplicationRecordLocked, pid: 12025, restart: false",1
+5bf97fda,*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093,1
+5d7622c7,visible is system.charge.show,1
+5f955011,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]",1
+5fee2330,"interceptKeyBeforeQueueing: key 4 , result : 1",6
+60378f02,"overlapAmount:95.0, previousNotificationEnd:0.0, newYTranslation:-95.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-428",1
+604bdc21,"overlapAmount:213.0, previousNotificationEnd:0.0, newYTranslation:-213.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-546",1
+6108b792,"onTouchEvent::0, x=271.0, y=14.0",1
+643ab8b3,updateDimmedActivatedHideSensitive overlap:true,13
+65ae5dc9,"Releasing suspend blocker ""PowerManagerService.WakeLocks"".",33
+6710ef68,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", ws=WorkSource{10113}, uid=1000, pid=1702",2
+680d52ad,interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false,4
+681e150e,The change in focus caused us to need to do a layout end,6
+694bd9a3,cancelPeek: false,20
+6ed37c98,isSimPinSecure mSimDatas is null or empty,1
+6ef1ef37,Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui,2
+6f15d0a1,cleanUpApplicationRecord -- 23484,1
+6f942fee,"cleanUpApplicationRecordLocked, reset pid: 5784, euid: 0",1
+70bc5c5d,applyOptionsLocked: Unknown animationType=0,2
+7218c881,"acquire lock=120758482, flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626",5
+723eded3,"ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0",1
+732e0663,updateDimmedActivatedHideSensitive overlap:false,52
+748b2271,"orientation change is complete, call stopFreezingDisplayLocked",1
+74ba1732,remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching,1
+74c8c44b,"*{1,9} = *{0,3}",24
+74d16f62,getLastAudibleStreamVolume  treamType: 1,1
+765db118,"cleanUpApplicationRecordLocked, pid: 5769, restart: false",1
+7671b405,"notifyUiVisibilityChanged:vis=0x40000600, SystemUiVisibility=0x40000600",3
+76d08197,"cleanUpApplicationRecordLocked, pid: 5784, restart: false",1
+7c81ff65,"cancelNotificationWithTag pid ,uid = ,tag = null,pkg =,id =",20
+7cdc0788,"acquire lock=149977903, flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0",1
+7d1d9b88,getRunningAppProcesses: caller does not hold REAL_GET_TASKS; limiting output,81
+7e77e5c1,"onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=317.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261851713, downTime=261851646, deviceId=3, source=0x1002 }, mBlockTouches=false",1
+7f117b51,interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false,3
+7fc66791,Marking notification as seen 0|com.tencent.mm|4097|null|10112,1
+8220b38e,getLastAudibleStreamVolume  treamType: 3,1
+829dbb60,"overlapAmount:154.0, previousNotificationEnd:0.0, newYTranslation:-154.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-487",1
+829dd57d,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-497.0",1
+83b7c129,"cancelNotification,cancelNotificationLocked,callingUid = 10111,callingPid = 28601",1
+87b10c84,enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE),1
+88ceed53,Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService,1
+8a413e71,"new Process app=ProcessRecord{6eaaf00 0:com.tencent.mobileqq:qzone/u0a111}, name: com.tencent.mobileqq:qzone, euid: 0",1
+8b6719fb,"overlapAmount:119.0, previousNotificationEnd:0.0, newYTranslation:-119.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-452",1
+8c82c946,addNotification key=0|com.tencent.mobileqq|121|null|10111,1
+8ca29110,"updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0",13
+8d7445f8,resumeSuspendedAutohide,10
+8e08c680,getNeighboringCellInfo calling app is com.amap.android.ams,5
+8e435057,playSoundEffect   effectType: 0,10
+8e52da4a,makeExpandedInvisible: mExpandedVisible=false,1
+8f4cb516,"state.clipTopAmount:103, i:0",1
+8fb8705c,battery changed pluggedType: 0,1
+8fd9008e,START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid 10111 on display 0,1
+901d17e8,"release:lock=62617001, flg=0x0, tag=""WindowManager"", name=android"", ws=WorkSource{10113}, uid=1000, pid=1702",1
+905f128c,"overlapAmount:5.0, previousNotificationEnd:0.0, newYTranslation:-5.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-338",1
+93df1cd3,"cleanUpApplicationRecordLocked, reset pid: 13094, euid: 0",1
+942f09c2,"updateLightsLocked,turn off notificationLight",6
+9826eb96,"state.clipTopAmount:130, i:0",1
+988cce90,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]",1
+99639f9b,"state.clipTopAmount:148, i:0",1
+99718fbd,getRingerMode...,3
+99e75217,removeNotificationChildren,12
+9d5e6297,"setSystemUiVisibility vis= mask= oldVal= newVal= diff= fullscreenStackVis= dockedStackVis=, fullscreenStackBounds=Rect(, - , ), dockedStackBounds=Rect(, - , )",200
+9ebe0e66,"flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false",1
+9f9ec5fb,visible is system.message.count gt 0,1
+a054ee6c,shouldBlockLocation  ret:true,4
+a17ec108,"acquire lock=60373518, flags=0x1, tag=""RILJ_ACK_WL"", name=com.android.phone, ws=null, uid=1001, pid=2626",1
+a263a703,"overlapAmount:196.0, previousNotificationEnd:0.0, newYTranslation:-196.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-529",1
+a6b9ef39,isMusicActive...,12
+a8004548,"release:lock=155645244, flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",1
+a8d1a10f,"rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED",1
+a9877d49,"ACTIVITY check resid: com.example.android.notepad, size=0",1
+aa6a0b05,"release:lock=226887582, flg=0x0, tag=""SCREEN_FROZEN"", name=android"", ws=null, uid=1000, pid=1702",1
+ace7f5ed,visible is system.ownerinfo.show,1
+ad04123c,"release:lock=149977903, flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",1
+ad450a54,"overlapAmount:46.0, previousNotificationEnd:0.0, newYTranslation:-46.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-379",1
+adb11212,"acquire lock=189667585, flags=0x1, tag=""*launch*"", name=android, ws=WorkSource{10112}, uid=1000, pid=1702",1
+ade15b9a,schedulePeek,1
+b09e8b09,Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.XGPushService } U=0: not found,1
+b0fb9415,Received TIME_TICK alarm; rescheduling,3
+b0ff58e2,Bad activity token: android.os.BinderProxy@2bd79ce,1
+b1615ec2,getLastAudibleStreamVolume  treamType: 4,1
+b1ba43a3,"acquire lock=233570404, flags=0x1, tag=""View Lock"", name=com.android.systemui, ws=null, uid=10037, pid=2227",1
+b1fc257d,Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s,1
+b217e995,DefaultState what=155652,1
+b5058470,START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0,1
+b5721111,onExpandingFinished,2
+b79baefb,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-487.0",1
+b88fca31,"acquire lock=86152250, flags=0x1, tag=""handleAudioEvent"", name=android, ws=null, uid=1000, pid=1702",1
+bb1f65ca,RefreshBatteryInfo isBatteryLow: 23,2
+bca61fe5,startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) },1
+bce9cf48,"overlapAmount:85.0, previousNotificationEnd:0.0, newYTranslation:-85.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-418",1
+bf5ef2f9,"cleanUpApplicationRecordLocked, reset pid: 12236, euid: 0",1
+bfb7a015,"state.clipTopAmount:197, i:0",1
+bfca89d8,"START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mobileqq/.activity.SplashActivity bnds=[360,820][536,1011]} from uid 10057 on display 0",1
+c1082674,"state.clipTopAmount:69, i:0",1
+c10916c5,[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1,1
+c19a483f,"updateClipping isOverlap:false, getTopPadding=., Translation=-.",39
+c1b1ec1a,"Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21000], maxLayer:[21080], inRotation:[false], rot:[0]",2
+c3abf966,getTasks: caller does not hold REAL_GET_TASKS; limiting output,37
+c4c8a6bd,cleanUpApplicationRecord -- 13094,1
+c5004665,"userActivityNoUpdateLocked: eventTime=, event=, flags=, uid=",69
+cb03daac,"Animating brightness: target=, rate=",85
+cb358262,"cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0",1
+cb9f11c7,"notifyUiVisibilityChanged:vis=0x508, SystemUiVisibility=0x508",2
+cbb38f28,interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false,3
+ccc611c3,"Skipping, withExcluded: false, tr.intent:Intent { flg= cmp=/. (has extras) }",21
+cd0d72a7,"release:lock=166121161, flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626",1
+cd3a466d,[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true,1
+cd7563b4,onTrackingStarted,1
+cd9d2cab,"acquire lock=173466309, flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0",1
+ce34163a,isBluetoothScoOn...,1
+ce6ce4a1,"Application requested orientation -1, got rotation 0 which has compatible metrics",1
+ce7114dc,ACTION_BATTERY_CHANGED pluggedType: 0,1
+d02b2707,"ActivityRecord info: ActivityInfo{f39182 com.example.android.notepad.NotePadActivity}, euid: 0",1
+d0560dd9,getLastAudibleStreamVolume  treamType: 8,1
+d07db342,getLastAudibleStreamVolume  treamType: 6,1
+d086f104,The change in focus caused us to need to do a layout begin,6
+d08e556e,interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false,4
+d0941149,disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >,3
+d199a211,"state.clipTopAmount:180, i:0",1
+d318ab81,getCellLocation is blocked by permission manager uid:10111 pid:28601,1
+d522f5e0,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-379.0",1
+d5b4917b,received broadcast android.intent.action.TIME_TICK,3
+d639dd08,isWiredHeadsetOn...,1
+d695a6e9,"state.clipTopAmount:204, i:0",3
+d7573f34,visible is system.call.count gt 0,1
+d8791e4b,startAnimation end,1
+dac08128,logNotificationVisibilityChanges runInThread start,6
+dd5fe314,getStreamVolume  treamType: 5,1
+df838561,"onTouchEvent::1, x=296.0, y=327.0",1
+e04ad7a9,"release:lock=120758482, flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626",3
+e23c2601,handleBatteryUpdate,1
+e3cedfcf,cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111,2
+e6656aa9,*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093,1
+e74d19f5,removeNotification:0|com.tencent.mobileqq|121|null|10111,2
+e91cc23c,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-546.0",1
+ea25db32,"acquire lock=219829192, flags=0x1, tag=""AudioMix"", name=audioserver, ws=null, uid=1041, pid=0",1
+ea2a5d43,"animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=true",1
+eac1728f,Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide,2
+eadc277d,getMode...,1
+ec5cfe9b,getLastAudibleStreamVolume  treamType: 2,1
+ecc257b6,"cleanUpApplicationRecordLocked, pid: 13094, restart: false",1
+ed4927de,"notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000",1
+ed8592e7,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", ws=WorkSource{10057}, uid=1000, pid=1702",3
+eda14053,logNotificationVisibilityChanges runInThread over,6
+eda7dea0,"state.clipTopAmount:-1, i:0",1
+edbcce5f,"cancelNotification,index:-",20
+eec3882b,stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0,6
+eeec1449,querySoundEffectsEnabled...,17
+ef587def,"onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991304, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false",1
+f02115d0,onExpandingStarted,2
+f1315db7,getLastAudibleStreamVolume  treamType: 0,1
+f3209e9f,"release:lock=60373518, flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626",1
+f536e63e,"state.clipTopAmount:30, i:0",1
+f87a5c4a,Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide,2
+f8d9d0ac,"release:lock=189667585, flg=0x0, tag=""*launch*"", name=android"", ws=WorkSource{10020}, uid=1000, pid=1702",1
+f8f8bbff,makeExpandedInvisible: mExpandedVisible=true,3
+f961beb5,"release:lock=134680583, flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626",2
+f97c0b39,"updateClipping isOverlap:true, getTopPadding=333.0, Translation=-338.0",1
+f9bf5b1a,setSpeakerphoneOn on:true,1
+f9e8e96e,updateChargingLocked: charging=false,1
+fbb3c9bb,closeQs,12
+fbd5de68,onNotificationVisibilityChanged called,6
+fcd76da6,"Application requested orientation 1, got rotation 0 which has compatible metrics",2
+fd69041a,Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity},1

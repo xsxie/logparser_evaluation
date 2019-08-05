@@ -1,0 +1,427 @@
+EventId,EventTemplate,Occurrences
+2.27E+05,"Partition rdd_11_3 not found, computing it",1
+32581043,Started reading broadcast variable 28,1
+40501739,"Block rdd_16_1 stored as bytes in memory (estimated size 351.0 B, free 387.4 KB)",1
+62258141,"Block rdd_42_13 stored as bytes in memory (estimated size 912.0 B, free 814.9 KB)",1
+63713271,"Block rdd_42_6 stored as bytes in memory (estimated size 559.0 B, free 809.8 KB)",1
+66623927,"Block broadcast_32 stored as values in memory (estimated size 10.1 KB, free 400.4 KB)",1
+66703848,"Block broadcast_17 stored as values in memory (estimated size 10.1 KB, free 448.6 KB)",1
+94607000,Started reading broadcast variable 3,1
+8.63E+10,"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",1
+00b5ee7c,"Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 KB, free 5.2 KB)",1
+00e4b43e,Reading broadcast variable 13 took 41 ms,1
+00fb216c,Started reading broadcast variable 1,1
+02c98d80,"Block broadcast_39_piece0 stored as bytes in memory (estimated size 5.4 KB, free 859.1 KB)",1
+03809e0c,"Block broadcast_15_piece0 stored as bytes in memory (estimated size 5.4 KB, free 407.4 KB)",1
+03f0c20e,Reading broadcast variable 4 took 18 ms,1
+05eedd1a,"Block rdd_42_38 stored as bytes in memory (estimated size 974.0 B, free 837.4 KB)",1
+061ba045,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:80212+7292,1
+06cc9899,Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,1
+06f83244,"Block broadcast_25 stored as values in memory (estimated size 10.1 KB, free 419.6 KB)",1
+07bfd2f8,"Block rdd_26_4 stored as bytes in memory (estimated size 16.0 B, free 419.6 KB)",1
+08cf3656,attempt_201706092018_0024_m_000044_1129: Committed,1
+08eeb41f,Saved output of task 'attempt_201706092018_0024_m_000002_998' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000002,1
+08f6d3dd,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:58336+7292,1
+08f85ba3,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:284388+7303,1
+091e594c,"Partition rdd_16_0 not found, computing it",1
+092265f5,Reading broadcast variable 10 took 17 ms,1
+093fa9c1,"Block broadcast_19 stored as values in memory (estimated size 9.2 KB, free 478.6 KB)",1
+0a2e458b,"Partition rdd_21_2 not found, computing it",1
+0a5fe131,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:7292+7292,2
+0af286a5,"Partition rdd_21_4 not found, computing it",1
+0b4c726c,Saved output of task 'attempt_201706092018_0024_m_000003_1012' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003,1
+0b81fead,"Partition rdd_42_5 not found, computing it",1
+0b9e7dc9,Started reading broadcast variable 13,1
+0d9a7aa3,Started reading broadcast variable 36,1
+0f295028,"Block rdd_42_11 stored as bytes in memory (estimated size 920.0 B, free 814.0 KB)",1
+11479d8f,"Partition rdd_42_2 not found, computing it",1
+122b2f80,"Partition rdd_42_36 not found, computing it",1
+131e72f4,attempt_201706092018_0024_m_000161_1156: Committed,1
+13aceb94,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:51044+7292,1
+145aee0e,"Block broadcast_21_piece0 stored as bytes in memory (estimated size 5.7 KB, free 393.1 KB)",1
+1575d134,Saved output of task 'attempt_201706092018_0024_m_000163_1158' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000163,1
+17dbe105,Reading broadcast variable 30 took 8 ms,1
+17f432d4,Trying to register BlockManager,1
+188a7d54,"Partition rdd_26_2 not found, computing it",1
+18c516d1,"Block broadcast_20 stored as values in memory (estimated size 9.8 KB, free 411.6 KB)",1
+194ceeaa,attempt_201706092018_0024_m_000043_1128: Committed,1
+1963a4d6,"Partition rdd_6_1 not found, computing it",1
+1a02a824,Started reading broadcast variable 12,1
+1a5ca6f4,Reading broadcast variable 39 took 716 ms,1
+1ae9a2e3,"Block broadcast_12_piece0 stored as bytes in memory (estimated size 5.6 KB, free 359.4 KB)",1
+1bec269b,"Partition rdd_42_7 not found, computing it",1
+1c507e44,Registered BlockManager,1
+1cbb7d67,"Block broadcast_31 stored as values in memory (estimated size 9.8 KB, free 405.1 KB)",1
+1cdb23d6,"Block broadcast_26 stored as values in memory (estimated size 9.7 KB, free 389.6 KB)",1
+1daf86ca,"Block rdd_6_2 stored as bytes in memory (estimated size 252.0 B, free 370.4 KB)",1
+1db0e533,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:240636+7292,1
+1e0ec247,Reading broadcast variable 16 took 13 ms,1
+1e97d2c3,"Partition rdd_42_34 not found, computing it",1
+1ecd41b9,"Partition rdd_42_33 not found, computing it",1
+1f3a4c46,Saved output of task 'attempt_201706092018_0024_m_000080_1135' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000080,1
+1fde6109,"Block broadcast_36_piece0 stored as bytes in memory (estimated size 21.4 KB, free 522.3 KB)",1
+2023ddd5,"Partition rdd_42_39 not found, computing it",1
+2076e53b,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:167716+7292,1
+2089b1d3,Saved output of task 'attempt_201706092018_0024_m_000083_1138' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000083,1
+2256d4b9,Reading broadcast variable 27 took 10 ms,1
+2284e5e8,Saved output of task 'attempt_201706092018_0024_m_000000_970' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000000,1
+235f0efe,"Block broadcast_38 stored as values in memory (estimated size 9.6 KB, free 853.7 KB)",1
+2395b351,"Block rdd_30_4 stored as bytes in memory (estimated size 226.0 B, free 406.0 KB)",1
+255606a9,"Block broadcast_2 stored as values in memory (estimated size 384.0 B, free 319.4 KB)",1
+25c58731,Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.,1
+25f2979c,"Block broadcast_24_piece0 stored as bytes in memory (estimated size 5.6 KB, free 393.0 KB)",1
+270557a3,"Block broadcast_9 stored as values in memory (estimated size 8.8 KB, free 14.0 KB)",1
+271d3bcf,attempt_201706092018_0024_m_000003_1012: Committed,1
+2730be46,"Partition rdd_16_4 not found, computing it",1
+27a2a4ad,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+291b29a3,"Partition rdd_42_8 not found, computing it",1
+29bc3dfc,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+2c38887c,"Partition rdd_30_3 not found, computing it",1
+2c5fc5c7,"Block rdd_42_5 stored as bytes in memory (estimated size 930.0 B, free 809.3 KB)",1
+2c7da2ef,"Block broadcast_1 stored as values in memory (estimated size 384.0 B, free 319.0 KB)",1
+2d2b3f6e,"Partition rdd_42_9 not found, computing it",1
+2e4175d1,Reading broadcast variable 29 took 11 ms,1
+2e49259a,attempt_201706092018_0024_m_000121_1146: Committed,1
+300ceaaf,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:94796+7292,1
+300f6db8,Started reading broadcast variable 33,1
+3012d1eb,Started reading broadcast variable 40,1
+30913caa,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:277096+7292,1
+3098c35c,"Partition rdd_11_4 not found, computing it",1
+32334a6f,"Block rdd_42_12 stored as bytes in memory (estimated size 852.0 B, free 815.8 KB)",1
+32f6f9e2,"Block rdd_42_7 stored as bytes in memory (estimated size 640.0 B, free 812.2 KB)",1
+349c95ce,"Block rdd_42_8 stored as bytes in memory (estimated size 869.0 B, free 811.6 KB)",1
+35f42cda,"Block rdd_42_30 stored as bytes in memory (estimated size 906.0 B, free 830.3 KB)",1
+363a2944,Reading broadcast variable 31 took 8 ms,1
+368c7799,"Block rdd_42_20 stored as bytes in memory (estimated size 917.0 B, free 821.7 KB)",1
+379b4556,"Block rdd_16_2 stored as bytes in memory (estimated size 230.0 B, free 387.0 KB)",1
+38d48540,Successfully started service 'sparkExecutorActorSystem' on port 55904.,1
+38daa33d,"Partition rdd_42_28 not found, computing it",1
+3a9677f8,"Partition rdd_42_38 not found, computing it",1
+3aac2299,Started reading broadcast variable 37,1
+3adb050a,"Partition rdd_42_24 not found, computing it",1
+3b308ce3,"Block rdd_42_35 stored as bytes in memory (estimated size 917.0 B, free 834.6 KB)",1
+3b597ec5,"Partition rdd_42_23 not found, computing it",1
+3bd0aab4,Started reading broadcast variable 38,1
+3d18df8a,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:102088+7292,1
+3e712240,attempt_201706092018_0024_m_000001_984: Committed,1
+41cd3672,"Block rdd_2_2 stored as bytes in memory (estimated size 850.0 B, free 320.3 KB)",1
+42e22791,Reading broadcast variable 17 took 12 ms,1
+43e0db66,"Block broadcast_27 stored as values in memory (estimated size 9.2 KB, free 404.2 KB)",1
+44a2ba26,attempt_201706092018_0025_m_000001_1180: Committed,1
+44dea691,Reading broadcast variable 22 took 11 ms,1
+455de5a9,Started reading broadcast variable 11,1
+45ccb938,Reading broadcast variable 36 took 11 ms,1
+45e27380,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:0+7292,2
+45eba590,"Block broadcast_24 stored as values in memory (estimated size 9.8 KB, free 402.8 KB)",1
+486ba03a,"Partition rdd_42_20 not found, computing it",1
+488f6cf3,"Finished task *{1,1} in stage *{1,1} (TID *{2,2} bytes result sent to driver",300
+4906082e,"Block rdd_6_3 stored as bytes in memory (estimated size 344.0 B, free 369.9 KB)",1
+49558fed,Started reading broadcast variable 9,1
+499c7e38,Saved output of task 'attempt_201706092018_0024_m_000004_1026' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000004,1
+4a4dbe33,"Partition rdd_42_18 not found, computing it",1
+4ab08cd4,Saved output of task 'attempt_201706092018_0024_m_000042_1127' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000042,1
+4b430cb2,"Partition rdd_21_1 not found, computing it",1
+4ba5371e,"Partition rdd_30_2 not found, computing it",1
+4bd42923,Reading broadcast variable 21 took 11 ms,1
+4bd568d0,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:29168+7292,2
+4c27aff8,"Block rdd_2_3 stored as bytes in memory (estimated size 930.0 B, free 321.2 KB)",1
+4c3ae663,"Block broadcast_33_piece0 stored as bytes in memory (estimated size 29.5 KB, free 404.8 KB)",1
+4cec528b,Started reading broadcast variable 27,1
+4d524f7f,"Block rdd_11_1 stored as bytes in memory (estimated size 160.0 B, free 432.7 KB)",1
+4e73a5eb,"Block rdd_2_1 stored as bytes in memory (estimated size 935.0 B, free 322.1 KB)",1
+4ec7f2ed,"Partition rdd_2_0 not found, computing it",1
+4f536ba1,"Block broadcast_30_piece0 stored as bytes in memory (estimated size 5.8 KB, free 380.0 KB)",1
+5033c0bf,Started reading broadcast variable 0,1
+50714e6a,Reading broadcast variable 34 took 9 ms,1
+5083ed0c,"Block broadcast_15 stored as values in memory (estimated size 9.2 KB, free 416.6 KB)",1
+508e4f7f,Starting executor ID 5 on host mesos-slave-07,1
+50af7a61,Reading broadcast variable 28 took 9 ms,1
+50b34db3,"Block rdd_42_17 stored as bytes in memory (estimated size 836.0 B, free 819.0 KB)",1
+50bc52be,Started reading broadcast variable 25,1
+5100409d,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:175008+7292,1
+5108701f,Started reading broadcast variable 4,1
+512c5493,"Block broadcast_3 stored as values in memory (estimated size 384.0 B, free 318.5 KB)",1
+52b04385,"Block broadcast_13_piece0 stored as bytes in memory (estimated size 5.7 KB, free 376.4 KB)",1
+5348581c,"Partition rdd_42_32 not found, computing it",1
+538e6dc8,"Partition rdd_2_1 not found, computing it",1
+54dad10f,attempt_201706092018_0024_m_000042_1127: Committed,1
+5586394f,"Block rdd_11_4 stored as bytes in memory (estimated size 145.0 B, free 432.4 KB)",1
+56d5e75c,Saved output of task 'attempt_201706092018_0024_m_000121_1146' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121,1
+571bda66,Saved output of task 'attempt_201706092018_0024_m_000124_1151' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000124,1
+5739e1a1,Started reading broadcast variable 16,1
+576f7ace,attempt_201706092018_0024_m_000081_1136: Committed,1
+5863e595,Started reading broadcast variable 14,1
+5876444e,Started reading broadcast variable 31,1
+588ad314,"Partition rdd_21_3 not found, computing it",1
+58d7a122,Started reading broadcast variable 8,1
+5949e1fa,"Block broadcast_2_piece0 stored as bytes in memory (estimated size 93.0 B, free 319.0 KB)",1
+5a5c5838,Successfully registered with driver,1
+5a8ae99d,Reading broadcast variable 9 took 160 ms,1
+5c835098,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:72920+7292,1
+5d15aed6,Saved output of task 'attempt_201706092018_0024_m_000122_1147' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000122,1
+5e81d244,Reading broadcast variable 18 took 12 ms,1
+5f2deea4,"Block broadcast_38_piece0 stored as bytes in memory (estimated size 5.8 KB, free 844.0 KB)",1
+5f2e39bc,Started reading broadcast variable 22,1
+5f69a49f,Reading broadcast variable 32 took 16 ms,1
+60ec4c73,Reading broadcast variable 8 took 19 ms,1
+62dcd5f6,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:116672+7292,1
+646cb082,"Block rdd_42_3 stored as bytes in memory (estimated size 930.0 B, free 808.4 KB)",1
+653a0d99,"Partition rdd_42_31 not found, computing it",1
+6585eb5e,Reading broadcast variable 24 took 10 ms,1
+65dfafbe,"Partition rdd_6_4 not found, computing it",1
+660d7500,"Partition rdd_26_0 not found, computing it",1
+669117c6,Reading broadcast variable 26 took 10 ms,1
+66b840b5,Started reading broadcast variable 26,1
+670c19ad,"Partition rdd_42_30 not found, computing it",1
+68244b39,"Block rdd_42_22 stored as bytes in memory (estimated size 737.0 B, free 822.5 KB)",1
+68a27ebb,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:218760+7292,1
+68a7a71f,"Block rdd_16_3 stored as bytes in memory (estimated size 232.0 B, free 386.8 KB)",1
+68abe6b6,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:211468+7292,1
+68acfe64,Reading broadcast variable 2 took 16 ms,1
+68f559c8,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:43752+7292,1
+6a9345ab,"Block broadcast_18 stored as values in memory (estimated size 9.6 KB, free 464.0 KB)",1
+6b02349a,Saved output of task 'attempt_201706092018_0024_m_000164_1159' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000164,1
+6b5fcd1e,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:65628+7292,1
+6bec2839,"Times: total = *{1,1} boot = *{1,1} init = *{1,1} finish = *{1,1}",375
+6cbe3e8b,"Block rdd_2_0 stored as bytes in memory (estimated size 913.0 B, free 323.0 KB)",1
+6d20857d,"Partition rdd_11_2 not found, computing it",1
+6d4176d9,Saved output of task 'attempt_201706092018_0024_m_000162_1157' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000162,1
+6e5305e4,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",1
+6e7570ed,"Partition rdd_42_0 not found, computing it",1
+6eeaf5d7,"Partition rdd_16_1 not found, computing it",1
+6ffe7ca4,"Block rdd_42_0 stored as bytes in memory (estimated size 913.0 B, free 804.8 KB)",1
+7103ffa2,"Changing view acls to: yarn,curi",2
+71600ae5,"Block rdd_42_27 stored as bytes in memory (estimated size 790.0 B, free 826.8 KB)",1
+71a946ca,Started reading broadcast variable 29,1
+723d74b6,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:123964+7292,1
+73bd0f63,"Block rdd_42_19 stored as bytes in memory (estimated size 920.0 B, free 819.9 KB)",1
+73c8db76,Saved output of task 'attempt_201706092018_0024_m_000040_1125' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000040,1
+74277a38,"Block rdd_42_23 stored as bytes in memory (estimated size 914.0 B, free 825.1 KB)",1
+742aa13a,"Block rdd_16_4 stored as bytes in memory (estimated size 263.0 B, free 386.4 KB)",1
+74767bfe,"Block rdd_42_9 stored as bytes in memory (estimated size 950.0 B, free 810.7 KB)",1
+74ab3c2c,"Block broadcast_40_piece0 stored as bytes in memory (estimated size 6.0 KB, free 874.3 KB)",1
+751a0261,"Block rdd_30_2 stored as bytes in memory (estimated size 250.0 B, free 405.8 KB)",1
+75444caa,attempt_201706092018_0024_m_000160_1155: Committed,1
+75c2bc4c,"Block rdd_21_3 stored as bytes in memory (estimated size 194.0 B, free 403.4 KB)",1
+76686ba9,Saved output of task 'attempt_201706092018_0024_m_000044_1129' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000044,1
+76c37238,Saved output of task 'attempt_201706092018_0024_m_000123_1150' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000123,1
+773b22b5,attempt_201706092018_0024_m_000002_998: Committed,1
+775c569d,"Block rdd_30_0 stored as bytes in memory (estimated size 324.0 B, free 405.4 KB)",1
+7a15e685,"Partition rdd_42_16 not found, computing it",1
+7a2cb727,"Block broadcast_29_piece0 stored as bytes in memory (estimated size 5.7 KB, free 379.5 KB)",1
+7b2cb0eb,Reading broadcast variable 3 took 17 ms,1
+7bda1b2e,"Partition rdd_42_25 not found, computing it",1
+7bdc756b,"Partition rdd_42_19 not found, computing it",1
+7c91c97a,"Block rdd_42_4 stored as bytes in memory (estimated size 890.0 B, free 805.7 KB)",1
+7ce88a9b,"Block broadcast_13 stored as values in memory (estimated size 10.1 KB, free 386.5 KB)",1
+7d01992a,Reading broadcast variable 37 took 14 ms,1
+7e0cbeca,Started reading broadcast variable 21,1
+7e171005,"Block rdd_16_0 stored as bytes in memory (estimated size 191.0 B, free 386.6 KB)",1
+80434ace,"Partition rdd_42_29 not found, computing it",1
+807fd9a5,attempt_201706092018_0025_m_000004_1199: Committed,1
+80e22584,"Partition rdd_42_22 not found, computing it",1
+8160b3fd,attempt_201706092018_0024_m_000082_1137: Committed,1
+81d74a47,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292,2
+8292df69,"Partition rdd_42_27 not found, computing it",1
+829d085d,Reading broadcast variable 33 took 9 ms,1
+83b0bd18,Reading broadcast variable 40 took 10 ms,1
+850ec74e,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:138548+7292,1
+85a40f78,Reading broadcast variable 15 took 15 ms,1
+8671f9ed,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",1
+877c29f7,"Block rdd_11_0 stored as bytes in memory (estimated size 152.0 B, free 432.1 KB)",1
+87fa2864,"Block broadcast_31_piece0 stored as bytes in memory (estimated size 5.6 KB, free 395.3 KB)",1
+8900626f,"Partition rdd_42_21 not found, computing it",1
+895b7ad5,"Block broadcast_37_piece0 stored as bytes in memory (estimated size 5.2 KB, free 569.5 KB)",1
+89bc3fd3,"Block rdd_30_3 stored as bytes in memory (estimated size 251.0 B, free 406.3 KB)",1
+8aa7ce09,Saved output of task 'attempt_201706092018_0024_m_000043_1128' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000043,1
+8ae18a42,"mapred.job.id is deprecated. Instead, use mapreduce.job.id",1
+8af56261,Started reading broadcast variable 10,1
+8c040715,"Block rdd_26_3 stored as bytes in memory (estimated size 16.0 B, free 419.6 KB)",1
+8c0e9ed3,Started reading broadcast variable 20,1
+8d4eb1aa,"Block broadcast_28 stored as values in memory (estimated size 9.8 KB, free 419.6 KB)",1
+8dcd7b26,"Block rdd_42_16 stored as bytes in memory (estimated size 748.0 B, free 818.2 KB)",1
+8ec1344d,"Block rdd_26_0 stored as bytes in memory (estimated size 16.0 B, free 419.6 KB)",1
+8f182b00,"Block broadcast_20_piece0 stored as bytes in memory (estimated size 5.5 KB, free 416.7 KB)",1
+901a6294,"Block broadcast_16 stored as values in memory (estimated size 9.8 KB, free 432.0 KB)",1
+90f6a9fc,"Block broadcast_34_piece0 stored as bytes in memory (estimated size 28.8 KB, free 515.7 KB)",1
+91c45352,"Changing modify acls to: yarn,curi",2
+921ede56,"Block rdd_42_2 stored as bytes in memory (estimated size 850.0 B, free 806.5 KB)",1
+9323d3f8,"Partition rdd_42_12 not found, computing it",1
+932c104e,"Registered signal handlers for [TERM, HUP, INT]",1
+935783df,"Block rdd_42_24 stored as bytes in memory (estimated size 858.0 B, free 824.2 KB)",1
+9468411b,"Block rdd_6_1 stored as bytes in memory (estimated size 330.0 B, free 370.2 KB)",1
+94704bac,"Block rdd_42_28 stored as bytes in memory (estimated size 901.0 B, free 828.5 KB)",1
+9584c03b,"Block rdd_42_21 stored as bytes in memory (estimated size 922.0 B, free 823.4 KB)",1
+95ec1df1,"Partition rdd_30_1 not found, computing it",1
+966ee384,"Block broadcast_4 stored as values in memory (estimated size 384.0 B, free 318.0 KB)",1
+9702b6a0,"Partition rdd_30_0 not found, computing it",1
+97c389c6,attempt_201706092018_0025_m_000003_1198: Committed,1
+985c9940,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:196884+7292,1
+9876979a,"Block broadcast_29 stored as values in memory (estimated size 10.1 KB, free 374.2 KB)",1
+98ed7280,"Partition rdd_42_3 not found, computing it",1
+99600dbc,Reading broadcast variable 1 took 16 ms,1
+9c5bd138,"Partition rdd_42_13 not found, computing it",1
+9c77fac9,Reading broadcast variable 23 took 11 ms,1
+9c9dcdfa,"Partition rdd_42_10 not found, computing it",1
+9ca20cba,"Block rdd_11_2 stored as bytes in memory (estimated size 199.0 B, free 432.6 KB)",1
+9daeac9a,attempt_201706092018_0025_m_000000_1166: Committed,1
+9dfd90e6,attempt_201706092018_0024_m_000120_1145: Committed,1
+9e19878e,"Block rdd_42_1 stored as bytes in memory (estimated size 935.0 B, free 807.4 KB)",1
+9f5a77fc,"Block broadcast_17_piece0 stored as bytes in memory (estimated size 5.7 KB, free 438.5 KB)",1
+9ffef012,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+a03d2444,"Partition rdd_6_3 not found, computing it",1
+a076dcc7,"Partition rdd_42_1 not found, computing it",1
+a140cfb6,"Block broadcast_11_piece0 stored as bytes in memory (estimated size 5.4 KB, free 344.7 KB)",1
+a352752c,Server created on 40984,1
+a4ea0813,Reading broadcast variable 25 took 11 ms,1
+a5acfcd5,"Block broadcast_27_piece0 stored as bytes in memory (estimated size 5.4 KB, free 395.0 KB)",1
+a5d2743b,Started reading broadcast variable 23,1
+a5f761ac,Started reading broadcast variable 18,1
+a69fec84,"Partition rdd_16_3 not found, computing it",1
+a7c73556,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:255220+7292,1
+a845c663,Started reading broadcast variable 30,1
+a8867e5e,attempt_201706092018_0024_m_000164_1159: Committed,1
+a899e693,File Output Committer Algorithm version is 1,30
+a990f367,"Block broadcast_25_piece0 stored as bytes in memory (estimated size 5.7 KB, free 409.5 KB)",1
+a9b36305,"Block broadcast_8 stored as values in memory (estimated size 281.6 KB, free 317.0 KB)",1
+ab13438b,"Block rdd_42_25 stored as bytes in memory (estimated size 950.0 B, free 826.0 KB)",1
+ab59d05a,MemoryStore started with capacity 17.7 GB,1
+ab796f4a,"Block broadcast_37 stored as values in memory (estimated size 8.8 KB, free 500.9 KB)",1
+abd3d9ee,"Block broadcast_40 stored as values in memory (estimated size 9.9 KB, free 884.2 KB)",1
+acebc5cf,"Block broadcast_30 stored as values in memory (estimated size 9.7 KB, free 389.7 KB)",1
+ad0e10a7,"Partition rdd_26_4 not found, computing it",1
+ad4950c2,"Block rdd_21_0 stored as bytes in memory (estimated size 244.0 B, free 403.8 KB)",1
+ad5d4e5f,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:160424+7292,1
+aeae7880,"Block rdd_42_15 stored as bytes in memory (estimated size 913.0 B, free 817.5 KB)",1
+aebca3b8,"Partition rdd_42_4 not found, computing it",1
+aff166a3,attempt_201706092018_0024_m_000004_1026: Committed,1
+b0d50a0d,attempt_201706092018_0024_m_000123_1150: Committed,1
+b1256395,"Partition rdd_42_6 not found, computing it",1
+b1a40841,Saved output of task 'attempt_201706092018_0025_m_000001_1180' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000001,1
+b25bb5f2,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:189592+7292,1
+b2936557,"Partition rdd_42_15 not found, computing it",1
+b38f9d53,"Block rdd_42_34 stored as bytes in memory (estimated size 842.0 B, free 832.9 KB)",1
+b3b37e56,"Block broadcast_28_piece0 stored as bytes in memory (estimated size 5.6 KB, free 409.8 KB)",1
+b5403dd7,Started reading broadcast variable 24,1
+b57e4bbe,"Block broadcast_11 stored as values in memory (estimated size 9.2 KB, free 353.9 KB)",1
+b5f9a2a2,Saved output of task 'attempt_201706092018_0024_m_000082_1137' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000082,1
+b6809f25,"Partition rdd_11_1 not found, computing it",1
+b70f31a8,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:153132+7292,1
+b73e5e84,"Partition rdd_11_0 not found, computing it",1
+b74f6928,attempt_201706092018_0024_m_000000_970: Committed,1
+b772fd02,attempt_201706092018_0024_m_000124_1151: Committed,1
+b7ef7c9f,Started reading broadcast variable 2,1
+b84cdbb3,Saved output of task 'attempt_201706092018_0025_m_000002_1194' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000002,1
+b8ff758d,attempt_201706092018_0024_m_000040_1125: Committed,1
+b923f8c3,Slf4jLogger started,1
+b96bfea8,Saved output of task 'attempt_201706092018_0024_m_000001_984' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000001,1
+ba238029,Started reading broadcast variable 15,1
+bae2914a,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:36460+7292,1
+bb92c9f0,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:226052+7292,1
+bc3bc603,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:109380+7292,1
+bd351236,"Block broadcast_18_piece0 stored as bytes in memory (estimated size 5.8 KB, free 454.4 KB)",1
+bdedf4b2,Saved output of task 'attempt_201706092018_0024_m_000160_1155' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000160,1
+bfbb1a2a,Reading broadcast variable 14 took 12 ms,1
+c07c0db0,"Partition rdd_2_2 not found, computing it",1
+c14e8f19,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:233344+7292,1
+c319a431,Reading broadcast variable 12 took 30 ms,1
+c3421d91,"Block rdd_21_4 stored as bytes in memory (estimated size 200.0 B, free 403.2 KB)",1
+c39f6816,"Block broadcast_12 stored as values in memory (estimated size 9.8 KB, free 369.3 KB)",1
+c4b8d16a,Reading broadcast variable 11 took 15 ms,1
+c4e93590,"Block broadcast_34 stored as values in memory (estimated size 77.4 KB, free 593.1 KB)",1
+c5db1b40,Saved output of task 'attempt_201706092018_0024_m_000161_1156' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000161,1
+c60e5eb7,"Block broadcast_0 stored as values in memory (estimated size 384.0 B, free 317.5 KB)",1
+c7855554,"Block broadcast_26_piece0 stored as bytes in memory (estimated size 5.8 KB, free 379.9 KB)",1
+c92496d3,"Found block *{1,1} locally",257
+c9fb1f8c,"Block broadcast_22 stored as values in memory (estimated size 9.6 KB, free 418.6 KB)",1
+cb32118f,"Partition rdd_6_2 not found, computing it",1
+cb4c6a2f,"Block rdd_42_32 stored as bytes in memory (estimated size 993.0 B, free 832.1 KB)",1
+cc0d3c26,"Partition rdd_42_11 not found, computing it",1
+cc4a5ded,"Partition rdd_16_2 not found, computing it",1
+cc741876,Started reading broadcast variable 17,1
+ccc88c1d,"Block broadcast_0_piece0 stored as bytes in memory (estimated size 93.0 B, free 317.1 KB)",1
+ccd2bde7,"Partition rdd_42_37 not found, computing it",1
+ccfc02b0,"Block broadcast_10_piece0 stored as bytes in memory (estimated size 5.8 KB, free 329.6 KB)",1
+cde798ea,"Block rdd_11_3 stored as bytes in memory (estimated size 157.0 B, free 432.3 KB)",1
+ce1e890e,Started reading broadcast variable 39,1
+cecabe4b,Reading broadcast variable 0 took 21 ms,1
+d02ae9f7,Started reading broadcast variable 32,1
+d04a5e45,Saved output of task 'attempt_201706092018_0025_m_000003_1198' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000003,1
+d057debc,Saved output of task 'attempt_201706092018_0025_m_000000_1166' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000000,1
+d069248f,Reading broadcast variable 20 took 15 ms,1
+d07da5eb,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:14584+7292,2
+d0ba2f89,Saved output of task 'attempt_201706092018_0024_m_000120_1145' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000120,1
+d171b16f,attempt_201706092018_0024_m_000122_1147: Committed,1
+d1e44ab3,attempt_201706092018_0024_m_000041_1126: Committed,1
+d291b6c8,Reading broadcast variable 19 took 12 ms,1
+d2c78c8a,"Block broadcast_19_piece0 stored as bytes in memory (estimated size 5.4 KB, free 469.4 KB)",1
+d2cf6999,"Block broadcast_23 stored as values in memory (estimated size 9.2 KB, free 387.4 KB)",1
+d30d8bd1,Saved output of task 'attempt_201706092018_0024_m_000081_1136' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000081,1
+d371be6d,"Block rdd_42_37 stored as bytes in memory (estimated size 939.0 B, free 835.5 KB)",1
+d3ee2238,"Block rdd_6_4 stored as bytes in memory (estimated size 287.0 B, free 369.5 KB)",1
+d471747c,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:182300+7292,1
+d5d577a5,"Block rdd_42_29 stored as bytes in memory (estimated size 901.0 B, free 829.4 KB)",1
+d694dc1a,"Block broadcast_4_piece0 stored as bytes in memory (estimated size 95.0 B, free 317.6 KB)",1
+d6d0c0af,attempt_201706092018_0024_m_000083_1138: Committed,1
+d72250db,Started reading broadcast variable 19,1
+d7cbc2c8,"Partition rdd_2_4 not found, computing it",1
+d85107b6,"Block rdd_42_39 stored as bytes in memory (estimated size 877.0 B, free 838.2 KB)",1
+d86a6004,"Running task *{1,1} in stage *{1,1} (TID *{1,1}",305
+da932dbb,attempt_201706092018_0024_m_000162_1157: Committed,1
+dacf8ad7,"Partition rdd_42_35 not found, computing it",1
+dade3764,"Block rdd_42_10 stored as bytes in memory (estimated size 948.0 B, free 813.1 KB)",1
+db35b93a,"Block broadcast_32_piece0 stored as bytes in memory (estimated size 5.7 KB, free 406.3 KB)",1
+dc27e8ca,"Block rdd_42_31 stored as bytes in memory (estimated size 827.0 B, free 831.1 KB)",1
+dc51d214,Saved output of task 'attempt_201706092018_0024_m_000041_1126' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000041,1
+dc96225c,"Block rdd_42_26 stored as bytes in memory (estimated size 872.0 B, free 827.6 KB)",1
+dce2c528,attempt_201706092018_0024_m_000084_1141: Committed,1
+de7afcc8,Saved output of task 'attempt_201706092018_0024_m_000084_1141' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000084,1
+deb61c46,"Block rdd_21_1 stored as bytes in memory (estimated size 162.0 B, free 403.0 KB)",1
+e089876d,"Block broadcast_1_piece0 stored as bytes in memory (estimated size 107.0 B, free 318.6 KB)",1
+e19161d2,"Partition rdd_30_4 not found, computing it",1
+e2617432,"Block broadcast_8_piece0 stored as bytes in memory (estimated size 21.4 KB, free 35.4 KB)",1
+e2658e71,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:87504+7292,1
+e39c067d,Reading broadcast variable 38 took 11 ms,1
+e3ccfb5d,"Block broadcast_3_piece0 stored as bytes in memory (estimated size 152.0 B, free 318.1 KB)",1
+e3e81251,"Partition rdd_42_14 not found, computing it",1
+e3f14227,"Block broadcast_39 stored as values in memory (estimated size 9.2 KB, free 868.3 KB)",1
+e4c5fa8f,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",1
+e4ec7eeb,"Block rdd_42_18 stored as bytes in memory (estimated size 955.0 B, free 820.8 KB)",1
+e5011a73,"Block rdd_42_36 stored as bytes in memory (estimated size 912.0 B, free 836.4 KB)",1
+e530b862,"Partition rdd_2_3 not found, computing it",1
+e7d8a5cb,"Block broadcast_16_piece0 stored as bytes in memory (estimated size 5.6 KB, free 422.1 KB)",1
+e8f68baf,"Got assigned task *{1,1}",305
+e99571c6,Starting remoting,1
+e9b8e2ce,"Partition rdd_42_26 not found, computing it",1
+ea310381,"Partition rdd_21_0 not found, computing it",1
+ea9c7ae1,attempt_201706092018_0025_m_000002_1194: Committed,1
+eaaac58c,"Block broadcast_36 stored as values in memory (estimated size 281.6 KB, free 803.9 KB)",1
+eb4d1655,"Block broadcast_23_piece0 stored as bytes in memory (estimated size 5.4 KB, free 378.2 KB)",1
+ed1aa2bf,"Block broadcast_21 stored as values in memory (estimated size 10.1 KB, free 403.2 KB)",1
+ef611d34,"Block rdd_26_1 stored as bytes in memory (estimated size 16.0 B, free 419.7 KB)",1
+ef6411a3,"Block rdd_2_4 stored as bytes in memory (estimated size 890.0 B, free 323.8 KB)",1
+ef7fa137,attempt_201706092018_0024_m_000163_1158: Committed,1
+efe08c55,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:204176+7292,1
+f064c506,"Partition rdd_26_3 not found, computing it",1
+f361c75d,"Block broadcast_14 stored as values in memory (estimated size 9.6 KB, free 401.9 KB)",1
+f3f66972,"Block broadcast_22_piece0 stored as bytes in memory (estimated size 5.8 KB, free 409.0 KB)",1
+f4c84e87,"Block rdd_6_0 stored as bytes in memory (estimated size 265.0 B, free 370.7 KB)",1
+f5458dec,"Block rdd_21_2 stored as bytes in memory (estimated size 163.0 B, free 403.5 KB)",1
+f5f2aa21,attempt_201706092018_0024_m_000080_1135: Committed,1
+f6e58ad7,"Block rdd_26_2 stored as bytes in memory (estimated size 16.0 B, free 419.7 KB)",1
+f70d9957,"Block broadcast_33 stored as values in memory (estimated size 82.1 KB, free 486.9 KB)",1
+f7e56c23,"Block rdd_42_33 stored as bytes in memory (estimated size 869.0 B, free 833.7 KB)",1
+f8ecb699,"Block broadcast_10 stored as values in memory (estimated size 9.6 KB, free 339.2 KB)",1
+f993ca68,Started reading broadcast variable 34,1
+f99ff591,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:269804+7292,1
+f9c7f163,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:145840+7292,1
+fa4a8ee5,"Block rdd_42_14 stored as bytes in memory (estimated size 834.0 B, free 816.6 KB)",1
+fae573ab,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:262512+7292,1
+faf48117,"Partition rdd_42_17 not found, computing it",1
+fc214264,"Block rdd_30_1 stored as bytes in memory (estimated size 165.0 B, free 405.6 KB)",1
+fd045ac9,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:131256+7292,1
+ff091e76,"Partition rdd_6_0 not found, computing it",1
+ff284fce,"Block broadcast_14_piece0 stored as bytes in memory (estimated size 5.8 KB, free 392.3 KB)",1
+ff6377c2,Saved output of task 'attempt_201706092018_0025_m_000004_1199' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000004,1
+ff6d64ff,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:247928+7292,1
+ffe14f52,"Partition rdd_26_1 not found, computing it",1

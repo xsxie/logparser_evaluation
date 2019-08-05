@@ -1,0 +1,89 @@
+EventId,EventTemplate,Occurrences
+3ae6b5b9,"""GET HTTPstatus: len: time: .",931
+e430a5c4,[instance: VM Started (Lifecycle Event),22
+e43d4d63,[instance: VM Paused (Lifecycle Event),22
+1c13e38f,[instance:,363
+813e46ae,image dd-c-fbb-c-fbeb at (checking,82
+7639b198,"image dd-c-fbb-c-fbeb at (in use: on this node local, on other nodes sharing this instance storage",82
+62f25288,Active base files: /var/lib/nova/instances/_base/acfcdabcbbace,82
+36497987,Creating event for instance,22
+122f2278,"""POST HTTPstatus: len: time: .",64
+c5a785f9,[instance: VM Resumed (Lifecycle Event),44
+ead99d8d,Auditing locally available compute resources for node cp-.slowvm.tcloud-pg.utah.cloudlab.us,15
+d1b3f9e8,"Total usable vcpus: , total allocated vcpus:",15
+f960c142,Final resource view: name=cp-.slowvm.tcloud-pg.utah.cloudlab.us phys_ram=MB used_ram=MB phys_disk=GB used_disk=GB total_vcpus= used_vcpus= pci_stats=[],15
+f912dd11,Compute_service record updated for cp-.slowvm.tcloud-pg.utah.cloudlab.us:cp-.slowvm.tcloud-pg.utah.cloudlab.us,15
+fec45d4a,"""DELETE HTTPstatus: len: time: .",22
+141ad139,Unknown base file: /var/lib/nova/instances/_base/acfcdabcbbace,30
+4a400e37,Removable base files: /var/lib/nova/instances/_base/acfcdabcbbace,30
+ba92fb0a,Removing base or swap file: /var/lib/nova/instances/_base/acfcdabcbbace,21
+66acd71e,HTTP exception thrown: No instances found for any event,21
+568ea113,"[instance: abccce-df-e-bd-babeb] Total memory: MB, used: . MB",1
+2a1a825f,"[instance: abccce-df-e-bd-babeb] Total disk: GB, used: . GB",1
+8220e89a,"[instance: abccce-df-e-bd-babeb] Total vcpu: VCPU, used: . VCPU",1
+f8ed1561,[instance: VM Stopped (Lifecycle Event),21
+f601c5c8,Successfully synced instances from host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us'.,2
+72aefb77,Running instance usage audit for host cp-.slowvm.tcloud-pg.utah.cloudlab.us from -- :: to -- ::. instances.,1
+0981d508,"[instance: bef-bad-ae-bfa-cbaa] Total memory: MB, used: . MB",1
+21320a91,"[instance: bef-bad-ae-bfa-cbaa] Total disk: GB, used: . GB",1
+c43c9793,"[instance: bef-bad-ae-bfa-cbaa] Total vcpu: VCPU, used: . VCPU",1
+01fa4db5,Base or swap file too young to remove: /var/lib/nova/instances/_base/acfcdabcbbace,9
+282bbf17,"[instance: dc--cc-e-bcdcf] Total memory: MB, used: . MB",1
+40bf8efb,"[instance: dc--cc-e-bcdcf] Total disk: GB, used: . GB",1
+05a3e114,"[instance: dc--cc-e-bcdcf] Total vcpu: VCPU, used: . VCPU",1
+454725dd,"[instance: -b-f--fcbac] Total memory: MB, used: . MB",1
+62d55e37,"[instance: -b-f--fcbac] Total disk: GB, used: . GB",1
+5ec192d1,"[instance: -b-f--fcbac] Total vcpu: VCPU, used: . VCPU",1
+a2c8255e,"[instance: eccf-cb-d-c-fadfc] Total memory: MB, used: . MB",1
+40217fec,"[instance: eccf-cb-d-c-fadfc] Total disk: GB, used: . GB",1
+e464fc26,"[instance: eccf-cb-d-c-fadfc] Total vcpu: VCPU, used: . VCPU",1
+0fc154f4,"[instance: aff-fd--b-ccaa] Total memory: MB, used: . MB",1
+b31e37db,"[instance: aff-fd--b-ccaa] Total disk: GB, used: . GB",1
+155629ae,"[instance: aff-fd--b-ccaa] Total vcpu: VCPU, used: . VCPU",1
+d71722c5,"[instance: aeabd-eec-bb-ba-cdbf] Total memory: MB, used: . MB",1
+f83e8012,"[instance: aeabd-eec-bb-ba-cdbf] Total disk: GB, used: . GB",1
+ed6d76be,"[instance: aeabd-eec-bb-ba-cdbf] Total vcpu: VCPU, used: . VCPU",1
+8cc7361d,The instance sync for host 'cp-.slowvm.tcloud-pg.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+dfd3a3f8,"[instance: -f-da-bee-dcce] Total memory: MB, used: . MB",1
+79588530,"[instance: -f-da-bee-dcce] Total disk: GB, used: . GB",1
+e53a2fd8,"[instance: -f-da-bee-dcce] Total vcpu: VCPU, used: . VCPU",1
+500fe45b,"[instance: fecdda-ca-c--bfe] Total memory: MB, used: . MB",1
+bdf88d70,"[instance: fecdda-ca-c--bfe] Total disk: GB, used: . GB",1
+0c5d1177,"[instance: fecdda-ca-c--bfe] Total vcpu: VCPU, used: . VCPU",1
+156cb55b,"[instance: ad-b-c-b-acadf] Total memory: MB, used: . MB",1
+d2ae6340,"[instance: ad-b-c-b-acadf] Total disk: GB, used: . GB",1
+500db5fa,"[instance: ad-b-c-b-acadf] Total vcpu: VCPU, used: . VCPU",1
+01913c49,"[instance: dbeb-da-aa-bab-dffc] Total memory: MB, used: . MB",1
+abe4ee68,"[instance: dbeb-da-aa-bab-dffc] Total disk: GB, used: . GB",1
+a83f760e,"[instance: dbeb-da-aa-bab-dffc] Total vcpu: VCPU, used: . VCPU",1
+a4346b30,"[instance: ea-cbf-fe-fe-fdf] Total memory: MB, used: . MB",1
+c2df8cd1,"[instance: ea-cbf-fe-fe-fdf] Total disk: GB, used: . GB",1
+7ce135b5,"[instance: ea-cbf-fe-fe-fdf] Total vcpu: VCPU, used: . VCPU",1
+32e63434,"[instance: cb-cb-c-b-afefff] Total memory: MB, used: . MB",1
+8080f61a,"[instance: cb-cb-c-b-afefff] Total disk: GB, used: . GB",1
+ed06ad66,"[instance: cb-cb-c-b-afefff] Total vcpu: VCPU, used: . VCPU",1
+9fbac873,"[instance: bfcd-f--ae-edae] Total memory: MB, used: . MB",1
+edea9d23,"[instance: bfcd-f--ae-edae] Total disk: GB, used: . GB",1
+de5596b8,"[instance: bfcd-f--ae-edae] Total vcpu: VCPU, used: . VCPU",1
+bea8e44f,"While synchronizing instance power states, found instances in the database and instances on the hypervisor.",1
+9b09db62,"[instance: bee-cc-f--caabc] Total memory: MB, used: . MB",1
+178b318b,"[instance: bee-cc-f--caabc] Total disk: GB, used: . GB",1
+2d245cfb,"[instance: bee-cc-f--caabc] Total vcpu: VCPU, used: . VCPU",1
+3780f1a5,"[instance: acf-bb--ad-cacad] Total memory: MB, used: . MB",1
+fa84bf9b,"[instance: acf-bb--ad-cacad] Total disk: GB, used: . GB",1
+49a571c3,"[instance: acf-bb--ad-cacad] Total vcpu: VCPU, used: . VCPU",1
+02a4ea78,"[instance: dab---bdcc-bdd] Total memory: MB, used: . MB",1
+78da625d,"[instance: dab---bdcc-bdd] Total disk: GB, used: . GB",1
+1e5fc015,"[instance: dab---bdcc-bdd] Total vcpu: VCPU, used: . VCPU",1
+eaad7e34,"[instance: dbbd----fffddeae] Total memory: MB, used: . MB",1
+5638ea5d,"[instance: dbbd----fffddeae] Total disk: GB, used: . GB",1
+92d25ab6,"[instance: dbbd----fffddeae] Total vcpu: VCPU, used: . VCPU",1
+8775a57d,"[instance: ea-fe--b-ace] Total memory: MB, used: . MB",1
+678f13b3,"[instance: ea-fe--b-ace] Total disk: GB, used: . GB",1
+51367b21,"[instance: ea-fe--b-ace] Total vcpu: VCPU, used: . VCPU",1
+c1cd105f,"[instance: cff-c-ea-be-edfcfbf] Total memory: MB, used: . MB",1
+ac616645,"[instance: cff-c-ea-be-edfcfbf] Total disk: GB, used: . GB",1
+6bd5635b,"[instance: cff-c-ea-be-edfcfbf] Total vcpu: VCPU, used: . VCPU",1
+7ebda09a,"[instance: fafea-cba-eb-f-abcf] Total memory: MB, used: . MB",1
+c0864384,"[instance: fafea-cba-eb-f-abcf] Total disk: GB, used: . GB",1
+23a55c0e,"[instance: fafea-cba-eb-f-abcf] Total vcpu: VCPU, used: . VCPU",1

@@ -1,0 +1,27 @@
+EventId,EventTemplate,Occurrences
+f91e9178,[instance: <*> <*> <*> <*> <*>,130
+727f2220,[instance: <*> <*> <*>,64
+b46f0a49,[instance: <*> <*> <*> <*>,65
+f33fc9ba,<*> base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,112
+8cd5c7f1,<*> <*> <*> <*> <*> found <*> <*> <*>,21
+1af81650,<*> <*> <*> for <*> <*> <*> <*> <*> <*> <*> <*>,5
+1c71d7b2,[instance: <*> <*> <*> <*> <*> <*> <*> <*> <*>,21
+98cd07ae,<*> base <*> /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,30
+b1efea18,<*> <*> <*>HTTP<*>status: <*> len: <*> time: <*>.<*>,1017
+be230762,<*> <*> <*> <*> <*> <*> <*> <*>.<*> <*>,84
+2f1e291a,[instance: <*> <*> <*> <*> <*> <*> <*>,22
+2d813545,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,9
+86f0cc5f,[instance: <*> <*> <*> <*> <*> <*> <*> <*>,42
+df59981d,<*> instance <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+9607d763,<*> base <*> <*> <*> <*>,21
+e0977a9a,[instance: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,86
+5f939386,[instance: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,21
+b1d153d2,<*> <*> <*> <*> <*> found <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+e3f1040c,<*> <*> <*> for <*>,15
+f5b5a24c,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at <*>,82
+5b655488,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,82
+10e88810,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,15
+c515fd61,Creating event <*> for instance <*>,22
+5d1bf6d9,"Total usable vcpus: <*>, total allocated vcpus: <*>",15
+de89bd84,<*> <*> <*> <*> host <*>,2
+290ea70e,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],15

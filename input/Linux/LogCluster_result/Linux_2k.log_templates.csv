@@ -1,0 +1,172 @@
+EventId,EventTemplate,Occurrences
+6555597,BIOS-e820: 0000000000100000 - 0000000007eae000 (usable),1
+25830347,rpc.statd startup succeeded,1
+53650236,Intel machine check architecture supported.,1
+85959353,Using tsc for high-res timesource,1
+6.07E+51,POSIX conformance testing by UNIFIX,1
+00c09a87,rpc.idmapd startup succeeded,1
+03649f38,Couldn't authenticate user,1
+085b9acf,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,5
+08a3a001,session opened for user news by (uid=0),43
+08e6b3ed,removing device node '/udev/vcs2',2
+0986c616,BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved),1
+0dcc7148,"Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)",1
+0dfe904f,Checking 'hlt' instruction... OK.,1
+0ec1a17a,"DMA zone: 4096 pages, LIFO batch:1",1
+115d0538,session opened for user cyrus by (uid=0),43
+1559494b,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)",1
+172d92d2,kernel.core_uses_pid = 1,1
+18330ef6,Linux Plug and Play Support v0.97 (c) Adam Belay,1
+18dd943f,usbcore: registered new driver hub,1
+19af522a,"Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)",1
+1a06754d,HCI daemon ver 2.4 started,1
+1d16b745,*** info [mice.c(1766)]:,1
+1d8fe60a,Enabling fast FPU save and restore... done.,1
+1f0f69ac,creating device node '/udev/vcsa2',2
+1f72ed8d,PCI: Probing PCI hardware,1
+1f929e8a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.60.37.201,1
+20d372d2,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,10
+20fb0ff0,"HighMem zone: 0 pages, LIFO batch:1",1
+23e33b0b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest,6
+25be35b6,Real Time Clock Driver v1.12,1
+25cca3f1,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root,7
+25f84a46,"connection from *{1,1} at *{3,3} 2005",909
+29249ae3,You can enable it with acpi=force,1
+2b070924,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253  user=guest,1
+2b3d5652,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root,10
+2b566107,Initializing Cryptographic API,1
+2bf1954b,isapnp: Scanning for PnP cards...,1
+2c065952,"CPU 0 irqstacks, hard=02345000 soft=02344000",1
+2e3d6c0c,isapnp: No Plug & Play device found,1
+2e450820,PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0,1
+2ec79755,Kernel command line: ro root=LABEL=/ rhgb quiet,1
+30b1c309,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,10
+3307aa8a,sdpd startup succeeded,1
+3521a3b3,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,10
+3b7968ab,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root,8
+3bd77926,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,10
+3be46d32,session closed for user root,1
+3c5b4adb,ACPI disabled because your bios is from 2000 and too old,1
+3c5e98a7,Security Scaffold v1.0.0 initialized,1
+4124b970,"klogd 1.4.1, log source = /proc/kmsg started.",1
+422b9f66,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,9
+42e1da55,zapping low mappings.,1
+4478a9a8,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004,1
+454971b1,BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved),1
+4845b66c,mapped 4G/4G trampoline to ffff3000.,1
+48462f84,pci_hotplug: PCI Hot Plug PCI Core version: 0.5,1
+48a493b0,Capability LSM initialized,1
+4b75bf96,selinux_register_security:  Registering secondary module capability,1
+4b7e6959,audit: initializing netlink socket (disabled),1
+4c08f9df,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228,5
+4d73c3e7,VFS: Disk quotas dquot_6.5.1,1
+4ed240a7,ACPI: Subsystem revision 20040326,1
+4fb9993c,Transparent bridge - 0000:00:1e.0,1
+5315a7c8,Starting pcmcia:  succeeded,1
+53e65fde,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root,5
+5661f4eb,audit(1122475266.4294965305:0): initialized,1
+585088cb,creating device node '/udev/vcs2',2
+59242a8d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=193.110.106.11  user=root,2
+59a5797a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155,5
+5de744ee,Enabling unmasked SIMD FPU exception support... done.,1
+607eef3d,PCI: Using configuration type 1,1
+65d78444,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,10
+67e6196c,Intel machine check reporting enabled on CPU#0.,1
+69c672eb,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,15
+6adaa5ce,removing device node '/udev/vcsa2',2
+6b198e45,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,10
+6b643c98,126MB LOWMEM available.,1
+6d795035,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code,8
+6f6a192c,session opened for user root by LOGIN(uid=0),1
+6f97e9d4,restart.,7
+70085efa,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root,10
+7035af19,Setting network parameters:  succeeded,1
+70fd00b7,session closed for user news,43
+71a22689,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,8
+71b2abd7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root,10
+72048e6d,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test,4
+78490a8a,User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005,1
+78b83c8f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,80
+7c9bb995,SELinux:  Initializing.,1
+7d73b4c5,portmap startup succeeded,1
+7e048621,CPU: Intel Pentium III (Coppermine) stepping 06,1
+7e7cba5c,BIOS-e820: 0000000000000000 - 00000000000a0000 (usable),1
+809cfe7a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,20
+8480cb7e,SELinux:  Starting in permissive mode,1
+853b751d,NET: Registered protocol family 16,1
+8b736700,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,10
+8c112e82,Version 1.0.6 Starting,1
+8c537990,BIOS-provided physical RAM map:,1
+8eff90b2,Calibrating delay loop... 1445.88 BogoMIPS,1
+8fcd0b4a,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root,3
+9039c097,"ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)",2
+90cdab58,DMI 2.3 present.,1
+9197c6ce,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,14
+91b7ca30,session closed for user test,36
+91fea51a,syslogd startup succeeded,1
+9223a2bb,"Normal zone: 28334 pages, LIFO batch:6",1
+92d153f1,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,10
+97d5ba9f,"CPU: L1 I cache: 16K, L1 D cache: 16K",1
+98908df9,"Total HugeTLB memory allocated, 0",1
+998298a7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,10
+9998416d,warning: can't get client address: Connection reset by peer,2
+9b11616a,0MB HIGHMEM available.,1
+9c64744e,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,23
+a31006da,Failure registering capabilities with the kernel,1
+a5b547df,Console: colour VGA+ 80x25,1
+a5d70d02,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,10
+a757c0c2,ALERT exited abnormally with [1],43
+a82d5ea6,notify question section contains no SOA,16
+a964b7ac,"Mount-cache hash table entries: 512 (order: 0, 4096 bytes)",1
+a9678e83,On node 0 totalpages: 32430,1
+aa644c07,SELinux:  Registering netfilter hooks,1
+abd14c95,klogd startup succeeded,1
+ac28578b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root,9
+adc372d2,cupsd startup succeeded,6
+ae239afe,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com,10
+aee955f9,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,23
+b2f9c7a5,session opened for user test by (uid=509),36
+b311803e,usbcore: registered new driver usbfs,1
+b4ad8557,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=85.44.47.166  user=root,1
+b54f3664,Initializing random number generator:  succeeded,1
+b5532df7,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root,5
+b6fd22c2,Detected 731.219 MHz processor.,1
+b780997e,check pass; user unknown,117
+ba908134,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,15
+bd62aabb,BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved),1
+c094b121,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root,10
+c0f799c0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root,10
+c198901b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,13
+c32da529,PID hash table entries: 512 (order 9: 4096 bytes),1
+c80127b9,imps2: Auto-detected intellimouse PS/2,1
+c859bc91,authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=,1
+c98f12e2,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root,10
+cafc1bbd,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+cd385546,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",1
+cf383357,ACPI: Interpreter disabled.,1
+d64ff9d9,Received SNMP packet(s) from 67.170.148.126,1
+d678ffa6,CPU: L2 cache: 256K,1
+d6afea4b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102,5
+d7763055,irqbalance startup succeeded,1
+d7779571,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com,10
+db9d37a1,sdpd v1.5 started,1
+dbae5392,hcid startup succeeded,1
+de6cd9cf,Built 1 zonelists,1
+dea5ca56,Kerberos authentication failed,23
+dfaad601,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,10
+e05fcc23,cupsd shutdown succeeded,6
+e0661b3c,"There is already a security framework initialized, register_security failed.",1
+e1e0655b,mtrr: v2.0 (20020519),1
+e2234786,ROOT LOGIN ON tty2,1
+e27b23bc,Linux agpgart interface v0.100 (c) Dave Jones,1
+ea8a8d97,PCI: Invalid ACPI-PCI IRQ routing table,1
+ee259d46,getpeername (ftpd): Transport endpoint is not connected,4
+f028e8c1,apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac),1
+f296cad2,"Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)",1
+f2ff1056,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,13
+f518230d,Bringing up loopback interface:  succeeded,1
+f73595e3,PCI: Probing PCI hardware (bus 00),1
+f7ee1205,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,4
+fa05884f,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root,5
+fe3c862d,Initializing CPU#0,1
+fe6f65a7,session closed for user cyrus,43

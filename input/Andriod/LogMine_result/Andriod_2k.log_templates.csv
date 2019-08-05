@@ -1,0 +1,116 @@
+EventId,EventTemplate,Occurrences
+0ce98313,<*> <*> <*> <*>,23
+51815ad0,"acquire lock=, flags=, <*> <*> <*> <*> uid=, pid=",1
+0f9ade43,"ready=true,policy=,wakefulness=,wksummary=,uasummary=,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=,auto=-,adj=.0userId=",199
+ef893a34,<*> <*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*>,4
+b5dd9c4f,<*> is <*> <*> <*> <*> <*> <*> <*>,14
+b5dd9c4f,"<*> <*> <*> <*> <*> uid=, pid=",14
+b5dd9c4f,"updateClipping <*> getTopPadding=., <*>",14
+b5dd9c4f,updateDimmedActivatedHideSensitive <*>,14
+b5dd9c4f,<*> caller does not hold REAL_GET_TASKS; limiting output,14
+b5dd9c4f,"setSystemUiVisibility vis= mask= oldVal= newVal= diff= fullscreenStackVis= dockedStackVis=, fullscreenStackBounds=Rect(,  - , ), dockedStackBounds=Rect(,  - , )",14
+b5dd9c4f,cancelAutohide,14
+b5dd9c4f,"notifyUiVisibilityChanged:vis=, SystemUiVisibility=",14
+b5dd9c4f,Destroying surface <*> - <*> called by : : : <*> : : <*> <*> <*> <*> <*> <*> <*> <*>,14
+b5dd9c4f,"userActivityNoUpdateLocked: eventTime=, event=, flags=, uid=",14
+8f0a8da8,<*> <*> <*> <*> <*> <*>,51
+0f9ade43,startAnimation <*>,199
+ef893a34,remove(PendingIntent{: PendingIntentRecord{ broadcastIntent}}) changed bounds; rebatching,4
+194ea104,<*> last=); user= USER_ROTATION_LOCKED,58
+d6169692,<*> <*> <*> <*> <*>,64
+9e4815fc,shouldBlockLocation <*> <*>,116
+8f0a8da8,getNeighboringCellInfo calling app is ,51
+0f9ade43,"<*> suspend blocker ""PowerManagerService.WakeLocks"".",199
+9db6cece,<*> <*> = <*> <*> <*>,200
+3c2ee2af,"Animating brightness: target=, rate=",15
+46bdb8c8,suspendAutohide,19
+a8278598,interceptKeyTq keycode= interactive=true keyguardActive=false policyFlags= down <*> canceled false,3
+a8278598,resumeSuspendedAutohide,3
+8f0a8da8,querySoundEffectsEnabled...,51
+e58abc89,Bad activity token: @,69
+0f9ade43,: <*> <*> <*> <*> <*>,199
+be2214fc,"onTouchEvent::, x=., y=.",2
+0ce98313,schedulePeek,23
+fc3ab7b2,getRingtonePlayer...,2
+fc3ab7b2,disable: < expand <*> alerts <*> back home recent clock navigationbar search quick_settings >,2
+8f0a8da8,"updateLightsLocked,turn off notificationLight",51
+0f9ade43,"overlapAmount:., previousNotificationEnd:., newYTranslation:-., location:, i:, getTopPadding:., getLocationOnScreen():-",199
+fb8841c2,<*> i:,2
+27316024,onExpandingStarted,2
+fb195195,onTrackingStarted,25
+8f0a8da8,cancelPeek: false,51
+0f9ade43,"flingToHeight: vel=., <*> target=., collapseSpeedUpFactor=., expandBecauseOfFalsing=false",199
+0f9ade43,onTrackingStopped: true,199
+0f9ade43,onExpandingFinished,199
+0f9ade43,<*> <*> <*> <*> : <*> <*>,199
+0f9ade43,<*> <*> <*>,199
+0f9ade43,<*> called <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,199
+c78dacc4,<*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,74
+c78dacc4,<*> <*> <*> for <*>,74
+c78dacc4,[PhoneIntfMgr] getDataEnabled: subId= <*>,74
+c78dacc4,"onInterceptTouchEvent MotionEvent { <*> actionButton=, id[]=, x[]=., y[]=., toolType[]=TOOL_TYPE_FINGER, buttonState=, metaState=, flags=, edgeFlags=, pointerCount=, historySize=, eventTime=, downTime=, deviceId=, source= }, mBlockTouches=false",74
+75598700,playSoundEffect   effectType: ,5
+c78dacc4,"animateCollapsePanels:flags=, <*> <*> <*>",74
+c78dacc4,START u0 <*> <*> <*> <*> <*> <*> from uid on display,74
+0f9ade43,<*> <*> <*> <*> euid:,199
+0f9ade43,"cancelNotification,index:",199
+c78dacc4,"cancelNotificationLocked called,tell the app,reason =",74
+c78dacc4,cancelNotificationLocked:|||null|,74
+0f9ade43,<*> =,199
+0f9ade43,applyOptionsLocked: Unknown animationType=,199
+0f9ade43,<*> <*> from <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,199
+0f9ade43,removeNotification:|||null|,199
+8f0a8da8,"updateNotificationShade: total=, active=",51
+0f9ade43,"state.clipTopAmount:, i:",199
+c78dacc4,setLightsOn(true),74
+c78dacc4,removeNotificationChildren,74
+8f0a8da8,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> } <*> <*> <*>,51
+0f9ade43,getRecentTasks: <*>,199
+82d30237,"cancelNotification,index:-",66
+f094c934,makeExpandedInvisible: <*>,179
+f094c934,closeQs,179
+fdc970cd,instantCollapse,85
+e58abc89,isMusicActive...,69
+0f9ade43,<*> <*> - <*> <*>,199
+482e1e93,isBluetoothA2dpOn...,23
+e02f1716,isBluetoothScoOn...,14
+fb195195,<*> treamType:,25
+e58abc89,getDevicesForStream  streamType: ,69
+0f9ade43,cleanUpApplicationRecord -- ,199
+8d7445f8,stopWifiDisplayScanLocked <*>,10
+e02f1716,getMode...,14
+fb195195,setSpeakerphoneOn <*> <*>,25
+eeec1449,"sending alarm Alarm{ type when PendingIntent{: PendingIntentRecord{ <*> broadcastIntent}}},repeatInterval = ,listenerTag <*>",17
+8f0a8da8,Received TIME_TICK alarm; rescheduling,51
+0f9ade43,received broadcast ,199
+82d30237,handleTimeUpdate,66
+ef893a34,Killing : (adj ): empty for 1810s,4
+9db6cece,unregisterAudioFocusListener...,200
+3c2ee2af,abandonAudioFocus,15
+46bdb8c8,"[HSM] stayAwake false uid: , pid: ",19
+250f653e,Pid: MediaPlayer destructor,1
+6f21aae4,Process :qzone (pid ) has died,4
+ef893a34,<*> <*> <*> <*> service <*> <*>,4
+8f0a8da8,"new Process app=ProcessRecord{ ::qzone}, name: :qzone, euid: ",51
+0f9ade43,enqueueNotificationInternal: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,199
+82d30237,getRingerMode...,66
+9db6cece,addNotification key=|||null|,200
+3c2ee2af,mHeadsUpExistenceChangedRunnable,15
+46bdb8c8,Marking notification as seen |||null|,19
+e58abc89,"rotationForOrientationLw(orient=, last=); user= USER_ROTATION_LOCKED",69
+0f9ade43,"cancelNotificationLocked,remove =",199
+482e1e93,isWiredHeadsetOn...,23
+482e1e93,"setDataSource(, , )",23
+99476f0e,"updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=, mPlugType=, mBatteryLevel=",2
+ade15b9a,ACTION_BATTERY_CHANGED <*> <*> <*>,1
+33c7b245,updateChargingLocked: charging=false,2
+095d7dbe,"onReceive, action:",6
+482e1e93,<*> what=,23
+f094c934,battery changed pluggedType: ,179
+942f09c2,RefreshBatteryInfo isBatteryLow: ,6
+33c7b245,handleBatteryUpdate,2
+f094c934,"updateClipping <*> getTopPadding=., Translation=-.",179
+942f09c2,getRunningAppProcesses: caller  does not hold REAL_GET_TASKS; limiting output,6
+cd399a7b,"animateCollapsePanels:flags=, force=true, delayed=true, mExpandedVisible=true",13
+3b5cfc1f,"updateClipping isOverlap:false, getTopPadding=., Translation=-.",6
+194ea104,updateDimmedActivatedHideSensitive overlap:false,58

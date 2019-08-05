@@ -1,0 +1,77 @@
+EventId,EventTemplate,Occurrences
+e0358e2d,Loaded Servicing Stack v #spec# with Core : C : \Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_ #spec# _none_681aa442f6fed7f0\cbscore.dll,2
+6c5c35d7,* #spec# : 20 : 30 : * WcpInitialize ( wcp.dll version #spec# ) called ( stack @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# ),3
+f456207e,* TrustedInstaller *,5
+ddb70245,Starting the TrustedInstaller main loop.,2
+70236f55,TrustedInstaller service starts successfully.,2
+1d6a7aa9,SQM : Initializing online with Windows opt-in : False,2
+4e62e16a,SQM : Cleaning up report files older than #spec# days.,2
+28803839,SQM : Requesting upload of all unsent reports.,2
+9179235c,"SQM : Failed to start upload with file pattern : C : \Windows\servicing\sqm\*_std.sqm , flags : #spec# [ HRESULT = #spec# - E_FAIL ]",2
+afea6058,SQM : Failed to start standard sample upload. [ HRESULT = #spec# - E_FAIL ],2
+c6669e35,"SQM : Queued #spec# file ( s ) for upload with pattern : C : \Windows\servicing\sqm\*_all.sqm , flags : #spec#",2
+168d0db1,SQM : Warning : Failed to upload all unsent reports. [ HRESULT = #spec# - E_FAIL ],2
+89ede93e,"No startup processing required , TrustedInstaller service was not set as autostart , or else a reboot is still pending.",2
+a6e998ff,NonStart : Checking to ensure startup processing was not required.,2
+e8306501,"#spec# IAdvancedInstallerAwareStore_ResolvePendingTransactions ( call 1 ) ( flags = 00000004 , progress = NULL , phase = 0 , pdwDisposition = @ #spec#",2
+8f61950b,"#spec# Creating NT transaction ( seq 1 ) , objectname [ 6 ] "" ( null ) """,2
+a39d4df2,"#spec# Created NT transaction ( seq * ) result #spec# , handle @ #spec#",3
+39b872ba,00000007@ #spec# : 20 : 30 : 31.462 CSI perf trace :,1
+336f8f41,"NonStart : Success , startup processing not required as expected.",2
+0249909f,Startup processing thread terminated normally,2
+aba9d2a8,#spec# CSI Store #spec# ( #spec# ) initialized,3
+66ef179c,Session : * initialized by client *,609
+8e8298b5,Warning : Unrecognized packageExtended attribute.,280
+ba6af27e,Expecting attribute name [ HRESULT = #spec# - CBS_E_MANIFEST_INVALID_ITEM ],224
+177f0962,Failed to get next element [ HRESULT = #spec# - CBS_E_MANIFEST_INVALID_ITEM ],224
+bdd7abdd,Failed to internally open package. [ HRESULT = #spec# - CBS_E_INVALID_PACKAGE ],18
+050b5afc,"Read out cached package applicability for package : * #spec# , ApplicableState : 112 , CurrentState : 112",409
+b79eac7a,"Read out cached package applicability for package : * #spec# , ApplicableState : 80 , CurrentState : 112",81
+f937c8b4,"Read out cached package applicability for package : Package_for_KB3019978~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+d2eccb73,"Read out cached package applicability for package : * #spec# , ApplicableState : 0 , CurrentState : 0",22
+3c5c3e12,"Read out cached package applicability for package : Package_for_KB2716513~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+0ff57144,"Read out cached package applicability for package : Package_for_KB2489256~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+54702732,"Read out cached package applicability for package : Package_for_KB3075220~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+25d47d0b,"Read out cached package applicability for package : * #spec# , ApplicableState : 112 , CurrentState : 0",18
+ddd0f6a0,"Read out cached package applicability for package : Package_for_KB3020387~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+5a03c873,"Read out cached package applicability for package : Package_for_KB2706045~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+ee605e0f,"Read out cached package applicability for package : Package_for_KB2703157~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+49449ce2,"Read out cached package applicability for package : Package_for_KB2719033~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+52331ea7,"Read out cached package applicability for package : Package_for_KB3020393~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 64 , CurrentState : 0",2
+bda58ef4,"Read out cached package applicability for package : Package_for_KB3067904~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+a0834de5,"Read out cached package applicability for package : Package_for_KB2632503~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+3721a6c6,"Read out cached package applicability for package : Package_for_KB3075222~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+c5da7de9,"Read out cached package applicability for package : Package_for_KB3005788~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+c7b4ec6c,"Read out cached package applicability for package : Package_for_KB3035017~31bf3856ad364e35~amd64~~ #spec# , ApplicableState : 80 , CurrentState : 0",2
+6c57e617,Failed to create backup log cab. [ HRESULT = #spec# - ERROR_INVALID_FUNCTION ],2
+c7368b76,Reboot mark refs incremented to : #spec#,1
+9a33072c,Scavenge : Starts,1
+98bcc0ce,"00000009@ #spec# : 20 : 40 : 53.744 CSI Transaction @ #spec# initialized for deployment engine { d16d444c-56d8-11d5-882d-0080c847b195 } with flags #spec# and client id [ 10 ] ""TI6.0_0 : 0/""",1
+2fc22df5,Scavenge : Begin CSI Store,1
+d7708810,#spec# Performing #spec# operations ; #spec# are not lock/unlock and follow :,1
+133cfa16,"#spec# Store coherency cookie matches last scavenge cookie , skipping scavenge.",1
+ffdd88d0,#spec# ICSITransaction : : Commit calling IStorePendingTransaction : : Apply - coldpatching = FALSE applyflags = 7,1
+80d3ee51,"#spec# Creating NT transaction ( seq 2 ) , objectname [ 6 ] "" ( null ) """,1
+382eb86c,0000000f@ #spec# : 20 : 40 : 54.786 CSI perf trace :,1
+fb6899b9,"Scavenge : Completed , disposition : 0X1",1
+47786276,00000010@ #spec# : 20 : 40 : 54.787 CSI Transaction @ #spec# destroyed,1
+ad9a687d,Reboot mark refs : #spec#,1
+ecc5604d,Idle processing thread terminated normally,1
+1915371f,Ending the TrustedInstaller main loop.,1
+7f7671d6,00000001@ #spec# : 16 : 00 : 46.160 WcpInitialize ( wcp.dll version #spec# ) called ( stack @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# ),1
+a4309821,00000002@ #spec# : 16 : 00 : 46.200 WcpInitialize ( wcp.dll version #spec# ) called ( stack @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# ),1
+8f0dec9c,00000003@ #spec# : 16 : 00 : 46.213 WcpInitialize ( wcp.dll version #spec# ) called ( stack @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# @ #spec# ),1
+45f05972,00000007@ #spec# : 16 : 00 : 46.260 CSI perf trace :,1
+4a7e271c,"Loading offline registry hive : SOFTWARE , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SOFTWARE ' .",1
+ce3abd12,"Loading offline registry hive : SYSTEM , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SYSTEM ' .",1
+06f5c1b5,"Loading offline registry hive : SECURITY , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SECURITY ' .",1
+6544ab84,"Loading offline registry hive : SAM , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM ' .",1
+4e614a13,"Loading offline registry hive : COMPONENTS , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\COMPONENTS ' .",1
+a5e0e82d,"Loading offline registry hive : DEFAULT , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\DEFAULT ' .",1
+191e927d,"Loading offline registry hive : ntuser.dat , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuser.dat ' .",1
+5d8cd865,"Loading offline registry hive : schema.dat , into registry key ' { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec# ' from path ' \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat ' .",1
+243b9413,Offline image is : read-only,1
+086fde9e,"Disabling manifest caching , because the image is not writeable.",1
+379e2365,00000008@ #spec# : 16 : 00 : 46.635 PopulateComponentFamiliesKey - Begin,1
+0b9aedb8,00000009@ #spec# : 16 : 01 : 03.072 PopulateComponentFamiliesKey - End,1
+e99f151d,Unloading offline registry hive : { bf1a281b-ad7b-4476-ac95-f47682990ce7 } #spec#,8

@@ -1,0 +1,386 @@
+EventId,EventTemplate,Occurrences
+5175825,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] memory limit: 96258.00 MB, free: 95746.00 MB",1
+15291421,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] During sync_power_state the instance has a pending task (spawning). Skip.,1
+17019967,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/127e769a-4fe6-4548-93b1-513ac51e0452 HTTP/1.1"" status: 204 len: 203 time: 0.2509129",1
+26991653,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] During sync_power_state the instance has a pending task (spawning). Skip.,2
+33137378,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Deleting instance files /var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del,1
+38853928,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Took 19.37 seconds to spawn the instance on the hypervisor.,1
+49493427,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total memory: 64172 MB, used: 512.00 MB",1
+51966374,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] vcpu limit not specified, defaulting to unlimited",1
+69329036,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Took 20.55 seconds to build instance.,1
+70387992,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 0.48 seconds to deallocate network for instance.,1
+83207324,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Creating image,1
+94626135,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/b9000564-fe1a-409b-b8cc-1e88b294cd1d HTTP/1.1"" status: 204 len: 203 time: 0.2534380",1
+001b936b,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Total memory: 64172 MB, used: 512.00 MB",1
+006a9d8e,Creating event network-vif-plugged:1bb8c7a3-effa-4568-8cf7-2b9a55011df9 for instance 70c1714b-c11b-4c88-b300-239afe1f5ff8,1
+0070f479,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Took 0.54 seconds to deallocate network for instance.,1
+00b6276f,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 19.32 seconds to spawn the instance on the hypervisor.,1
+012dae9d,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 1.02 seconds to destroy the instance on the hypervisor.,1
+027c0783,Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.,1
+044fe637,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] disk limit not specified, defaulting to unlimited",1
+06a9d99d,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] memory limit: 96258.00 MB, free: 95746.00 MB",1
+0776f0aa,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deleting instance files /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del,1
+07ff2bcb,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+0995ae50,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] vcpu limit not specified, defaulting to unlimited",1
+0af7a3c8,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] During sync_power_state the instance has a pending task (spawning). Skip.,2
+0b717e35,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+0de10a49,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Deleting instance files /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del,1
+0ec26759,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 0.45 seconds to deallocate network for instance.,1
+0ef036d9,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 1.00 seconds to destroy the instance on the hypervisor.,1
+0fa9285a,Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,21
+11f028e9,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 19.53 seconds to spawn the instance on the hypervisor.,1
+1260303b,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] During sync_power_state the instance has a pending task (spawning). Skip.,2
+1282dec7,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+12b67311,Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us,15
+12eb03ac,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Total memory: 64172 MB, used: 512.00 MB",1
+134d6d62,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 21.05 seconds to build instance.,1
+13f1262c,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+143a76f2,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Creating image,1
+149e7a8d,Creating event network-vif-plugged:f53e6f35-05f7-4896-9abf-6df58d3e69b8 for instance d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c,1
+1521ff76,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Terminating instance,1
+15dfc1fc,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] disk limit not specified, defaulting to unlimited",1
+1626c0d1,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Deleting instance files /var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del,1
+163055ea,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Creating image,1
+172a2a2c,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Terminating instance,1
+19799e0d,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Took 0.99 seconds to destroy the instance on the hypervisor.,1
+1ca68718,Creating event network-vif-plugged:d1ce4c5a-2811-41c3-8a5a-39f9e6defcb8 for instance b562ef10-ba2d-48ae-bf4a-18666cba4a51,1
+1cc27b03,"image dd-c-fbb-c-fbeb at (in use: on this node local, on other nodes sharing this instance storage",82
+1d5ebfcb,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+1d8e7bdb,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 1.04 seconds to destroy the instance on the hypervisor.,1
+1e088a3b,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 20.25 seconds to spawn the instance on the hypervisor.,1
+1e173d38,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Total disk: 15 GB, used: 0.00 GB",1
+1e324cbd,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] vcpu limit not specified, defaulting to unlimited",1
+1e492990,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 20.83 seconds to build instance.,1
+1fa55332,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 19.97 seconds to build instance.,1
+1fb41223,Creating event network-vif-plugged:b26c4935-6377-4e96-9ba1-ec6985d42d5d for instance 78dc1847-8848-49cc-933e-9239b12c9dcf,1
+2028dbbc,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 0.48 seconds to deallocate network for instance.,1
+20bb8906,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] memory limit: 96258.00 MB, free: 95746.00 MB",1
+20e6de0a,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] disk limit not specified, defaulting to unlimited",1
+21c6b656,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Creating image,1
+21d11d9d,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] disk limit not specified, defaulting to unlimited",1
+2203b7a8,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] memory limit: 96258.00 MB, free: 95746.00 MB",1
+22de28ea,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Creating image,1
+231926a7,Creating event network-vif-plugged:e3871ffd-5cd5-4287-bddd-3529f7b59515 for instance b9000564-fe1a-409b-b8cc-1e88b294cd1d,1
+23ed8a16,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Total memory: 64172 MB, used: 512.00 MB",1
+246e8269,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] disk limit not specified, defaulting to unlimited",1
+24c70c8c,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Deleting instance files /var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del,1
+24ee8c69,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Terminating instance,1
+24f88dfa,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Total disk: 15 GB, used: 0.00 GB",1
+25bd5ea3,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 21.11 seconds to build instance.,1
+26a5ba55,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] During sync_power_state the instance has a pending task (spawning). Skip.,2
+2a7e1d79,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5 HTTP/1.1"" status: 204 len: 203 time: 0.2801199",1
+2c261a25,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 1.01 seconds to destroy the instance on the hypervisor.,1
+2d57b63e,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Terminating instance,1
+2e4bf916,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 1.00 seconds to destroy the instance on the hypervisor.,1
+2ee6382b,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/95960536-049b-41f6-9049-05fc479b6a7c HTTP/1.1"" status: 204 len: 203 time: 0.2639730",1
+2f0953ae,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 21.25 seconds to build instance.,1
+2f897c42,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 21.08 seconds to build instance.,1
+2fa72fc9,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Took 20.03 seconds to spawn the instance on the hypervisor.,1
+31820a84,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Creating image,1
+31b9752a,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Deleting instance files /var/lib/nova/instances/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f_del,1
+32435c96,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] disk limit not specified, defaulting to unlimited",1
+33b7ee51,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] disk limit not specified, defaulting to unlimited",1
+344a9dba,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] memory limit: 96258.00 MB, free: 95746.00 MB",1
+34f5ad6f,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 0.45 seconds to deallocate network for instance.,1
+358485f7,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Total memory: 64172 MB, used: 512.00 MB",1
+361829da,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/be793e89-2cc3-4f99-9884-9c6a624a84bc HTTP/1.1"" status: 204 len: 203 time: 0.2519062",1
+36c15b9f,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] During sync_power_state the instance has a pending task (spawning). Skip.,1
+37a4a061,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+38d20ee6,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/78dc1847-8848-49cc-933e-9239b12c9dcf HTTP/1.1"" status: 204 len: 203 time: 0.2560370",1
+3a401153,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Terminating instance,1
+3b5fb0db,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Creating image,1
+3ba69a44,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Total memory: 64172 MB, used: 512.00 MB",1
+3dc0f7c4,Creating event network-vif-plugged:a208479c-c0e3-4730-a5a0-d75e8afd0252 for instance 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4,1
+3eb0d0d3,Creating event network-vif-plugged:5c0b217a-68a9-46d1-8936-23c5688aa673 for instance bf8c824d-f099-4433-a41e-e3da7578262e,1
+3ede01bf,"[instance: *{1,1} VM *{1,1} (Lifecycle Event)",109
+3fbbe1b8,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total disk: 15 GB, used: 0.00 GB",1
+410c4c46,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/70c1714b-c11b-4c88-b300-239afe1f5ff8 HTTP/1.1"" status: 204 len: 203 time: 0.2632701",1
+41e4a8df,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] During sync_power_state the instance has a pending task (spawning). Skip.,2
+41f84efc,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+421f2c18,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] During sync_power_state the instance has a pending task (spawning). Skip.,2
+422d133c,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] During sync_power_state the instance has a pending task (spawning). Skip.,2
+42b5c368,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 20.35 seconds to spawn the instance on the hypervisor.,1
+42ce540a,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] memory limit: 96258.00 MB, free: 95746.00 MB",1
+432186b5,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c HTTP/1.1"" status: 204 len: 203 time: 0.2855930",1
+44e6a4a0,Creating event network-vif-plugged:98dbd0a6-013e-4cd9-9986-fa32e5d6dd32 for instance ae3a1b5d-eec1-45bb-b76a-c59d83b1471f,1
+4547e08b,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 1.11 seconds to destroy the instance on the hypervisor.,1
+45ecc51e,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+47257dc5,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Terminating instance,1
+47c68912,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 20.09 seconds to spawn the instance on the hypervisor.,1
+489e5aab,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] vcpu limit not specified, defaulting to unlimited",1
+49e04380,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] disk limit not specified, defaulting to unlimited",1
+4b5ab48c,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f HTTP/1.1"" status: 204 len: 203 time: 0.2648540",1
+4c771745,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 1.01 seconds to destroy the instance on the hypervisor.,1
+4d22f02c,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+4d908033,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Took 0.46 seconds to deallocate network for instance.,1
+4dbe436e,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/af5f7392-f7d4-4298-b647-c98924c64aa1 HTTP/1.1"" status: 204 len: 203 time: 0.2809131",1
+4e1a2d46,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Took 19.47 seconds to spawn the instance on the hypervisor.,1
+4e729ba3,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Deleting instance files /var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del,1
+4eba4d12,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 1.02 seconds to destroy the instance on the hypervisor.,1
+4fac0409,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] memory limit: 96258.00 MB, free: 95746.00 MB",1
+5016211c,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 1.02 seconds to destroy the instance on the hypervisor.,1
+501d2aa7,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] memory limit: 96258.00 MB, free: 95746.00 MB",1
+50c59bb3,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Deleting instance files /var/lib/nova/instances/bf8c824d-f099-4433-a41e-e3da7578262e_del,1
+50d79dc3,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 20.03 seconds to spawn the instance on the hypervisor.,1
+528aaa7f,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] vcpu limit not specified, defaulting to unlimited",1
+52b75cb7,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] During sync_power_state the instance has a pending task (spawning). Skip.,2
+52d68d1f,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Total memory: 64172 MB, used: 512.00 MB",1
+536c11e3,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 20.23 seconds to build instance.,1
+54ad6218,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 20.79 seconds to build instance.,1
+555565f1,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Total disk: 15 GB, used: 0.00 GB",1
+55a7d9e3,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Terminating instance,1
+574f5234,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+5792c063,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Creating image,1
+584d933e,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Creating image,1
+585dae77,Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,30
+58c0b5e9,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Total disk: 15 GB, used: 0.00 GB",1
+592fb640,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+5a0e26e6,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+5b1c0b35,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Deleting instance files /var/lib/nova/instances/fecdd5a9-3ca0-4c82-9336-63b7774f738e_del,1
+5bf4eca5,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 20.71 seconds to build instance.,1
+5bfefceb,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+5c3d4f8b,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Terminating instance,1
+5cd7e1fb,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+5d23bb1d,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 0.45 seconds to deallocate network for instance.,1
+5d75bb5b,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Deleting instance files /var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del,1
+5f31dda5,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 1.03 seconds to destroy the instance on the hypervisor.,1
+5f5079a8,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+5f65a90a,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+5ffe0012,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Terminating instance,1
+60a71b1b,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 19.96 seconds to spawn the instance on the hypervisor.,1
+60d72860,Creating event network-vif-plugged:e1bf6353-ae58-4e46-b2d1-65a69b992bed for instance 63a0d960-70b6-44c6-b606-491478a5cadf,1
+61436d96,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 0.46 seconds to deallocate network for instance.,1
+627a351d,Creating event network-vif-plugged:1cf11429-1563-4f6c-823c-91ba6e0f6675 for instance 95960536-049b-41f6-9049-05fc479b6a7c,1
+62cfb578,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 20.29 seconds to spawn the instance on the hypervisor.,1
+62d27a45,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Terminating instance,1
+62f0a884,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] vcpu limit not specified, defaulting to unlimited",1
+63e4bdaf,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total memory: 64172 MB, used: 512.00 MB",1
+659867b2,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] disk limit not specified, defaulting to unlimited",1
+66acd71e,HTTP exception thrown: No instances found for any event,21
+6a16f337,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+6a5e9acf,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] disk limit not specified, defaulting to unlimited",1
+6a6b7306,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Deleting instance files /var/lib/nova/instances/d6b7bd36-2943-4363-9235-fffdd89ea40e_del,1
+6afb96d4,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] During sync_power_state the instance has a pending task (spawning). Skip.,2
+6b22a6c0,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total memory: 64172 MB, used: 512.00 MB",1
+6b4cc615,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deleting instance files /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del,1
+6b5af45d,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Deleting instance files /var/lib/nova/instances/d96a117b-0193-4549-bdcc-63b917273d1d_del,1
+6ce0da0b,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Deleting instance files /var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del,1
+6d4343ad,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] During sync_power_state the instance has a pending task (spawning). Skip.,2
+6d620002,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+6e1343a8,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Total disk: 15 GB, used: 0.00 GB",1
+6e2778e6,Active base files: /var/lib/nova/instances/_base/acfcdabcbbace,82
+6f52891b,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Took 19.07 seconds to spawn the instance on the hypervisor.,1
+7041cb3a,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Total memory: 64172 MB, used: 512.00 MB",1
+70c8c018,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+71f6b3bf,Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=16 used_vcpus=0 pci_stats=[],6
+7553cf98,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Terminating instance,1
+75b128f1,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+76515cf6,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] vcpu limit not specified, defaulting to unlimited",1
+76a83324,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] vcpu limit not specified, defaulting to unlimited",1
+7746494f,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] memory limit: 96258.00 MB, free: 95746.00 MB",1
+779c28c2,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Took 19.92 seconds to build instance.,1
+77a6ecaa,"""GET HTTPstatus: len: time: .",931
+77e24d10,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Creating image,1
+7823a4c6,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 20.47 seconds to spawn the instance on the hypervisor.,1
+7824c2e4,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Terminating instance,1
+78b2b935,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+7948bbc2,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+7a3b84d3,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Took 20.14 seconds to build instance.,1
+7bc5abac,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] memory limit: 96258.00 MB, free: 95746.00 MB",1
+7d6f6ebd,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Creating image,1
+7e514fbe,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Total disk: 15 GB, used: 0.00 GB",1
+7e713260,Creating event network-vif-plugged:418c107f-95d6-4655-ae6b-90bca57d9a71 for instance be793e89-2cc3-4f99-9884-9c6a624a84bc,1
+7eb57555,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Total memory: 64172 MB, used: 512.00 MB",1
+7ecd75a6,Creating event network-vif-plugged:85754923-baff-45ad-9e35-a3055c898234 for instance 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5,1
+7eceaf46,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Total memory: 64172 MB, used: 512.00 MB",1
+7fbac943,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Deleting instance files /var/lib/nova/instances/95960536-049b-41f6-9049-05fc479b6a7c_del,1
+8000cdf2,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Deleting instance files /var/lib/nova/instances/a015cf14-84bb-4156-a48d-7c4824ac7a9d_del,1
+82b2cf44,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Creating image,1
+8488a133,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1"" status: 204 len: 203 time: 0.2727120",1
+85387a14,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 0.54 seconds to deallocate network for instance.,1
+866ddfcd,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] vcpu limit not specified, defaulting to unlimited",1
+86e68682,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+874332aa,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Terminating instance,1
+87dcf15a,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] memory limit: 96258.00 MB, free: 95746.00 MB",1
+88c4dbb8,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1"" status: 204 len: 203 time: 0.2726481",1
+8932590a,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] disk limit not specified, defaulting to unlimited",1
+89fa3371,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4 HTTP/1.1"" status: 204 len: 203 time: 0.2604880",1
+8bc26214,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deleting instance files /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del,1
+8c9db295,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+8cbd1801,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+8d6180aa,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+8dc50c1b,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Total disk: 15 GB, used: 0.00 GB",1
+8dd074c3,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 20.31 seconds to build instance.,1
+8de82701,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total memory: 64172 MB, used: 512.00 MB",1
+8e95df1d,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] memory limit: 96258.00 MB, free: 95746.00 MB",1
+8f0e32fb,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+8f89bb8a,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] disk limit not specified, defaulting to unlimited",1
+915cf5c2,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] memory limit: 96258.00 MB, free: 95746.00 MB",1
+91c1cd1a,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 0.99 seconds to destroy the instance on the hypervisor.,1
+91f91c42,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Terminating instance,1
+922f2884,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] disk limit not specified, defaulting to unlimited",1
+9324816b,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 20.72 seconds to build instance.,1
+935a21f3,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+93ad7bed,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total disk: 15 GB, used: 0.00 GB",1
+93c76410,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/a015cf14-84bb-4156-a48d-7c4824ac7a9d HTTP/1.1"" status: 204 len: 203 time: 0.3042688",1
+93ceeede,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Took 0.45 seconds to deallocate network for instance.,1
+94d6392e,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+95003b20,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+954ef513,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total memory: 64172 MB, used: 512.00 MB",1
+95b9c838,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] vcpu limit not specified, defaulting to unlimited",1
+971bd327,Creating event network-vif-plugged:8b683414-2896-4251-aa05-980752c9b9b3 for instance fecdd5a9-3ca0-4c82-9336-63b7774f738e,1
+976572da,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+9851bc93,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+99afa95f,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/c62f4f25-982c-4ea2-b5e4-93000edfcfbf HTTP/1.1"" status: 204 len: 203 time: 0.2904921",1
+9ac87979,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total disk: 15 GB, used: 0.00 GB",1
+9be245ad,Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.,2
+9c5aa4bb,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] disk limit not specified, defaulting to unlimited",1
+9c98b6f2,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] memory limit: 96258.00 MB, free: 95746.00 MB",1
+9cf83a45,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 1.00 seconds to destroy the instance on the hypervisor.,1
+9d96d837,Creating event network-vif-plugged:72791ba0-33ef-44f2-9d88-d7c8f313cb46 for instance a015cf14-84bb-4156-a48d-7c4824ac7a9d,1
+9dabb01f,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] vcpu limit not specified, defaulting to unlimited",1
+9e3c041e,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 1.00 seconds to destroy the instance on the hypervisor.,1
+9f12feda,The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.,5
+9f34a66c,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/43204226-2f87-4da7-b7ee-4d20cc66e846 HTTP/1.1"" status: 204 len: 203 time: 0.2904482",1
+9f8fe8c0,Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,30
+a09e330b,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Took 0.46 seconds to deallocate network for instance.,1
+a2268b33,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d96a117b-0193-4549-bdcc-63b917273d1d HTTP/1.1"" status: 204 len: 203 time: 0.2549498",1
+a313d859,Creating event network-vif-plugged:60df1c66-a513-4973-aeed-095809a52794 for instance 43204226-2f87-4da7-b7ee-4d20cc66e846,1
+a639ba39,Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[],9
+a6ac61ab,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/b562ef10-ba2d-48ae-bf4a-18666cba4a51 HTTP/1.1"" status: 204 len: 203 time: 0.2582572",1
+a6e51ea9,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] disk limit not specified, defaulting to unlimited",1
+a7473397,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total disk: 15 GB, used: 0.00 GB",1
+a7b0d053,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] During sync_power_state the instance has a pending task (spawning). Skip.,2
+a935ab5d,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] disk limit not specified, defaulting to unlimited",1
+a96242d7,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Terminating instance,1
+ab2d93b4,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Creating image,1
+ab995ef0,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] During sync_power_state the instance has a pending task (spawning). Skip.,2
+abe6c255,Creating event network-vif-plugged:0b72aca0-102e-4421-8ff3-2902d8353ff0 for instance d6b7bd36-2943-4363-9235-fffdd89ea40e,1
+ac17a78e,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] vcpu limit not specified, defaulting to unlimited",1
+ac2b2d7b,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+ac499eb2,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Creating image,1
+af58bcd4,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Total memory: 64172 MB, used: 512.00 MB",1
+af66fafd,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 0.57 seconds to deallocate network for instance.,1
+b0dd7bea,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Terminating instance,1
+b132235c,"Total usable vcpus: 16, total allocated vcpus: 0",6
+b1b1ac5e,[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 0.47 seconds to deallocate network for instance.,1
+b21b1806,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 19.71 seconds to spawn the instance on the hypervisor.,1
+b719fd5d,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total disk: 15 GB, used: 0.00 GB",1
+b725915f,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Deleting instance files /var/lib/nova/instances/70c1714b-c11b-4c88-b300-239afe1f5ff8_del,1
+b7c2b597,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+b8053af9,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Took 1.04 seconds to destroy the instance on the hypervisor.,1
+b8759954,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Total disk: 15 GB, used: 0.00 GB",1
+b876706b,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Creating image,1
+b8fcd84e,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] During sync_power_state the instance has a pending task (spawning). Skip.,2
+b969f75a,"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Total memory: 64172 MB, used: 512.00 MB",1
+b9f877c3,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 21.11 seconds to build instance.,1
+bb807cea,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] During sync_power_state the instance has a pending task (spawning). Skip.,2
+bbadcbc6,Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f,1
+bc0f0d5b,Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us,15
+bdbccab2,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+be35e564,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total disk: 15 GB, used: 0.00 GB",1
+be521eeb,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] vcpu limit not specified, defaulting to unlimited",1
+bf5d5001,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 0.53 seconds to deallocate network for instance.,1
+bf61f330,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Terminating instance,1
+bfbeea2d,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/63a0d960-70b6-44c6-b606-491478a5cadf HTTP/1.1"" status: 204 len: 203 time: 0.2671530",1
+c1303c39,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] vcpu limit not specified, defaulting to unlimited",1
+c2d19fe0,Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452,1
+c2fbcedc,Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-0193-4549-bdcc-63b917273d1d,1
+c39868dd,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Total memory: 64172 MB, used: 512.00 MB",1
+c3ec86d3,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Took 19.74 seconds to spawn the instance on the hypervisor.,1
+c443f3fd,Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,9
+c50e496b,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Creating image,1
+c518be7d,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.05 seconds to spawn the instance on the hypervisor.,1
+c5894857,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Total disk: 15 GB, used: 0.00 GB",1
+c661a34f,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+c66dc9f0,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] vcpu limit not specified, defaulting to unlimited",1
+c6a0268b,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] memory limit: 96258.00 MB, free: 95746.00 MB",1
+c8612bb2,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] During sync_power_state the instance has a pending task (spawning). Skip.,2
+cc0ff16d,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 19.37 seconds to spawn the instance on the hypervisor.,1
+cc6133d6,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 20.05 seconds to spawn the instance on the hypervisor.,1
+cd7289ff,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] memory limit: 96258.00 MB, free: 95746.00 MB",1
+cda3e7f2,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total memory: 64172 MB, used: 512.00 MB",1
+cdc980fc,[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Deleting instance files /var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del,1
+cde5562c,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+d02931c5,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] vcpu limit not specified, defaulting to unlimited",1
+d08bdab1,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/fecdd5a9-3ca0-4c82-9336-63b7774f738e HTTP/1.1"" status: 204 len: 203 time: 0.2630820",1
+d0e599c5,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] disk limit not specified, defaulting to unlimited",1
+d14bd0e7,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Terminating instance,1
+d1b8c81d,[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Creating image,1
+d3c73a12,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 1.01 seconds to destroy the instance on the hypervisor.,1
+d4487cd1,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] disk limit not specified, defaulting to unlimited",1
+d922b75a,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 20.32 seconds to spawn the instance on the hypervisor.,1
+d94dce28,[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 1.04 seconds to destroy the instance on the hypervisor.,1
+d966d65b,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 0.48 seconds to deallocate network for instance.,1
+d99fcd7e,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Creating image,1
+da30a991,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Creating image,1
+dad0f8a1,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] During sync_power_state the instance has a pending task (spawning). Skip.,2
+db65ff80,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] During sync_power_state the instance has a pending task (spawning). Skip.,2
+db768b40,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+dc163271,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total memory: 64172 MB, used: 512.00 MB",1
+dc4549e5,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total disk: 15 GB, used: 0.00 GB",1
+dc5a425a,Creating event network-vif-plugged:7bdba89d-dd80-489c-ab06-11d494c5c478 for instance af5f7392-f7d4-4298-b647-c98924c64aa1,1
+dd0c6a0e,[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 0.46 seconds to deallocate network for instance.,1
+dd6dfd97,"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Total memory: 64172 MB, used: 512.00 MB",1
+de6ca2eb,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+de8cfb48,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] disk limit not specified, defaulting to unlimited",1
+dec2f962,[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Took 1.03 seconds to destroy the instance on the hypervisor.,1
+e0724d76,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 0.57 seconds to deallocate network for instance.,1
+e127ed26,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Deleting instance files /var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del,1
+e2421b28,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 0.52 seconds to deallocate network for instance.,1
+e2d48db5,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Total disk: 15 GB, used: 0.00 GB",1
+e31e21c5,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.84 seconds to build instance.,1
+e330fda9,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 19.79 seconds to build instance.,1
+e3386baf,"[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Total disk: 15 GB, used: 0.00 GB",1
+e34f36f1,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Took 1.01 seconds to destroy the instance on the hypervisor.,1
+e3b18943,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Took 20.80 seconds to build instance.,1
+e3f6d6d7,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] vcpu limit not specified, defaulting to unlimited",1
+e43b204e,"Total usable vcpus: 16, total allocated vcpus: 1",9
+e4dae6ad,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Total disk: 15 GB, used: 0.00 GB",1
+e50d7164,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Took 20.22 seconds to build instance.,1
+e542f2b0,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d6b7bd36-2943-4363-9235-fffdd89ea40e HTTP/1.1"" status: 204 len: 203 time: 0.2511380",1
+e761cf2a,"[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Total memory: 64172 MB, used: 512.00 MB",1
+e9cdc96b,[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 19.16 seconds to spawn the instance on the hypervisor.,1
+e9ebe21f,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 0.47 seconds to deallocate network for instance.,1
+eb465e48,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total vcpu: 16 VCPU, used: 0.00 VCPU",1
+eb6c3668,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] memory limit: 96258.00 MB, free: 95746.00 MB",1
+ec44f184,[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Terminating instance,1
+ec78c015,"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] vcpu limit not specified, defaulting to unlimited",1
+ec852abe,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] memory limit: 96258.00 MB, free: 95746.00 MB",1
+ec9e3e51,"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] vcpu limit not specified, defaulting to unlimited",1
+ecf35be8,Creating event network-vif-plugged:b73a8d80-ce9e-49ff-bb0d-a1b8571f5e26 for instance c62f4f25-982c-4ea2-b5e4-93000edfcfbf,1
+ee346723,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] memory limit: 96258.00 MB, free: 95746.00 MB",1
+eef1ff8c,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total disk: 15 GB, used: 0.00 GB",1
+eef61300,[instance: bf8c824d-f099-4433-a41e-e3da7578262e] During sync_power_state the instance has a pending task (spawning). Skip.,3
+ef30ac7d,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 20.05 seconds to build instance.,1
+efe4ed31,image dd-c-fbb-c-fbeb at (checking,82
+f07125c1,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Creating image,1
+f2446bb9,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 19.19 seconds to spawn the instance on the hypervisor.,1
+f2b2ab48,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 0.47 seconds to deallocate network for instance.,1
+f2b9550a,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] vcpu limit not specified, defaulting to unlimited",1
+f2c59493,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 18.98 seconds to spawn the instance on the hypervisor.,1
+f2d59697,"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.",1
+f2f84832,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 1.02 seconds to destroy the instance on the hypervisor.,1
+f303f8b4,Creating event network-vif-plugged:899a49ed-0154-4308-949e-f59ac7acc66d for instance 17288ea8-cbf4-4f0e-94fe-853fd2735f29,1
+f31335f8,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 20.14 seconds to build instance.,1
+f3b345cc,"""POST HTTPstatus: len: time: .",64
+f4ce3b08,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Deleting instance files /var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del,1
+f6ca4adf,"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+f775ec6f,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Total disk: 15 GB, used: 0.00 GB",1
+f87fa0f3,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Terminating instance,1
+f8d5f02d,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] memory limit: 96258.00 MB, free: 95746.00 MB",1
+f90c48be,"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] vcpu limit not specified, defaulting to unlimited",1
+f90efc7f,"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/bf8c824d-f099-4433-a41e-e3da7578262e HTTP/1.1"" status: 204 len: 203 time: 0.2631681",1
+f926ab8e,"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] memory limit: 96258.00 MB, free: 95746.00 MB",1
+f9fe3994,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Terminating instance,1
+fab881fd,"[instance: *{3,4}",86
+fac7f2ca,[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] During sync_power_state the instance has a pending task (spawning). Skip.,2
+fc25c9c3,"[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] disk limit not specified, defaulting to unlimited",1
+fc44b266,"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU",1
+fce2b014,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 0.58 seconds to deallocate network for instance.,1
+fd39ac79,[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] During sync_power_state the instance has a pending task (spawning). Skip.,2
+fe37f52c,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Creating image,1
+fe88321d,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 1.05 seconds to destroy the instance on the hypervisor.,1
+fe8bc36f,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 20.89 seconds to build instance.,1
+ff30760a,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Terminating instance,1
+ff8fc578,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] disk limit not specified, defaulting to unlimited",1

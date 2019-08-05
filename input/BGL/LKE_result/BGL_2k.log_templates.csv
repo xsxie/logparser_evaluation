@@ -1,0 +1,191 @@
+EventId,EventTemplate,Occurrences
+3aa50e45,instruction cache parity error corrected,42
+ff52c40c,<*>,1554
+5e9dd915,"CE sym 2, at 0x0b85eee0, mask 0x05",1
+1e014f4c,"CE sym 20, at 0x1438f9e0, mask 0x40",1
+14f9aec7,"CE sym 20, at 0x01228120, mask 0x10",1
+ac17a695,"CE sym 5, at 0x11042a80, mask 0x04",2
+24a26a12,"CE sym 28, at 0x110067e0, mask 0x02",1
+7d3864ad,"1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1",1
+e3bd236a,"CE sym 14, at 0x06047860, mask 0x20",1
+ca1b0af7,"CE sym 2, at 0x1b85f080, mask 0x02",1
+eff13641,"CE sym 2, at 0x1b85fe80, mask 0x02",1
+94574253,"CE sym 10, at 0x08d10580, mask 0x08",1
+cba9de64,floating pt ex mode 0 enable......0,3
+b74d53ca,floating pt ex mode 1 enable......0,2
+1335bf9d,guaranteed instruction cache block touch.0,2
+53a936ba,guaranteed data cache block touch........1,1
+a9ddfd24,total of 1 ddr error(s) detected and corrected,10
+7703a4fa,"CE sym 2, at 0x0b85f680, mask 0x0e",1
+1cdb3bd0,"CE sym 0, at 0x1b858280, mask 0x40",2
+61e0fbaa,"1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 1",1
+0f5bd515,"CE sym 12, at 0x1b786f60, mask 0x04",1
+155d5021,"CE sym 0, at 0x1b8584e0, mask 0x80",1
+c1b6af49,"CE sym 23, at 0x03f89c00, mask 0x10",2
+7d0c49f2,"CE sym 0, at 0x1b8594e0, mask 0x40",1
+a2335b6b,Node card is not fully functional,6
+995838d5,"CE sym 10, at 0x08e70580, mask 0x08",1
+e0ef4384,"CE sym 0, at 0x1b858ca0, mask 0x40",1
+5d43f1db,"CE sym 22, at 0x049af800, mask 0x02",1
+3eb4472a,Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005,1
+9d5d6232,Can not get assembly information for node card,6
+27db4ccb,1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,1
+3b95f0dd,"CE sym 2, at 0x0d09f1c0, mask 0x80",1
+220716fc,rts panic! - stopping execution,2
+d3355c58,"CE sym 16, at 0x0456cd40, mask 0x04",1
+72e526f2,"1 ddr errors(s) detected and corrected on rank 0, symbol 33, bit 7",1
+2fbf058f,"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015",1
+e1f7f832,"1 ddr errors(s) detected and corrected on rank 0, symbol 20, bit 3",1
+dada6431,total of 23 ddr error(s) detected and corrected,1
+99dbe804,"CE sym 25, at 0x155e28e0, mask 0x08",1
+53e680a6,"1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 6",1
+3ca2672b,New ido chip inserted into the database: FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D ip=10.7.0.13 v=9 t=2,1
+429605cd,New ido chip inserted into the database: FF:F2:9F:16:BF:6C:00:0D:60:E9:40:93 ip=10.5.0.46 v=13 t=4,1
+12c46e92,NodeCard is not fully functional,1
+86a5b6eb,"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",1
+1659537e,Node card VPD check: U11 node in processor card slot do not match. VPD ecid found,5
+4001b50b,New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4,1
+e3703b8d,"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",35
+5ceb0a30,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,5
+3349a785,Node card VPD check: U01 node in processor card slot do not match. VPD ecid found,4
+68d134b6,Ido chip status changed: FF:F2:9F:16:EB:27:00:0D:60:E9:14:D8 ip=10.0.2.192 v=13 t=4 status=M Thu Aug 04 15:29:45 PDT 2005,1
+f40875b2,Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005,1
+68f94ac4,"CE sym 27, at 0x11b3f3c0, mask 0x10",1
+f1a5d851,"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310",1
+9d651095,Ido chip status changed: FF:F2:9F:16:DC:81:00:0D:60:E9:23:7E ip=10.6.1.207 v=13 t=4 status=M Tue Aug 09 10:08:23 PDT 2005,1
+c42200c4,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,1
+a482432a,"CE sym 18, at 0x0e0272e0, mask 0x10",1
+d066154a,1 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+1cd3b2e4,"CE sym 8, at 0x0a2ae600, mask 0x10",2
+d3b511c2,"CE sym 28, at 0x0fe65820, mask 0x04",1
+d4496318,"CE sym 25, at 0x10e1b8a0, mask 0x10",1
+ff46fc05,rts: kernel terminated for reason 1003,1
+d5136bdb,rts: kernel terminated for reason 1004,5
+3286329f,"CE sym 22, at 0x009c14e0, mask 0x20",1
+a882a9e3,"1 ddr errors(s) detected and corrected on rank 0, symbol 10, bit 0",1
+35f4dcbb,"CE sym 3, at 0x0b19b8a0, mask 0x08",1
+ced9fca6,"CE sym 20, at 0x180462c0, mask 0x02",1
+c9d21e44,"CE sym 0, at 0x12af93a0, mask 0x08",1
+24269012,"1 ddr errors(s) detected and corrected on rank 0, symbol 28, bit 3",1
+3f52a9c2,"CE sym 10, at 0x01d7a160, mask 0x10",1
+afc7bcc1,"NFS Mount failed on bglio716, slept 15 seconds, retrying (1)",1
+6ceeee77,"NFS Mount failed on bglio91, slept 15 seconds, retrying (1)",1
+3a609c39,"CE sym 26, at 0x07a95e80, mask 0x10",1
+0c819fdb,"3 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 0",1
+2da3533e,"CE sym 35, at 0x1317cee0, mask 0x10",1
+547d8b2e,Lustre mount FAILED : bglio559 : point /p/gb1,1
+3028f9b9,Lustre mount FAILED : bglio344 : point /p/gb1,1
+709dac7e,"4 ddr errors(s) detected and corrected on rank 0, symbol bit",3
+6599ddfe,Lustre mount FAILED : bglio46 : point /p/gb1,1
+b1496644,Lustre mount FAILED : bglio136 : point /p/gb1,1
+f1753770,Lustre mount FAILED : bglio75 : point /p/gb1,1
+2155f34b,1 torus receiver x+ input pipe error(s) (dcr 0x02ec) detected and corrected,1
+c04650d3,Lustre mount FAILED : bglio736 : point /p/gb1,1
+ddf777d5,"CE sym 33, at 0x00dbd200, mask 0x80",1
+c8868487,"CE sym 26, at 0x146ad540, mask 0x10",1
+c6394360,Lustre mount FAILED : bglio336 : point /p/gb1,1
+f9cbe640,"CE sym 21, at 0x04d64dc0, mask 0x80",1
+23c0c2fe,Lustre mount FAILED : bglio23 : point /p/gb1,1
+07d9ed29,1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected,1
+b218d94f,"1 ddr errors(s) detected and corrected on rank 0, symbol 3, bit 6",1
+865798e1,"CE sym 6, at 0x1880a8e0, mask 0x40",1
+ea3efa0b,suppressing further interrupts of same type,2
+0dbab2b1,Lustre mount FAILED : bglio388 : point /p/gb1,1
+2c18671a,"CE sym 25, at 0x1a544020, mask 0x40",1
+e0d4d6ba,Ido chip status changed: FF:F2:9F:15:7B:E0:00:0D:60:EA:84:1F ip=10.7.0.130 v=13 t=1 status=M Sat Sep 17 07:49:04 PDT 2005,1
+548835a8,"CE sym 9, at 0x123b6ca0, mask 0x20",1
+67d49f9f,rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,1
+ad1a95fe,"CE sym 29, at 0x14123c20, mask 0x08",1
+6478f9e7,"1 ddr errors(s) detected and corrected on rank 0, symbol 35, bit 1",1
+3131de18,"CE sym 26, at 0x022c3fc0, mask 0x40",1
+db17545e,total of 4 ddr error(s) detected and corrected,1
+cc13cc8d,"CE sym 27, at 0x166a9f20, mask 0x02",1
+87558b86,"CE sym 21, at 0x13d38aa0, mask 0x40",1
+78a87499,"CE sym 15, at 0x0bde77e0, mask 0x04",1
+725eed5e,"CE sym 16, at 0x0149a040, mask 0x80",1
+dd499251,"CE sym 2, at 0x0fa3d060, mask 0x08",1
+2be009e3,critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire,1
+de280de3,"CE sym 5, at 0x0e37bbe0, mask 0x40",1
+9d28afea,"CE sym 4, at 0x18f28be0, mask 0x40",1
+a38d7a48,"CE sym 13, at 0x0397e0e0, mask 0x08",1
+eb45856b,"CE sym 9, at 0x11b9cc60, mask 0x04",1
+96ca91dc,"CE sym 6, at 0x06ec7a20, mask 0x20",1
+933c25d1,"CE sym 9, at 0x11f82720, mask 0x02",1
+43796374,"CE sym 6, at 0x0148b640, mask 0x10",1
+f8094783,total of 2 ddr error(s) detected and corrected,1
+a7c57297,"CE sym 20, at 0x0a508740, mask 0x02",1
+80a53ee4,"CE sym 25, at 0x06c27c60, mask 0x40",1
+cd60033d,total of 12 ddr error(s) detected and corrected,1
+4131cdd7,"1 ddr errors(s) detected and corrected on rank 0, symbol 28, bit 0",1
+aa096813,"CE sym 5, at 0x13253280, mask 0x04",1
+21c4d5d9,"CE sym 14, at 0x17086be0, mask 0x02",1
+637f2d60,4 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+51e597af,"CE sym 23, at 0x1793c560, mask 0x01",1
+d2c7ffb9,"CE sym 14, at 0x08d4e740, mask 0x01",1
+f3eed4bf,data cache search parity error detected. attempting to correct,6
+6b81a761,"CE sym 12, at 0x18e33e80, mask 0x04",2
+572a2c2e,"CE sym 13, at 0x00f254e0, mask 0x20",1
+a205b7d2,"1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 7",1
+f1f86793,critical input interrupt (unit=0x0b bit=0x0b): warning for torus z- wire,1
+39266a55,16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,1
+7742363a,"CE sym 29, at 0x1b719940, mask 0x02",1
+6355bc2b,"CE sym 27, at 0x1b70b860, mask 0x80",2
+1a14b7fb,"CE sym 16, at 0x18fa5d40, mask 0x80",1
+b5175de6,"CE sym 30, at 0x1bd2b700, mask 0x04",1
+6b143f6b,"CE sym 21, at 0x111d8c60, mask 0x01",1
+0d059795,"CE sym 34, at 0x11e7ed80, mask 0x80",1
+3d415c22,"2 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 6",1
+806fb2b9,"CE sym 30, at 0x042358a0, mask 0x20",2
+6927903d,"CE sym 25, at 0x10e1bce0, mask 0x40",1
+9eb6435d,5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,1
+6796aa05,"CE sym 9, at 0x12870760, mask 0x40",1
+e8a1ed5d,3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,1
+dc0caa00,"CE sym 6, at 0x00e462c0, mask 0x02",1
+75f8bca4,"CE sym 25, at 0x00e19cc0, mask 0x10",1
+db2a320a,"2 ddr errors(s) detected and corrected on rank 0, symbol 4, bit 4",1
+5759d186,"CE sym 15, at 0x1bb2fe80, mask 0x02",1
+7c67b37d,"1 ddr errors(s) detected and corrected on rank 0, symbol 8, bit 7",1
+35a72b99,"CE sym 25, at 0x12127ee0, mask 0x10",1
+e84d0e9f,"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type",2
+5be096f7,torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over seconds,2
+4aafa1b4,"CE sym 28, at 0x1efc7020, mask 0x20",1
+c17e917f,Lustre mount FAILED : bglio78 : block_id : location,1
+5a695884,MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),7
+e4076bb8,"CE sym 14, at 0x136cd5e0, mask 0x04",1
+9e4d32d7,13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds,1
+144f1302,"CE sym 1, at 0x01d7eaa0, mask 0x02",1
+92420707,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,51
+268cafb1,"total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",71
+77341f4b,"CE sym 4, at 0x0589f8e0, mask 0x10",1
+d98e59cc,"CE sym 27, at 0x00284720, mask 0x11",1
+8419650e,"CE sym 9, at 0x0021d9c0, mask 0x20",1
+7140b906,"CE sym 15, at 0x06a72120, mask 0x04",1
+43ba6776,"1 ddr error(s) detected and corrected on rank 0, symbol 24 over 335 seconds",1
+7d6bd641,"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648",1
+d9735fda,"Kernel detected 35591540 integer alignment exceptions (35591533) iar 0x0023f108, dear 0x1feaa260 (35591534) iar 0x00265564, dear 0x1feaa1c0 (35591535) iar 0x00265574, dear 0x1feaa1e0 (35591536) iar 0x00265578, dear 0x1feaa200 (35591537) iar 0x00265588, dear 0x1feaa220 (35591538) iar 0x0026558c, dear 0x1feaa240 (35591539) iar 0x00265594, dear 0x1feaa260 (35591540) iar 0x00265598, dear 0x1feaa280",1
+8ab866b7,1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 244 seconds,1
+19c6726b,"CE sym 33, at 0x1ff2fc60, mask 0x04",1
+7b4ba4ac,"CE sym 11, at 0x06366640, mask 0x04",1
+6e62ba49,"CE sym 19, at 0x057c7e00, mask 0x20",1
+bf09393d,"159 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 seconds",1
+bc6a6051,"CE sym 29, at 0x0ea9fd60, mask 0x40",1
+c500524e,Lustre mount FAILED : bglio617 : block_id : location,1
+0ea50ffe,"critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type",1
+f848d6c7,size of scratchpad portion of L3.........0 (0M),1
+63e2d263,"Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80",1
+77db7dd7,"Kernel detected 3853444 integer alignment exceptions (3853437) iar 0x00544ea8, dear 0x01ef5e20 (3853438) iar 0x00544eb8, dear 0x01ef5e40 (3853439) iar 0x00544ea8, dear 0x01ef5e60 (3853440) iar 0x00544eb8, dear 0x01ef5e80 (3853441) iar 0x00544ee0, dear 0x01ef5ea0 (3853442) iar 0x00544ef0, dear 0x01ef5ec0 (3853443) iar 0x00544ee0, dear 0x01ef5ee0 (3853444) iar 0x00544ef0, dear 0x01ef5f00",1
+65715d54,"Kernel detected 3747792 integer alignment exceptions (3747785) iar 0x00544ea8, dear 0x01fc9220 (3747786) iar 0x00544eb8, dear 0x01fc9240 (3747787) iar 0x00544ea8, dear 0x01fc9260 (3747788) iar 0x00544eb8, dear 0x01fc9280 (3747789) iar 0x00544ee0, dear 0x01fc92a0 (3747790) iar 0x00544ef0, dear 0x01fc92c0 (3747791) iar 0x00544ee0, dear 0x01fc92e0 (3747792) iar 0x00544ef0, dear 0x01fc9300",1
+9d4c6fba,"Kernel detected 3946290 integer alignment exceptions (3946283) iar 0x00544ea8, dear 0x01ef6080 (3946284) iar 0x00544eb8, dear 0x01ef60a0 (3946285) iar 0x00544ea8, dear 0x01ef60c0 (3946286) iar 0x00544eb8, dear 0x01ef60e0 (3946287) iar 0x00544ee0, dear 0x01ef6100 (3946288) iar 0x00544ef0, dear 0x01ef6120 (3946289) iar 0x00544ee0, dear 0x01ef6140 (3946290) iar 0x00544ef0, dear 0x01ef6160",1
+bacd8cdf,"Kernel detected 4909176 integer alignment exceptions (4909169) iar 0x00544ea8, dear 0x01fc8a40 (4909170) iar 0x00544eb8, dear 0x01fc8a60 (4909171) iar 0x00544ea8, dear 0x01fc8a80 (4909172) iar 0x00544eb8, dear 0x01fc8aa0 (4909173) iar 0x00544ee0, dear 0x01fc8ac0 (4909174) iar 0x00544ef0, dear 0x01fc8ae0 (4909175) iar 0x00544ee0, dear 0x01fc8b00 (4909176) iar 0x00544ef0, dear 0x01fc8b20",1
+c8ee6b3a,"Kernel detected 4898338 integer alignment exceptions (4898331) iar 0x00544ea8, dear 0x049e75e0 (4898332) iar 0x00544eb8, dear 0x049e7600 (4898333) iar 0x00544ea8, dear 0x049e7620 (4898334) iar 0x00544eb8, dear 0x049e7640 (4898335) iar 0x00544ee0, dear 0x049e7660 (4898336) iar 0x00544ef0, dear 0x049e7680 (4898337) iar 0x00544ee0, dear 0x049e76a0 (4898338) iar 0x00544ef0, dear 0x049e76c0",1
+9387ff2b,"Kernel detected 3945740 integer alignment exceptions (3945733) iar 0x00544ea8, dear 0x01ef7960 (3945734) iar 0x00544eb8, dear 0x01ef7980 (3945735) iar 0x00544ea8, dear 0x01ef79a0 (3945736) iar 0x00544eb8, dear 0x01ef79c0 (3945737) iar 0x00544ee0, dear 0x01ef79e0 (3945738) iar 0x00544ef0, dear 0x01ef7a00 (3945739) iar 0x00544ee0, dear 0x01ef7a20 (3945740) iar 0x00544ef0, dear 0x01ef7a40",1
+0d2a2e4c,"Kernel detected 3486044 integer alignment exceptions (3486037) iar 0x00544ea8, dear 0x01ef7c60 (3486038) iar 0x00544eb8, dear 0x01ef7c80 (3486039) iar 0x00544ea8, dear 0x01ef7ca0 (3486040) iar 0x00544eb8, dear 0x01ef7cc0 (3486041) iar 0x00544ee0, dear 0x01ef7ce0 (3486042) iar 0x00544ef0, dear 0x01ef7d00 (3486043) iar 0x00544ee0, dear 0x01ef7d20 (3486044) iar 0x00544ef0, dear 0x01ef7d40",1
+fd453908,"1 ddr error(s) detected and corrected on rank 0, symbol 9 over 986 seconds",1
+391b2db5,total of 5 ddr error(s) detected and corrected over 9108 seconds,1
+5b67bc09,"28 ddr error(s) detected and corrected on rank 0, symbol 21 over 11562 seconds",1
+e2bc8821,"2 ddr error(s) detected and corrected on rank 0, symbol 28 over 3365 seconds",1
+d1e83ec7,"2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds",1
+d47de601,"5 ddr error(s) detected and corrected on rank 0, symbol 28 over 2946 seconds",1
+ebc2d039,total of 20 ddr error(s) detected and corrected over 22070 seconds,1
+58b7753b,2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,1
+09ff4e4b,total of 3 ddr error(s) detected and corrected over 8732 seconds,1

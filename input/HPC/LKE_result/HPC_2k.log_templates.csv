@@ -1,0 +1,72 @@
+EventId,EventTemplate,Occurrences
+05243854,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID),1
+3f73703b,Component State Change: Component \042alt0\042 is in the unavailable state (HWID),11
+c62b5dea,clusterAddMember (command 1902),1
+f2bdfb20,clusterAddMember (command 1900),1
+0619e7ed,(command,3
+bb02a910,boot (command,67
+5fd98954,wait (command 1975),1
+c76d5d80,halt (command 1982),1
+66e944ed,wait (command,65
+bbdf6b9d,halt (command 2221),1
+267a4147,halt (command 2992),1
+b4e25afc,Command has completed successfully,10
+2f9a7072,Targeting domains:node-D3 and nodes:node-[104-127] child of command 1963,1
+f8fdcabe,Targeting domains:node-D4 and nodes:node-[136-159] child of command 1964,1
+2794dcdf,Targeting domains:node-D7 and nodes:node-[224\ 228\ 232],1
+72fc29e8,Targeting domains:node-D4 and nodes:node-[128-135] child of command 2401,1
+e2217656,Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489,1
+53666618,Targeting domains:node-D0 and nodes:node-0,1
+f8d968b5,Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191],1
+0683372e,Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488,1
+42cd5c38,Targeting domains:node-D2 and nodes:node-84,1
+9abe9501,psu failure\ ambient,5
+3b219fff,Temperature (41C) exceeds warning threshold,2
+a6191a58,ClusterFileSystem: is no,68
+aedc7bac,NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0,1
+0d68f521,NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0,1
+291f390d,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442,1
+1e3ec3ca,Fan speeds ( ),90
+5452c51c,Command has been aborted,1
+e13d082a,power/control problem,1
+ec4e03ec,Link error,13
+db5aa7f9,Link in reset,9
+641961b9,Link ok,13
+061650ca,Link error on broadcast tree Interconnect-0T00:00:2:1,1
+53b99803,Link error on broadcast tree Interconnect-1T00:00:3:6,1
+80957346,Link error on broadcast tree Interconnect-1T00:00:2:0,2
+f92e50cb,ServerFileSystem: ServerFileSystem domain is full,12
+75101dcd,running,162
+61326117,blocked,15
+b02b9741,not responding,60
+8cfafe98,configured out,91
+445dbb18,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,1
+c76a5e84,active,5
+1793c40e,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,1
+252f035f,not-responding,1
+13856549,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,1
+1ee85f6c,starting,1
+3b38bec1,closing,1
+86d6833d,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,1
+fea08751,normal,206
+7b83d3f0,warning,205
+fff66a4d,ambient,292
+7e85bcb6,critical,20
+9050ee25,Linkerror event interval expired,394
+488fc71a,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+c46cea30,boot (command 2092) Error: HALT asserted\ cannot continue,1
+bde73f88,Failed subcommands 3406,1
+551adf73,link errors remain current,56
+2452a3a9,NIFF: node has detected an available network connection on network 10.128.0.0 via interface ee0,45
+52a23ef2,NIFF: node has detected an available network connection on network 5.5.226.0 via interface alt0,10
+9f565435,NIFF: node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+62a54a09,NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+efbd4bd1,NIFF: node node-130 has detected an available network connection on network 10.96.0.0 via interface scip0,1
+52230e96,NIFF: node has detected an available network connection on network 5.5.224.0 via interface alt0,26
+cdcbc24c,NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+17737e13,NIFF: node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+8af3bd0c,NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0,1
+09ffddff,NIFF: node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+214f1918,NIFF: node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+0089397c,NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0,1
+06cf24d7,NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0,1

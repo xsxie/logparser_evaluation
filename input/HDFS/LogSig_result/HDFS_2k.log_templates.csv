@@ -1,0 +1,13 @@
+EventId,EventTemplate,Occurrences
+c9397c3d,PacketResponder for block terminating,311
+5fd4a9f7,BLOCK* NameSystem.addStoredBlock: blockMap updated: is added to size 67108864,314
+b8cb67c7,Received block of size 67108864 from,294
+25892c6b,Receiving block src: dest:,292
+22db39d4,BLOCK* NameSystem.allocateBlock:,114
+8af8295d,Verification succeeded for,20
+87a130e3,Deleting block file,263
+b125c439,Served block to,80
+65a74147,exception while serving to,80
+41abde3b,BLOCK* NameSystem.delete: is added to invalidSet of,224
+bae11913,BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_200811101024_0012_m_001635_0/part-01635. blk_9034993982993401678,2
+83f566ef,BLOCK* ask to delete,6

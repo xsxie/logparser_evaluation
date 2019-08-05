@@ -1,0 +1,229 @@
+EventId,EventTemplate,Occurrences
+5528285,Invalid user 1234 from,3
+17649200,Invalid user abc from 187.141.143.180,1
+18720384,PAM 1 more authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=,2
+20286413,"Failed password for invalid user user from port *{1,1} ssh2",4
+32341264,pam_unix(sshd:auth): check pass; user unknown,135
+46299761,Failed password for invalid user admin from port 49673 ssh2,3
+54436124,input_userauth_request: invalid user postgres1 [preauth],1
+59253845,input_userauth_request: invalid user support [preauth],6
+62729180,input_userauth_request: invalid user 123456 [preauth],1
+84078106,Invalid user zhangyan from 183.62.140.253,1
+94878157,"Failed password for invalid user magnos from port *{1,1} ssh2",2
+95022287,Failed password for invalid user postgres1 from 187.141.143.180 port 45073 ssh2,1
+002832eb,Failed password for invalid user redhat from 187.141.143.180 port 49479 ssh2,1
+02e9ce61,Invalid user 123 from,2
+03f08a09,Invalid user ubnt from,2
+05deeed1,Invalid user test9 from 52.80.34.196,1
+0965bbb0,Invalid user utsims from 112.95.230.3,1
+1157fd28,Invalid user ted from 187.141.143.180,1
+11ff332a,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=ftp,3
+13e3d3dd,"Failed password for ftp from port *{1,1} ssh2",3
+146c55e8,input_userauth_request: invalid user ubnt [preauth],2
+166da85a,Failed password for root from port 50655 ssh2,2
+1704dd04,Invalid user Management from 103.99.0.122,1
+1a2a35c0,Invalid user anonymous from,2
+1b8d07f9,reverse mapping checking getaddrinfo for [] failed - POSSIBLE BREAK-IN ATTEMPT!,85
+1b8d50e8,Failed password for invalid user ted from 187.141.143.180 port 59333 ssh2,1
+1dab1ed4,Failed password for invalid user www from 187.141.143.180 port 56816 ssh2,1
+1e9a4fa4,input_userauth_request: invalid user cyrus [preauth],1
+2007c8f3,Invalid user test2 from 187.141.143.180,1
+2121c8df,Failed password for invalid user test from 52.80.34.196 port 36060 ssh2,1
+2222afcd,Failed password for invalid user eoor from 187.141.143.180 port 45825 ssh2,1
+22356b77,input_userauth_request: invalid user deploy [preauth],2
+26fb2dd8,Failed password for invalid user cheng from 202.100.179.208 port 32891 ssh2,1
+27fdfadc,Invalid user operator from 103.99.0.122,1
+288a2924,Failed password for invalid user dff from 183.62.140.253 port 33902 ssh2,1
+29a7a5d5,Failed password for root from 183.62.140.253 port 39710 ssh2,1
+2c7a1167,Invalid user support from,6
+2ceca950,Failed password for invalid user cyrus from 187.141.143.180 port 33574 ssh2,1
+2d88851e,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=git,3
+2f06061d,input_userauth_request: invalid user cisco [preauth],2
+2f3224dd,Failed password for invalid user pgadmin from 112.95.230.3 port 54087 ssh2,1
+3031942f,"Failed password for invalid user 1234 from port *{1,1} ssh2",3
+30e5f1e2,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64,1
+326ad472,Failed password for invalid user monitor from 103.99.0.122 port 59812 ssh2,1
+32faae49,input_userauth_request: invalid user inspur [preauth],3
+3588f866,input_userauth_request: invalid user guest [preauth],3
+35ca9280,input_userauth_request: invalid user bssh [preauth],1
+3707cb45,input_userauth_request: invalid user test [preauth],5
+38277a2d,input_userauth_request: invalid user ingrid [preauth],1
+391094d9,Failed password for invalid user abc from 187.141.143.180 port 58106 ssh2,1
+3a2f6469,Received disconnect from : 11: Closed due to user request. [preauth],7
+3ab74077,Failed password for invalid user Management from 103.99.0.122 port 55028 ssh2,1
+3c4b6e96,input_userauth_request: invalid user  0101 [preauth],1
+3ccd4526,Invalid user magnos from,2
+3d25d1fe,input_userauth_request: invalid user postgres [preauth],1
+407f158f,Failed password for invalid user PlcmSpIp from 103.99.0.122 port 51966 ssh2,1
+421a0080,input_userauth_request: invalid user pi [preauth],1
+42da03f1,Invalid user 123456 from 183.62.140.253,1
+43464d90,Failed password for invalid user boot from 183.62.140.253 port 48976 ssh2,1
+43fd6164,Failed password for invalid user  0101 from 5.188.10.180 port 36279 ssh2,1
+442cb468,input_userauth_request: invalid user chen [preauth],1
+456eddca,input_userauth_request: invalid user magnos [preauth],2
+46077f92,Invalid user  0101 from 5.188.10.180,1
+461adfa3,PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=,4
+4843c37b,Invalid user cisco from,2
+49ed9f6e,Invalid user oracle from,6
+4acd9a6c,Invalid user dff from 183.62.140.253,1
+4b48b938,Failed password for invalid user api from 185.190.58.151 port 36894 ssh2,1
+4c62e1fd,Invalid user www from 187.141.143.180,1
+4ca88b08,pam_unix(sshd:session): session opened for user fztu by (uid=0),1
+4d575fc5,Invalid user nagios from 187.141.143.180,1
+4dc0f8a1,Invalid user butter from 187.141.143.180,1
+4ea524ec,input_userauth_request: invalid user Management [preauth],1
+503a63f5,Failed password for invalid user butter from 187.141.143.180 port 48369 ssh2,1
+52ad5e36,Failed none for invalid user admin from 5.188.10.180 port 52631 ssh2,1
+5537175c,Failed password for invalid user default from port 41538 ssh2,2
+55a03420,Invalid user boot from 183.62.140.253,1
+56777d92,Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2,1
+56c6f5f4,Failed password for invalid user jay from 187.141.143.180 port 60259 ssh2,1
+57f7e6f3,"Failed password for invalid user ubuntu from port *{1,1} ssh2",2
+583d5e9d,Failed password for invalid user ingrid from 187.141.143.180 port 58682 ssh2,1
+587bbf97,input_userauth_request: invalid user ghost [preauth],1
+5884cc10,Failed password for invalid user ghost from 187.141.143.180 port 34759 ssh2,1
+592320b4,"Failed password for mysql from port *{1,1} ssh2",2
+5934618a,input_userauth_request: invalid user api [preauth],1
+596f3e42,input_userauth_request: invalid user default [preauth],1
+5ac8b3b3,Failed password for root from 106.5.5.195 port 50719 ssh2,1
+5b22478e,input_userauth_request: invalid user vnc [preauth],1
+5d0b0fda,Invalid user default from 5.188.10.180,1
+5e508998,Invalid user redhat from 187.141.143.180,1
+605cab5c,Invalid user 0 from,3
+66cfa6a4,Failed password for invalid user oralce from 187.141.143.180 port 40988 ssh2,1
+67b1b55d,Invalid user nagios1 from 187.141.143.180,1
+6816c458,Invalid user admin from,21
+6b58e508,Failed password for invalid user zhangyan from 183.62.140.253 port 33521 ssh2,1
+6b89b939,Invalid user postgres from 187.141.143.180,1
+6c4d5ecf,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=uucp,5
+701334a8,Invalid user cyrus from 187.141.143.180,1
+701d98c5,Failed password for invalid user matlab from 52.80.34.196 port 46199 ssh2,1
+72925f85,input_userauth_request: invalid user test9 [preauth],1
+73d8d742,Invalid user inspur from,3
+73f7e2f5,"Failed password for invalid user ubnt from port *{1,1} ssh2",2
+743c5f14,input_userauth_request: invalid user webmaster [preauth],2
+75a8a095,input_userauth_request: invalid user jay [preauth],1
+7704bfa3,Failed password for invalid user admin from port 44155 ssh2,5
+771d12f1,Invalid user eoor from 187.141.143.180,1
+79bb4632,input_userauth_request: invalid user 1234 [preauth],3
+7ab1b426,input_userauth_request: invalid user boot [preauth],1
+7e3d8170,input_userauth_request: invalid user 0 [preauth],3
+811869c6,PAM service(sshd) ignoring max retries; 5 > 3,4
+8153af81,"Failed password for invalid user anonymous from port *{1,1} ssh2",2
+8166a131,input_userauth_request: invalid user 123 [preauth],2
+8226696f,"Failed password for invalid user cisco from port *{1,1} ssh2",2
+82bcc619,message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2],1
+857e40a2,Failed password for invalid user 123456 from 183.62.140.253 port 49425 ssh2,1
+861ace84,input_userauth_request: invalid user user [preauth],4
+872cf8ac,Invalid user monitor from 103.99.0.122,1
+87b2e72a,Invalid user vnc from 187.141.143.180,1
+883224c8,Invalid user test1 from 187.141.143.180,1
+884880ba,input_userauth_request: invalid user sandeep [preauth],1
+89199bf3,input_userauth_request: invalid user dff [preauth],1
+8a190e95,Failed password for invalid user admin from port 49948 ssh2,2
+8a66dd6d,"Failed password for invalid user inspur from port *{1,1} ssh2",3
+8ccd857f,input_userauth_request: invalid user www [preauth],1
+8d14ff83,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,1
+8ded8cbe,Failed password for invalid user pi from 103.99.0.122 port 49289 ssh2,1
+8f9591a6,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=,110
+90797b51,PAM service(sshd) ignoring max retries; 6 > 3,3
+9093ad11,input_userauth_request: invalid user admin [preauth],21
+924e3ff4,Invalid user postgres1 from 187.141.143.180,1
+92ffcac4,Disconnecting: Too many authentication failures for admin [preauth],1
+936a0dca,Invalid user jay from 187.141.143.180,1
+937949b7,Invalid user webmaster from,2
+938278dc,Invalid user test from,5
+93e0151b,Invalid user ghost from 187.141.143.180,1
+9436c7f4,input_userauth_request: invalid user cheng [preauth],1
+954ef95c,Accepted password for fztu from 119.137.62.142 port 49116 ssh2,1
+95814c4b,Failed password for invalid user nagios from 187.141.143.180 port 55761 ssh2,1
+964a8e1e,Invalid user pgadmin from 112.95.230.3,1
+9828f553,input_userauth_request: invalid user ubuntu [preauth],2
+9e8592a9,input_userauth_request: invalid user anonymous [preauth],2
+9f7bd88a,Failed password for invalid user admin from port 60682 ssh2,5
+a16e4c15,Invalid user PlcmSpIp from 103.99.0.122,1
+a3a59f4c,input_userauth_request: invalid user abc [preauth],1
+a4501b2c,input_userauth_request: invalid user oralce [preauth],1
+a51dae6e,Invalid user sandeep from 88.147.143.242,1
+a55b668e,Invalid user FILTER from 104.192.3.34,1
+a5daa932,input_userauth_request: invalid user PlcmSpIp [preauth],1
+a65ca278,input_userauth_request: invalid user monitor [preauth],1
+a7f1429b,"Failed password for invalid user webmaster from port *{1,1} ssh2",2
+aab563ca,Received disconnect from 119.137.62.142: 11: disconnected by user,1
+abe2bf46,Invalid user ubuntu from,2
+ac199699,Failed password for root from port 35113 ssh2,2
+ad00fabe,input_userauth_request: invalid user matlab [preauth],3
+ad01e61b,Failed password for invalid user operator from 103.99.0.122 port 53492 ssh2,1
+adcf6ef3,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=mysql,2
+b0592481,Failed password for invalid user nagios1 from 187.141.143.180 port 43647 ssh2,1
+b13609e1,input_userauth_request: invalid user operator [preauth],1
+b5cce4c1,Invalid user ingrid from 187.141.143.180,1
+b6b2056e,input_userauth_request: invalid user oracle [preauth],6
+b94349a6,input_userauth_request: invalid user butter [preauth],1
+baf29009,input_userauth_request: invalid user redhat [preauth],1
+bb41902f,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,1
+bd7e4e2c,input_userauth_request: invalid user utsims [preauth],1
+bdb2f186,"Failed password for sshd from port *{1,1} ssh2",2
+beec551f,Invalid user oralce from 187.141.143.180,1
+c098483b,Invalid user ftpuser from,2
+c10ce4f0,"Failed none for invalid user 0 from port *{1,1} ssh2",2
+c2d53c91,Failed password for invalid user admin from port 2191 ssh2,6
+c2eac549,"Failed password for invalid user test from port *{1,1} ssh2",4
+c348551d,input_userauth_request: invalid user test1 [preauth],1
+c4947f9f,input_userauth_request: invalid user FILTER [preauth],1
+c5a880e9,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root,1
+c6df8943,input_userauth_request: invalid user pgadmin [preauth],1
+c7df47ce,Received disconnect from : 11: Bye Bye [preauth],413
+ca452287,"Failed password for invalid user admin from port *{1,1} ssh2",13
+ca5fb77a,Failed password for invalid user test1 from 187.141.143.180 port 46519 ssh2,1
+cadf9bca,"Failed password for invalid user support from port *{1,1} ssh2",6
+cd013ec5,input_userauth_request: invalid user ted [preauth],1
+cd05207d,Failed password for invalid user sandeep from 88.147.143.242 port 49316 ssh2,1
+cd49ce34,message repeated 5 times: [ Failed password for root from 106.5.5.195 port 50719 ssh2],1
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+d0dda156,Failed password for invalid user postgres from 187.141.143.180 port 54596 ssh2,1
+d2082b6a,Connection closed by [preauth],34
+d221f73e,Invalid user chen from 202.100.179.208,1
+d3791cd3,Failed password for invalid user test9 from 52.80.34.196 port 36060 ssh2,1
+d3d8a20f,"Failed password for uucp from port *{1,1} ssh2",5
+d6952e95,"Failed password for invalid user oracle from port *{1,1} ssh2",6
+d7d2a2cc,Failed password for invalid user vnc from 187.141.143.180 port 60547 ssh2,1
+d7e5bd13,Invalid user cheng from 202.100.179.208,1
+d9280d08,"Failed password for root from port *{1,1} ssh2",361
+db6d5079,Invalid user matlab from,3
+dbcdd02a,input_userauth_request: invalid user zhangyan [preauth],1
+dc4de35d,error: Received disconnect from : 14: No more user authentication methods available. [preauth],45
+dcd5d131,Failed password for invalid user admin from port 59647 ssh2,5
+dd7fb8b6,Invalid user pi from 103.99.0.122,1
+ddec2f5b,Failed password for invalid user FILTER from 104.192.3.34 port 33738 ssh2,1
+def3e17f,input_userauth_request: invalid user nagios [preauth],1
+dfc3fffb,PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=185.190.58.151,1
+e1de77db,Failed password for invalid user bssh from 187.141.143.180 port 49412 ssh2,1
+e24e2351,"Failed password for invalid user ftpuser from port *{1,1} ssh2",2
+e3348178,Failed password for invalid user deploy from 187.141.143.180 port 39710 ssh2,1
+e3fcc92f,"Failed password for git from port *{1,1} ssh2",3
+e41dfd5b,Failed password for invalid user utsims from 112.95.230.3 port 41506 ssh2,1
+e4944d82,Failed password for invalid user admin from port 41650 ssh2,5
+e52ad97a,input_userauth_request: invalid user nagios1 [preauth],1
+e56eb143,Invalid user user from,4
+e58424a5,Invalid user api from 185.190.58.151,1
+e81f9c49,Failed password for invalid user matlab from port 36060 ssh2,2
+e82ea134,Failed password for invalid user deploy from 187.141.143.180 port 38606 ssh2,1
+ea611644,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=root,368
+eaef1b91,input_userauth_request: invalid user test2 [preauth],1
+ec324fa5,Invalid user deploy from,2
+ec5d1483,Invalid user bssh from 187.141.143.180,1
+ed4408ca,Failed password for root from 5.36.59.76 port 42393 ssh2,1
+ef6b8e85,input_userauth_request: invalid user eoor [preauth],1
+ef6e03db,input_userauth_request: invalid user ftpuser [preauth],2
+f1d71718,Did not receive identification string from,10
+f1ec9dcb,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost= user=sshd,2
+f2c6168c,Invalid user guest from,3
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1
+f3632775,Failed password for invalid user 0 from 5.188.10.180 port 49811 ssh2,1
+f61317cd,"Failed password for invalid user guest from port *{1,1} ssh2",3
+f613ac21,error: Received disconnect from : 3: : Auth fail [preauth],2
+f6f2eb6f,Failed password for invalid user chen from 202.100.179.208 port 32484 ssh2,1
+f86b40ac,Disconnecting: Too many authentication failures for root [preauth],2
+f98eece7,"Failed password for invalid user 123 from port *{1,1} ssh2",2
+fd4c42c7,Failed password for invalid user test2 from 187.141.143.180 port 48023 ssh2,1

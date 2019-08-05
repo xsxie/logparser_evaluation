@@ -1,0 +1,40 @@
+EventId,EventTemplate,Occurrences
+22f09f7d,Component State Change : Component \042SCSI-WWID : 01000010 : 6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state ( HWID = 1973 ),1
+71b596d1,Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = * ),11
+32edb4b4,* ( command * ),141
+b4e25afc,Command has completed successfully,10
+f049915c,Targeting domains : * and nodes : node- [ * ] child of command #spec#,5
+8a778976,Targeting domains : node-D7 and nodes : node- [ 224\ 228\ 232 ],1
+2989473d,Targeting domains : node-D0 and nodes : node-0,1
+863b1d97,Targeting domains : node-D [ 0\ 5 ] and nodes : node- [ 27\ 191 ],1
+e3573773,Targeting domains : node-D2 and nodes : node-84,1
+03a1a599,psu failure\ ambient = *,5
+a34a2cea,Temperature ( 41C ) exceeds warning threshold,2
+f832ef8a,ClusterFileSystem : There is no server for ServerFileSystem domain *,32
+7ec617ba,NIFF : node * detected a failed network connection on network #spec# via interface alt0,2
+1a56db26,ServerFileSystem : An ServerFileSystem domain panic has occurred on storage442,1
+40550cfa,Fan speeds ( #spec# 3534 #spec# * #spec# 3479 ),88
+52797e7b,Fan speeds ( #spec# 3552 #spec# **** #spec# 3497 ),2
+5452c51c,Command has been aborted,1
+e13d082a,power/control problem,1
+872224b6,Link *,26
+db5aa7f9,Link in reset,9
+d3c58961,Link error on broadcast tree Interconnect-0T00 : 00 : 2 : 1,1
+4f81b9d1,Link error on broadcast tree Interconnect-1T00 : 00 : 3 : 6,1
+0c9893ad,Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0,2
+22ecc21a,ServerFileSystem : ServerFileSystem domain * is full,12
+f1b6c988,ClusterFileSystem : ServerFileSystem domain * is no longer served by node *,36
+3389dae3,*,616
+b02b9741,not responding,60
+8cfafe98,configured out,91
+5d25f8bd,inconsistent nodesets node-160 #spec# < ok > node-161 #spec# < ok > node-162 #spec# < ok > node-163 #spec# < ok >,1
+ae73a592,inconsistent nodesets node-32 #spec# < ok > node-34 #spec# < ok > node-33 #spec# < ok > node-35 #spec# < ok >,1
+d06c754b,inconsistent nodesets node-1 #spec# < ok > node-2 #spec# < ok > node-7 #spec# < ok > node-4 #spec# < ok > node-6 #spec# < ok > node-5 #spec# < ok > node-3 #spec# < ok > node-14 #spec# < ok > node-13 #spec# < ok > node-12 #spec# < ok > node-10 #spec# < ok > node-16 #spec# < ok > node-15 #spec# < ok >,1
+e1a2c080,inconsistent nodesets node-31 #spec# < ok > node-0 #spec# < ok > node-1 #spec# < ok > node-2 #spec# < ok > node-30 #spec# < ok >,1
+0a78ee50,ambient = *,292
+9050ee25,Linkerror event interval expired,394
+4c14340e,risBoot ( command 1903 ) Error : Timed out while waiting for SRM prompt : < ABORT code completed >,1
+824c466d,boot ( command 2092 ) Error : HALT asserted\ cannot continue,1
+0c3f204d,Failed subcommands #spec#,1
+551adf73,link errors remain current,56
+682c642b,NIFF : node * has detected an available network connection on network #spec# via interface *,91

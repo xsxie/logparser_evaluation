@@ -1,0 +1,53 @@
+EventId,EventTemplate,Occurrences
+8c7b6197,Loaded Servicing Stack v6.1.7601.23505 with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.23505_none_681aa442f6fed7f0\cbscore.dll,2
+13caa1c5,<*> WcpInitialize (wcp.dll version 0.0.0.6) called (stack <*>,6
+13caa1c5,Ending TrustedInstaller initialization.,6
+13caa1c5,<*> the TrustedInstaller main loop.,6
+2d8b5399,TrustedInstaller service starts successfully.,2
+aada5acd,SQM: Initializing online with Windows opt-in: False,3
+70236f55,SQM: Cleaning up report files older than 10 days.,2
+492269e4,SQM: Requesting upload of all unsent reports.,2
+88c7a286,"SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: [HRESULT = - E_FAIL]",2
+7e5b1617,SQM: Failed to start standard sample upload. [HRESULT = - E_FAIL],2
+46d389f4,"SQM: Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6",2
+f288a49d,SQM: Warning: Failed to upload all unsent reports. [HRESULT = - E_FAIL],2
+500cb726,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.",2
+52e1fcef,NonStart: Checking to ensure startup processing was not required.,2
+6342ae85,"00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = <*>",2
+b756d24a,"<*> Creating NT transaction (seq <*> objectname [6]""(null)""",2
+82206fcd,00000006 Created NT transaction (seq 1) result handle <*>,2
+af6dad2f,<*> CSI perf trace:,2
+1136cd1d,"NonStart: Success, startup processing not required as expected.",2
+0d5fb9ff,<*> processing thread terminated normally,3
+c7e0e082,00000008 CSI Store 4991456 (initialized,2
+859b86c8,Session: <*> initialized by client WindowsUpdateAgent.,3
+f9175e1a,Warning: Unrecognized packageExtended attribute.,1
+08fb5d73,Expecting attribute name [HRESULT = - CBS_E_MANIFEST_INVALID_ITEM],608
+08fb5d73,Failed to get next element [HRESULT = - CBS_E_MANIFEST_INVALID_ITEM],608
+39b783c8,Failed to internally open package. [HRESULT = - CBS_E_INVALID_PACKAGE],280
+a80a94eb,Read out cached package applicability for package: <*> ApplicableState: <*> <*>,224
+71c8e0c3,Failed to create backup log cab. [HRESULT = - ERROR_INVALID_FUNCTION],224
+39b783c8,Reboot mark refs incremented to: 1,280
+a80a94eb,Scavenge: Starts,224
+71c8e0c3,"00000009@2016/9/27:20:40:53.744 CSI Transaction @initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]""TI6.0_0:0/""",224
+39b783c8,Scavenge: Begin CSI Store,280
+a80a94eb,0000000a Performing 1 operations; 1 are not lock/unlock and follow:,224
+71c8e0c3,"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.",224
+39b783c8,0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7,280
+a80a94eb,0000000e Created NT transaction (seq 2) result handle @0xb8,224
+71c8e0c3,"Scavenge: Completed, disposition: 0X1",224
+39b783c8,00000010@2016/9/27:20:40:54.787 CSI Transaction @destroyed,280
+39b783c8,Reboot mark refs: 0,280
+a80a94eb,Starting TrustedInstaller finalization.,224
+71c8e0c3,Ending TrustedInstaller finalization.,224
+39b783c8,Starting TrustedInstaller initialization.,280
+a80a94eb,"00000005 Creating NT transaction (seq 1), objectname [6]""(null)""",224
+71c8e0c3,Loading offline registry hive: <*> into registry key <*> from path <*>,224
+39b783c8,Offline image is: read-only,280
+a80a94eb,"Disabling manifest caching, because the image is not writeable.",224
+71c8e0c3,00000008@2016/9/28:16:00:46.635 PopulateComponentFamiliesKey - Begin,224
+39b783c8,00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End,280
+a80a94eb,0000000a CSI Store 17159600 (initialized,224
+71c8e0c3,Session: 11152_142416105 initialized by client SPP.,224
+39b783c8,Unloading offline registry hive: <*>,280
+39b783c8,0000000b CSI Store 3065408 (initialized,280
